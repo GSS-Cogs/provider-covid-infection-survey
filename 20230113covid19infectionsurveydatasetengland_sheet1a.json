@@ -33,7 +33,7 @@
         "percentage_pop_est": {
             "type": "observations",
             "measure": {
-                "label": "Estimated percentage of population testing positive for COVID-19"
+                "label": "Estimated average % of the population testing positive for COVID-19"
             },
             "unit": {
                 "label": "Percentage",
@@ -43,7 +43,7 @@
         "percentage_pop_est_lci": {
             "type": "observations",
             "measure": {
-                "label": "Estimated percentage of population testing positive for COVID-19, lower credible interval"
+                "label": "95% Lower confidence/credible interval for percentage"
             },
             "unit": {
                 "label": "Percentage",
@@ -53,7 +53,7 @@
         "percentage_pop_est_uci": {
             "type": "observations",
             "measure": {
-                "label": "Estimated percentage of population testing positive for COVID-19, upper credible interval"
+                "label": "95% Upper confidence/credible interval for percentage"
             },
             "unit": {
                 "label": "Percentage",
@@ -64,7 +64,7 @@
             "type": "observations",
             "data_type": "int",
             "measure": {
-                "label": "Estimated number of people testing positive for COVID-19"
+                "label": "Estimated average number of people testing positive for COVID-19"
             },
             "unit": {
                 "label": "Number",
@@ -75,7 +75,7 @@
             "type": "observations",
             "data_type": "int",
             "measure": {
-                "label": "Estimated number of people testing positive for COVID-19, lower credible interval"
+                "label": "95% Lower confidence/credible interval for number"
             },
             "unit": {
                 "label": "Number",
@@ -86,7 +86,7 @@
             "type": "observations",
             "data_type": "int",
             "measure": {
-                "label": "Estimated number of people testing positive for COVID-19, upper credible interval"
+                "label": "95% Upper confidence/credible interval for number"
             },
             "unit": {
                 "label": "Number",
