@@ -1,0 +1,97 @@
+{
+    "$schema": "https://purl.org/csv-cubed/qube-config/v1",
+    "title": "Official reported estimates of the percentage of the population testing positive for COVID-19, England",
+    "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "description": "COVID-19 modelling output for England",
+    "dataset_issued": "2023-01-13",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [
+        "covid-19",
+        "covid",
+        "coronavirus",
+        "england",
+        "model",
+        "modelling",
+        "output"
+    ],
+    "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+    "summary": "Official reported estimates of the percentage of the population testing positive for COVID-19, England, 27 April 2020 to 3 January 2023",
+    "themes": [
+        "health"
+    ],
+    "columns": {
+        "week": {
+            "from_template": "week"
+        },
+        "ons_geog_code": {
+            "type": "dimension",
+            "label": "Geography",
+            "code_list": false,
+            "cell_uri_template": "http://statistics.data.gov.uk/id/statistical-geography/{+ons_geog_code}",
+            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
+        },
+        "percentage_pop_est": {
+            "type": "observations",
+            "measure": {
+                "label": "Estimated percentage of population testing positive for COVID-19"
+            },
+            "unit": {
+                "label": "Percentage",
+                "from_existing": "http://qudt.org/vocab/unit/PERCENT"
+            }
+        },
+        "percentage_pop_est_lci": {
+            "type": "observations",
+            "measure": {
+                "label": "Estimated percentage of population testing positive for COVID-19, lower credible interval"
+            },
+            "unit": {
+                "label": "Percentage",
+                "from_existing": "http://qudt.org/vocab/unit/PERCENT"
+            }
+        },
+        "percentage_pop_est_uci": {
+            "type": "observations",
+            "measure": {
+                "label": "Estimated percentage of population testing positive for COVID-19, upper credible interval"
+            },
+            "unit": {
+                "label": "Percentage",
+                "from_existing": "http://qudt.org/vocab/unit/PERCENT"
+            }
+        },
+        "pop_est": {
+            "type": "observations",
+            "data_type": "int",
+            "measure": {
+                "label": "Estimated number of people testing positive for COVID-19"
+            },
+            "unit": {
+                "label": "Number",
+                "from_existing": "http://qudt.org/vocab/unit/NUM"
+            }
+        },
+        "pop_est_lci": {
+            "type": "observations",
+            "data_type": "int",
+            "measure": {
+                "label": "Estimated number of people testing positive for COVID-19, lower credible interval"
+            },
+            "unit": {
+                "label": "Number",
+                "from_existing": "http://qudt.org/vocab/unit/NUM"
+            }
+        },
+        "pop_est_uci": {
+            "type": "observations",
+            "data_type": "int",
+            "measure": {
+                "label": "Estimated number of people testing positive for COVID-19, upper credible interval"
+            },
+            "unit": {
+                "label": "Number",
+                "from_existing": "http://qudt.org/vocab/unit/NUM"
+            }
+        }
+    }
+}
