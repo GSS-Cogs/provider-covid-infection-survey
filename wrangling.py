@@ -25,17 +25,8 @@ def wrangle(input_path: Path(), output_path: Path()):
     df["start_date"] = pd.to_datetime(df["start_date"])
     df["end_date"] = pd.to_datetime(df["end_date"])
 
-    df["period_length"] = (df["end_date"] - df["start_date"]).dt.days
-
-    # df["period"] = df["start_date"].strftime("%Y-%m-%dT00:00:00").apply(lambda x: x + "/P")
-    # TODO: THE NONSENSE ABOVE
-
-    logger.info("Convert start_date to Week ISO format")
-    df["week"] = (
-        df["start_date"]
-        .dt.year.astype(str)
-        .str.cat(df["start_date"].dt.isocalendar().week.astype(str), sep="-W")
-    )
+    # Calculate period length
+    df["period"] = df["start_date"].dt.strftime("%Y-%m-%d").str.cat(df["end_date"].dt.strftime("%Y-%m-%d"), sep="/")
 
     logger.info("Rename observation columns")
     rename_columns = {
@@ -48,18 +39,13 @@ def wrangle(input_path: Path(), output_path: Path()):
     }
     df = df.rename(columns=rename_columns)
 
-    logger.info(
-        "Drop duplicates based on week, assume last value is most recent NOT VALID FOR ANALYSIS"
-    )
-    df.drop_duplicates(subset="week", keep="last", inplace=True)
-
     logging.info("Adding geography code for England")
     df["ons_geog_code"] = "E92000001"
 
     logger.info("Project & save as csv")
     df[
         [
-            "week",
+            "period",
             "ons_geog_code",
             "percentage_pop_est",
             "percentage_pop_est_lci",

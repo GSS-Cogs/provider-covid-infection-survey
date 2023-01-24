@@ -1,0 +1,2633 @@
+X,region,time,mean,ll,ul,country,variant
+1,Northern Ireland,09/11/2022,0,0,0,Northern Ireland,ctall
+2,Northern Ireland,10/11/2022,0,0,0,Northern Ireland,ctall
+3,Northern Ireland,11/11/2022,0,0,0,Northern Ireland,ctall
+4,Northern Ireland,12/11/2022,0,0,0,Northern Ireland,ctall
+5,Northern Ireland,13/11/2022,0,0,0,Northern Ireland,ctall
+6,Northern Ireland,14/11/2022,0,0,0,Northern Ireland,ctall
+7,Northern Ireland,15/11/2022,0,0,0,Northern Ireland,ctall
+8,Northern Ireland,16/11/2022,0,0,0,Northern Ireland,ctall
+9,Northern Ireland,17/11/2022,0,0,0,Northern Ireland,ctall
+10,Northern Ireland,18/11/2022,0,0,0,Northern Ireland,ctall
+11,Northern Ireland,19/11/2022,0,0,0,Northern Ireland,ctall
+12,Northern Ireland,20/11/2022,0,0,0,Northern Ireland,ctall
+13,Northern Ireland,21/11/2022,0,0,0,Northern Ireland,ctall
+14,Northern Ireland,22/11/2022,0,0,0,Northern Ireland,ctall
+15,Northern Ireland,23/11/2022,0,0,0,Northern Ireland,ctall
+16,Northern Ireland,24/11/2022,0,0,0,Northern Ireland,ctall
+17,Northern Ireland,25/11/2022,0,0,0,Northern Ireland,ctall
+18,Northern Ireland,26/11/2022,0,0,0,Northern Ireland,ctall
+19,Northern Ireland,27/11/2022,0,0,0,Northern Ireland,ctall
+20,Northern Ireland,28/11/2022,0,0,0,Northern Ireland,ctall
+21,Northern Ireland,29/11/2022,0,0,0,Northern Ireland,ctall
+22,Northern Ireland,30/11/2022,0,0,0,Northern Ireland,ctall
+23,Northern Ireland,01/12/2022,0,0,0,Northern Ireland,ctall
+24,Northern Ireland,02/12/2022,0,0,0,Northern Ireland,ctall
+25,Northern Ireland,03/12/2022,0,0,0,Northern Ireland,ctall
+26,Northern Ireland,04/12/2022,0,0,0,Northern Ireland,ctall
+27,Northern Ireland,05/12/2022,0,0,0,Northern Ireland,ctall
+28,Northern Ireland,06/12/2022,0,0,0,Northern Ireland,ctall
+29,Northern Ireland,07/12/2022,0,0,0,Northern Ireland,ctall
+30,Northern Ireland,08/12/2022,0,0,0,Northern Ireland,ctall
+31,Northern Ireland,09/12/2022,0,0,0,Northern Ireland,ctall
+32,Northern Ireland,10/12/2022,0,0,0,Northern Ireland,ctall
+33,Northern Ireland,11/12/2022,0,0,0,Northern Ireland,ctall
+34,Northern Ireland,12/12/2022,0,0,0,Northern Ireland,ctall
+35,Northern Ireland,13/12/2022,0,0,0,Northern Ireland,ctall
+36,Northern Ireland,14/12/2022,0,0,0,Northern Ireland,ctall
+37,Northern Ireland,15/12/2022,0,0,0,Northern Ireland,ctall
+38,Northern Ireland,16/12/2022,0,0,0,Northern Ireland,ctall
+39,Northern Ireland,17/12/2022,0,0,0,Northern Ireland,ctall
+40,Northern Ireland,18/12/2022,0,0,0,Northern Ireland,ctall
+41,Northern Ireland,19/12/2022,0,0,0,Northern Ireland,ctall
+42,Northern Ireland,20/12/2022,0,0,0,Northern Ireland,ctall
+43,Northern Ireland,21/12/2022,0,0,0,Northern Ireland,ctall
+44,Northern Ireland,22/12/2022,0,0,0,Northern Ireland,ctall
+45,Northern Ireland,23/12/2022,0,0,0,Northern Ireland,ctall
+46,Northern Ireland,24/12/2022,0,0,0,Northern Ireland,ctall
+47,Northern Ireland,25/12/2022,0,0,0,Northern Ireland,ctall
+48,Northern Ireland,26/12/2022,0,0,0,Northern Ireland,ctall
+49,Northern Ireland,27/12/2022,0,0,0,Northern Ireland,ctall
+50,Northern Ireland,28/12/2022,0,0,0,Northern Ireland,ctall
+51,Northern Ireland,29/12/2022,0,0,0,Northern Ireland,ctall
+52,Northern Ireland,30/12/2022,0,0,0,Northern Ireland,ctall
+53,Northern Ireland,31/12/2022,0,0,0,Northern Ireland,ctall
+54,Northern Ireland,01/01/2023,0,0,0,Northern Ireland,ctall
+55,Northern Ireland,02/01/2023,0,0,0,Northern Ireland,ctall
+56,Northern Ireland,03/01/2023,0,0,0,Northern Ireland,ctall
+57,Northern Ireland,09/11/2022,0,0,0,Northern Ireland,ct4
+58,Northern Ireland,10/11/2022,0,0,0,Northern Ireland,ct4
+59,Northern Ireland,11/11/2022,0,0,0,Northern Ireland,ct4
+60,Northern Ireland,12/11/2022,0,0,0,Northern Ireland,ct4
+61,Northern Ireland,13/11/2022,0,0,0,Northern Ireland,ct4
+62,Northern Ireland,14/11/2022,0,0,0,Northern Ireland,ct4
+63,Northern Ireland,15/11/2022,0,0,0,Northern Ireland,ct4
+64,Northern Ireland,16/11/2022,0,0,0,Northern Ireland,ct4
+65,Northern Ireland,17/11/2022,0,0,0,Northern Ireland,ct4
+66,Northern Ireland,18/11/2022,0,0,0,Northern Ireland,ct4
+67,Northern Ireland,19/11/2022,0,0,0,Northern Ireland,ct4
+68,Northern Ireland,20/11/2022,0,0,0,Northern Ireland,ct4
+69,Northern Ireland,21/11/2022,0,0,0,Northern Ireland,ct4
+70,Northern Ireland,22/11/2022,0,0,0,Northern Ireland,ct4
+71,Northern Ireland,23/11/2022,0,0,0,Northern Ireland,ct4
+72,Northern Ireland,24/11/2022,0,0,0,Northern Ireland,ct4
+73,Northern Ireland,25/11/2022,0,0,0,Northern Ireland,ct4
+74,Northern Ireland,26/11/2022,0,0,0,Northern Ireland,ct4
+75,Northern Ireland,27/11/2022,0,0,0,Northern Ireland,ct4
+76,Northern Ireland,28/11/2022,0,0,0,Northern Ireland,ct4
+77,Northern Ireland,29/11/2022,0,0,0,Northern Ireland,ct4
+78,Northern Ireland,30/11/2022,0,0,0,Northern Ireland,ct4
+79,Northern Ireland,01/12/2022,0,0,0,Northern Ireland,ct4
+80,Northern Ireland,02/12/2022,0,0,0,Northern Ireland,ct4
+81,Northern Ireland,03/12/2022,0,0,0,Northern Ireland,ct4
+82,Northern Ireland,04/12/2022,0,0,0,Northern Ireland,ct4
+83,Northern Ireland,05/12/2022,0,0,0,Northern Ireland,ct4
+84,Northern Ireland,06/12/2022,0,0,0,Northern Ireland,ct4
+85,Northern Ireland,07/12/2022,0,0,0,Northern Ireland,ct4
+86,Northern Ireland,08/12/2022,0,0,0,Northern Ireland,ct4
+87,Northern Ireland,09/12/2022,0,0,0,Northern Ireland,ct4
+88,Northern Ireland,10/12/2022,0,0,0,Northern Ireland,ct4
+89,Northern Ireland,11/12/2022,0,0,0,Northern Ireland,ct4
+90,Northern Ireland,12/12/2022,0,0,0,Northern Ireland,ct4
+91,Northern Ireland,13/12/2022,0,0,0,Northern Ireland,ct4
+92,Northern Ireland,14/12/2022,0,0,0,Northern Ireland,ct4
+93,Northern Ireland,15/12/2022,0,0,0,Northern Ireland,ct4
+94,Northern Ireland,16/12/2022,0,0,0,Northern Ireland,ct4
+95,Northern Ireland,17/12/2022,0,0,0,Northern Ireland,ct4
+96,Northern Ireland,18/12/2022,0,0,0,Northern Ireland,ct4
+97,Northern Ireland,19/12/2022,0,0,0,Northern Ireland,ct4
+98,Northern Ireland,20/12/2022,0,0,0,Northern Ireland,ct4
+99,Northern Ireland,21/12/2022,0,0,0,Northern Ireland,ct4
+100,Northern Ireland,22/12/2022,0,0,0,Northern Ireland,ct4
+101,Northern Ireland,23/12/2022,0,0,0,Northern Ireland,ct4
+102,Northern Ireland,24/12/2022,0,0,0,Northern Ireland,ct4
+103,Northern Ireland,25/12/2022,0,0,0,Northern Ireland,ct4
+104,Northern Ireland,26/12/2022,0,0,0,Northern Ireland,ct4
+105,Northern Ireland,27/12/2022,0,0,0,Northern Ireland,ct4
+106,Northern Ireland,28/12/2022,0,0,0,Northern Ireland,ct4
+107,Northern Ireland,29/12/2022,0,0,0,Northern Ireland,ct4
+108,Northern Ireland,30/12/2022,0,0,0,Northern Ireland,ct4
+109,Northern Ireland,31/12/2022,0,0,0,Northern Ireland,ct4
+110,Northern Ireland,01/01/2023,0,0,0,Northern Ireland,ct4
+111,Northern Ireland,02/01/2023,0,0,0,Northern Ireland,ct4
+112,Northern Ireland,03/01/2023,0,0,0,Northern Ireland,ct4
+113,Northern Ireland,09/11/2022,0,0,0,Northern Ireland,ct7
+114,Northern Ireland,10/11/2022,0,0,0,Northern Ireland,ct7
+115,Northern Ireland,11/11/2022,0,0,0,Northern Ireland,ct7
+116,Northern Ireland,12/11/2022,0,0,0,Northern Ireland,ct7
+117,Northern Ireland,13/11/2022,0,0,0,Northern Ireland,ct7
+118,Northern Ireland,14/11/2022,0,0,0,Northern Ireland,ct7
+119,Northern Ireland,15/11/2022,0,0,0,Northern Ireland,ct7
+120,Northern Ireland,16/11/2022,0,0,0,Northern Ireland,ct7
+121,Northern Ireland,17/11/2022,0,0,0,Northern Ireland,ct7
+122,Northern Ireland,18/11/2022,0,0,0,Northern Ireland,ct7
+123,Northern Ireland,19/11/2022,0,0,0,Northern Ireland,ct7
+124,Northern Ireland,20/11/2022,0,0,0,Northern Ireland,ct7
+125,Northern Ireland,21/11/2022,0,0,0,Northern Ireland,ct7
+126,Northern Ireland,22/11/2022,0,0,0,Northern Ireland,ct7
+127,Northern Ireland,23/11/2022,0,0,0,Northern Ireland,ct7
+128,Northern Ireland,24/11/2022,0,0,0,Northern Ireland,ct7
+129,Northern Ireland,25/11/2022,0,0,0,Northern Ireland,ct7
+130,Northern Ireland,26/11/2022,0,0,0,Northern Ireland,ct7
+131,Northern Ireland,27/11/2022,0,0,0,Northern Ireland,ct7
+132,Northern Ireland,28/11/2022,0,0,0,Northern Ireland,ct7
+133,Northern Ireland,29/11/2022,0,0,0,Northern Ireland,ct7
+134,Northern Ireland,30/11/2022,0,0,0,Northern Ireland,ct7
+135,Northern Ireland,01/12/2022,0,0,0,Northern Ireland,ct7
+136,Northern Ireland,02/12/2022,0,0,0,Northern Ireland,ct7
+137,Northern Ireland,03/12/2022,0,0,0,Northern Ireland,ct7
+138,Northern Ireland,04/12/2022,0,0,0,Northern Ireland,ct7
+139,Northern Ireland,05/12/2022,0,0,0,Northern Ireland,ct7
+140,Northern Ireland,06/12/2022,0,0,0,Northern Ireland,ct7
+141,Northern Ireland,07/12/2022,0,0,0,Northern Ireland,ct7
+142,Northern Ireland,08/12/2022,0,0,0,Northern Ireland,ct7
+143,Northern Ireland,09/12/2022,0,0,0,Northern Ireland,ct7
+144,Northern Ireland,10/12/2022,0,0,0,Northern Ireland,ct7
+145,Northern Ireland,11/12/2022,0,0,0,Northern Ireland,ct7
+146,Northern Ireland,12/12/2022,0,0,0,Northern Ireland,ct7
+147,Northern Ireland,13/12/2022,0,0,0,Northern Ireland,ct7
+148,Northern Ireland,14/12/2022,0,0,0,Northern Ireland,ct7
+149,Northern Ireland,15/12/2022,0,0,0,Northern Ireland,ct7
+150,Northern Ireland,16/12/2022,0,0,0,Northern Ireland,ct7
+151,Northern Ireland,17/12/2022,0,0,0,Northern Ireland,ct7
+152,Northern Ireland,18/12/2022,0,0,0,Northern Ireland,ct7
+153,Northern Ireland,19/12/2022,0,0,0,Northern Ireland,ct7
+154,Northern Ireland,20/12/2022,0,0,0,Northern Ireland,ct7
+155,Northern Ireland,21/12/2022,0,0,0,Northern Ireland,ct7
+156,Northern Ireland,22/12/2022,0,0,0,Northern Ireland,ct7
+157,Northern Ireland,23/12/2022,0,0,0,Northern Ireland,ct7
+158,Northern Ireland,24/12/2022,0,0,0,Northern Ireland,ct7
+159,Northern Ireland,25/12/2022,0,0,0,Northern Ireland,ct7
+160,Northern Ireland,26/12/2022,0,0,0,Northern Ireland,ct7
+161,Northern Ireland,27/12/2022,0,0,0,Northern Ireland,ct7
+162,Northern Ireland,28/12/2022,0,0,0,Northern Ireland,ct7
+163,Northern Ireland,29/12/2022,0,0,0,Northern Ireland,ct7
+164,Northern Ireland,30/12/2022,0,0,0,Northern Ireland,ct7
+165,Northern Ireland,31/12/2022,0,0,0,Northern Ireland,ct7
+166,Northern Ireland,01/01/2023,0,0,0,Northern Ireland,ct7
+167,Northern Ireland,02/01/2023,0,0,0,Northern Ireland,ct7
+168,Northern Ireland,03/01/2023,0,0,0,Northern Ireland,ct7
+169,Northern Ireland,09/11/2022,0,0,0,Northern Ireland,ctnot4not7
+170,Northern Ireland,10/11/2022,0,0,0,Northern Ireland,ctnot4not7
+171,Northern Ireland,11/11/2022,0,0,0,Northern Ireland,ctnot4not7
+172,Northern Ireland,12/11/2022,0,0,0,Northern Ireland,ctnot4not7
+173,Northern Ireland,13/11/2022,0,0,0,Northern Ireland,ctnot4not7
+174,Northern Ireland,14/11/2022,0,0,0,Northern Ireland,ctnot4not7
+175,Northern Ireland,15/11/2022,0,0,0,Northern Ireland,ctnot4not7
+176,Northern Ireland,16/11/2022,0,0,0,Northern Ireland,ctnot4not7
+177,Northern Ireland,17/11/2022,0,0,0,Northern Ireland,ctnot4not7
+178,Northern Ireland,18/11/2022,0,0,0,Northern Ireland,ctnot4not7
+179,Northern Ireland,19/11/2022,0,0,0,Northern Ireland,ctnot4not7
+180,Northern Ireland,20/11/2022,0,0,0,Northern Ireland,ctnot4not7
+181,Northern Ireland,21/11/2022,0,0,0,Northern Ireland,ctnot4not7
+182,Northern Ireland,22/11/2022,0,0,0,Northern Ireland,ctnot4not7
+183,Northern Ireland,23/11/2022,0,0,0,Northern Ireland,ctnot4not7
+184,Northern Ireland,24/11/2022,0,0,0,Northern Ireland,ctnot4not7
+185,Northern Ireland,25/11/2022,0,0,0,Northern Ireland,ctnot4not7
+186,Northern Ireland,26/11/2022,0,0,0,Northern Ireland,ctnot4not7
+187,Northern Ireland,27/11/2022,0,0,0,Northern Ireland,ctnot4not7
+188,Northern Ireland,28/11/2022,0,0,0,Northern Ireland,ctnot4not7
+189,Northern Ireland,29/11/2022,0,0,0,Northern Ireland,ctnot4not7
+190,Northern Ireland,30/11/2022,0,0,0,Northern Ireland,ctnot4not7
+191,Northern Ireland,01/12/2022,0,0,0,Northern Ireland,ctnot4not7
+192,Northern Ireland,02/12/2022,0,0,0,Northern Ireland,ctnot4not7
+193,Northern Ireland,03/12/2022,0,0,0,Northern Ireland,ctnot4not7
+194,Northern Ireland,04/12/2022,0,0,0,Northern Ireland,ctnot4not7
+195,Northern Ireland,05/12/2022,0,0,0,Northern Ireland,ctnot4not7
+196,Northern Ireland,06/12/2022,0,0,0,Northern Ireland,ctnot4not7
+197,Northern Ireland,07/12/2022,0,0,0,Northern Ireland,ctnot4not7
+198,Northern Ireland,08/12/2022,0,0,0,Northern Ireland,ctnot4not7
+199,Northern Ireland,09/12/2022,0,0,0,Northern Ireland,ctnot4not7
+200,Northern Ireland,10/12/2022,0,0,0,Northern Ireland,ctnot4not7
+201,Northern Ireland,11/12/2022,0,0,0,Northern Ireland,ctnot4not7
+202,Northern Ireland,12/12/2022,0,0,0,Northern Ireland,ctnot4not7
+203,Northern Ireland,13/12/2022,0,0,0,Northern Ireland,ctnot4not7
+204,Northern Ireland,14/12/2022,0,0,0,Northern Ireland,ctnot4not7
+205,Northern Ireland,15/12/2022,0,0,0,Northern Ireland,ctnot4not7
+206,Northern Ireland,16/12/2022,0,0,0,Northern Ireland,ctnot4not7
+207,Northern Ireland,17/12/2022,0,0,0,Northern Ireland,ctnot4not7
+208,Northern Ireland,18/12/2022,0,0,0,Northern Ireland,ctnot4not7
+209,Northern Ireland,19/12/2022,0,0,0,Northern Ireland,ctnot4not7
+210,Northern Ireland,20/12/2022,0,0,0,Northern Ireland,ctnot4not7
+211,Northern Ireland,21/12/2022,0,0,0,Northern Ireland,ctnot4not7
+212,Northern Ireland,22/12/2022,0,0,0,Northern Ireland,ctnot4not7
+213,Northern Ireland,23/12/2022,0,0,0,Northern Ireland,ctnot4not7
+214,Northern Ireland,24/12/2022,0,0,0,Northern Ireland,ctnot4not7
+215,Northern Ireland,25/12/2022,0,0,0,Northern Ireland,ctnot4not7
+216,Northern Ireland,26/12/2022,0,0,0,Northern Ireland,ctnot4not7
+217,Northern Ireland,27/12/2022,0,0,0,Northern Ireland,ctnot4not7
+218,Northern Ireland,28/12/2022,0,0,0,Northern Ireland,ctnot4not7
+219,Northern Ireland,29/12/2022,0,0,0,Northern Ireland,ctnot4not7
+220,Northern Ireland,30/12/2022,0,0,0,Northern Ireland,ctnot4not7
+221,Northern Ireland,31/12/2022,0,0,0,Northern Ireland,ctnot4not7
+222,Northern Ireland,01/01/2023,0,0,0,Northern Ireland,ctnot4not7
+223,Northern Ireland,02/01/2023,0,0,0,Northern Ireland,ctnot4not7
+224,Northern Ireland,03/01/2023,0,0,0,Northern Ireland,ctnot4not7
+225,Wales,09/11/2022,0,0,0,Wales,ctall
+226,Wales,10/11/2022,0,0,0,Wales,ctall
+227,Wales,11/11/2022,0,0,0,Wales,ctall
+228,Wales,12/11/2022,0,0,0,Wales,ctall
+229,Wales,13/11/2022,0,0,0,Wales,ctall
+230,Wales,14/11/2022,0,0,0,Wales,ctall
+231,Wales,15/11/2022,0,0,0,Wales,ctall
+232,Wales,16/11/2022,0,0,0,Wales,ctall
+233,Wales,17/11/2022,0,0,0,Wales,ctall
+234,Wales,18/11/2022,0,0,0,Wales,ctall
+235,Wales,19/11/2022,0,0,0,Wales,ctall
+236,Wales,20/11/2022,0,0,0,Wales,ctall
+237,Wales,21/11/2022,0,0,0,Wales,ctall
+238,Wales,22/11/2022,0,0,0,Wales,ctall
+239,Wales,23/11/2022,0,0,0,Wales,ctall
+240,Wales,24/11/2022,0,0,0,Wales,ctall
+241,Wales,25/11/2022,0,0,0,Wales,ctall
+242,Wales,26/11/2022,0,0,0,Wales,ctall
+243,Wales,27/11/2022,0,0,0,Wales,ctall
+244,Wales,28/11/2022,0,0,0,Wales,ctall
+245,Wales,29/11/2022,0,0,0,Wales,ctall
+246,Wales,30/11/2022,0,0,0,Wales,ctall
+247,Wales,01/12/2022,0,0,0,Wales,ctall
+248,Wales,02/12/2022,0,0,0,Wales,ctall
+249,Wales,03/12/2022,0,0,0,Wales,ctall
+250,Wales,04/12/2022,0,0,0,Wales,ctall
+251,Wales,05/12/2022,0,0,0,Wales,ctall
+252,Wales,06/12/2022,0,0,0,Wales,ctall
+253,Wales,07/12/2022,0,0,0,Wales,ctall
+254,Wales,08/12/2022,0,0,0,Wales,ctall
+255,Wales,09/12/2022,0,0,0,Wales,ctall
+256,Wales,10/12/2022,0,0,0,Wales,ctall
+257,Wales,11/12/2022,0,0,0,Wales,ctall
+258,Wales,12/12/2022,0,0,0,Wales,ctall
+259,Wales,13/12/2022,0,0,0,Wales,ctall
+260,Wales,14/12/2022,0,0,0,Wales,ctall
+261,Wales,15/12/2022,0,0,0,Wales,ctall
+262,Wales,16/12/2022,0,0,0,Wales,ctall
+263,Wales,17/12/2022,0,0,0,Wales,ctall
+264,Wales,18/12/2022,0,0,0,Wales,ctall
+265,Wales,19/12/2022,0,0,0,Wales,ctall
+266,Wales,20/12/2022,0,0,0,Wales,ctall
+267,Wales,21/12/2022,0,0,0,Wales,ctall
+268,Wales,22/12/2022,0,0,0,Wales,ctall
+269,Wales,23/12/2022,0,0,0,Wales,ctall
+270,Wales,24/12/2022,0,0,0,Wales,ctall
+271,Wales,25/12/2022,0,0,0,Wales,ctall
+272,Wales,26/12/2022,0,0,0,Wales,ctall
+273,Wales,27/12/2022,0,0,0,Wales,ctall
+274,Wales,28/12/2022,0,0,0,Wales,ctall
+275,Wales,29/12/2022,0,0,0,Wales,ctall
+276,Wales,30/12/2022,0,0,0,Wales,ctall
+277,Wales,31/12/2022,0,0,0,Wales,ctall
+278,Wales,01/01/2023,0,0,0,Wales,ctall
+279,Wales,02/01/2023,0,0,0,Wales,ctall
+280,Wales,03/01/2023,0,0,0,Wales,ctall
+281,Wales,09/11/2022,0,0,0,Wales,ct4
+282,Wales,10/11/2022,0,0,0,Wales,ct4
+283,Wales,11/11/2022,0,0,0,Wales,ct4
+284,Wales,12/11/2022,0,0,0,Wales,ct4
+285,Wales,13/11/2022,0,0,0,Wales,ct4
+286,Wales,14/11/2022,0,0,0,Wales,ct4
+287,Wales,15/11/2022,0,0,0,Wales,ct4
+288,Wales,16/11/2022,0,0,0,Wales,ct4
+289,Wales,17/11/2022,0,0,0,Wales,ct4
+290,Wales,18/11/2022,0,0,0,Wales,ct4
+291,Wales,19/11/2022,0,0,0,Wales,ct4
+292,Wales,20/11/2022,0,0,0,Wales,ct4
+293,Wales,21/11/2022,0,0,0,Wales,ct4
+294,Wales,22/11/2022,0,0,0,Wales,ct4
+295,Wales,23/11/2022,0,0,0,Wales,ct4
+296,Wales,24/11/2022,0,0,0,Wales,ct4
+297,Wales,25/11/2022,0,0,0,Wales,ct4
+298,Wales,26/11/2022,0,0,0,Wales,ct4
+299,Wales,27/11/2022,0,0,0,Wales,ct4
+300,Wales,28/11/2022,0,0,0,Wales,ct4
+301,Wales,29/11/2022,0,0,0,Wales,ct4
+302,Wales,30/11/2022,0,0,0,Wales,ct4
+303,Wales,01/12/2022,0,0,0,Wales,ct4
+304,Wales,02/12/2022,0,0,0,Wales,ct4
+305,Wales,03/12/2022,0,0,0,Wales,ct4
+306,Wales,04/12/2022,0,0,0,Wales,ct4
+307,Wales,05/12/2022,0,0,0,Wales,ct4
+308,Wales,06/12/2022,0,0,0,Wales,ct4
+309,Wales,07/12/2022,0,0,0,Wales,ct4
+310,Wales,08/12/2022,0,0,0,Wales,ct4
+311,Wales,09/12/2022,0,0,0,Wales,ct4
+312,Wales,10/12/2022,0,0,0,Wales,ct4
+313,Wales,11/12/2022,0,0,0,Wales,ct4
+314,Wales,12/12/2022,0,0,0,Wales,ct4
+315,Wales,13/12/2022,0,0,0,Wales,ct4
+316,Wales,14/12/2022,0,0,0,Wales,ct4
+317,Wales,15/12/2022,0,0,0,Wales,ct4
+318,Wales,16/12/2022,0,0,0,Wales,ct4
+319,Wales,17/12/2022,0,0,0,Wales,ct4
+320,Wales,18/12/2022,0,0,0,Wales,ct4
+321,Wales,19/12/2022,0,0,0,Wales,ct4
+322,Wales,20/12/2022,0,0,0,Wales,ct4
+323,Wales,21/12/2022,0,0,0,Wales,ct4
+324,Wales,22/12/2022,0,0,0,Wales,ct4
+325,Wales,23/12/2022,0,0,0,Wales,ct4
+326,Wales,24/12/2022,0,0,0,Wales,ct4
+327,Wales,25/12/2022,0,0,0,Wales,ct4
+328,Wales,26/12/2022,0,0,0,Wales,ct4
+329,Wales,27/12/2022,0,0,0,Wales,ct4
+330,Wales,28/12/2022,0,0,0,Wales,ct4
+331,Wales,29/12/2022,0,0,0,Wales,ct4
+332,Wales,30/12/2022,0,0,0,Wales,ct4
+333,Wales,31/12/2022,0,0,0,Wales,ct4
+334,Wales,01/01/2023,0,0,0,Wales,ct4
+335,Wales,02/01/2023,0,0,0,Wales,ct4
+336,Wales,03/01/2023,0,0,0,Wales,ct4
+337,Wales,09/11/2022,0,0,0,Wales,ct7
+338,Wales,10/11/2022,0,0,0,Wales,ct7
+339,Wales,11/11/2022,0,0,0,Wales,ct7
+340,Wales,12/11/2022,0,0,0,Wales,ct7
+341,Wales,13/11/2022,0,0,0,Wales,ct7
+342,Wales,14/11/2022,0,0,0,Wales,ct7
+343,Wales,15/11/2022,0,0,0,Wales,ct7
+344,Wales,16/11/2022,0,0,0,Wales,ct7
+345,Wales,17/11/2022,0,0,0,Wales,ct7
+346,Wales,18/11/2022,0,0,0,Wales,ct7
+347,Wales,19/11/2022,0,0,0,Wales,ct7
+348,Wales,20/11/2022,0,0,0,Wales,ct7
+349,Wales,21/11/2022,0,0,0,Wales,ct7
+350,Wales,22/11/2022,0,0,0,Wales,ct7
+351,Wales,23/11/2022,0,0,0,Wales,ct7
+352,Wales,24/11/2022,0,0,0,Wales,ct7
+353,Wales,25/11/2022,0,0,0,Wales,ct7
+354,Wales,26/11/2022,0,0,0,Wales,ct7
+355,Wales,27/11/2022,0,0,0,Wales,ct7
+356,Wales,28/11/2022,0,0,0,Wales,ct7
+357,Wales,29/11/2022,0,0,0,Wales,ct7
+358,Wales,30/11/2022,0,0,0,Wales,ct7
+359,Wales,01/12/2022,0,0,0,Wales,ct7
+360,Wales,02/12/2022,0,0,0,Wales,ct7
+361,Wales,03/12/2022,0,0,0,Wales,ct7
+362,Wales,04/12/2022,0,0,0,Wales,ct7
+363,Wales,05/12/2022,0,0,0,Wales,ct7
+364,Wales,06/12/2022,0,0,0,Wales,ct7
+365,Wales,07/12/2022,0,0,0,Wales,ct7
+366,Wales,08/12/2022,0,0,0,Wales,ct7
+367,Wales,09/12/2022,0,0,0,Wales,ct7
+368,Wales,10/12/2022,0,0,0,Wales,ct7
+369,Wales,11/12/2022,0,0,0,Wales,ct7
+370,Wales,12/12/2022,0,0,0,Wales,ct7
+371,Wales,13/12/2022,0,0,0,Wales,ct7
+372,Wales,14/12/2022,0,0,0,Wales,ct7
+373,Wales,15/12/2022,0,0,0,Wales,ct7
+374,Wales,16/12/2022,0,0,0,Wales,ct7
+375,Wales,17/12/2022,0,0,0,Wales,ct7
+376,Wales,18/12/2022,0,0,0,Wales,ct7
+377,Wales,19/12/2022,0,0,0,Wales,ct7
+378,Wales,20/12/2022,0,0,0,Wales,ct7
+379,Wales,21/12/2022,0,0,0,Wales,ct7
+380,Wales,22/12/2022,0,0,0,Wales,ct7
+381,Wales,23/12/2022,0,0,0,Wales,ct7
+382,Wales,24/12/2022,0,0,0,Wales,ct7
+383,Wales,25/12/2022,0,0,0,Wales,ct7
+384,Wales,26/12/2022,0,0,0,Wales,ct7
+385,Wales,27/12/2022,0,0,0,Wales,ct7
+386,Wales,28/12/2022,0,0,0,Wales,ct7
+387,Wales,29/12/2022,0,0,0,Wales,ct7
+388,Wales,30/12/2022,0,0,0,Wales,ct7
+389,Wales,31/12/2022,0,0,0,Wales,ct7
+390,Wales,01/01/2023,0,0,0,Wales,ct7
+391,Wales,02/01/2023,0,0,0,Wales,ct7
+392,Wales,03/01/2023,0,0,0,Wales,ct7
+393,Wales,09/11/2022,0,0,0,Wales,ctnot4not7
+394,Wales,10/11/2022,0,0,0,Wales,ctnot4not7
+395,Wales,11/11/2022,0,0,0,Wales,ctnot4not7
+396,Wales,12/11/2022,0,0,0,Wales,ctnot4not7
+397,Wales,13/11/2022,0,0,0,Wales,ctnot4not7
+398,Wales,14/11/2022,0,0,0,Wales,ctnot4not7
+399,Wales,15/11/2022,0,0,0,Wales,ctnot4not7
+400,Wales,16/11/2022,0,0,0,Wales,ctnot4not7
+401,Wales,17/11/2022,0,0,0,Wales,ctnot4not7
+402,Wales,18/11/2022,0,0,0,Wales,ctnot4not7
+403,Wales,19/11/2022,0,0,0,Wales,ctnot4not7
+404,Wales,20/11/2022,0,0,0,Wales,ctnot4not7
+405,Wales,21/11/2022,0,0,0,Wales,ctnot4not7
+406,Wales,22/11/2022,0,0,0,Wales,ctnot4not7
+407,Wales,23/11/2022,0,0,0,Wales,ctnot4not7
+408,Wales,24/11/2022,0,0,0,Wales,ctnot4not7
+409,Wales,25/11/2022,0,0,0,Wales,ctnot4not7
+410,Wales,26/11/2022,0,0,0,Wales,ctnot4not7
+411,Wales,27/11/2022,0,0,0,Wales,ctnot4not7
+412,Wales,28/11/2022,0,0,0,Wales,ctnot4not7
+413,Wales,29/11/2022,0,0,0,Wales,ctnot4not7
+414,Wales,30/11/2022,0,0,0,Wales,ctnot4not7
+415,Wales,01/12/2022,0,0,0,Wales,ctnot4not7
+416,Wales,02/12/2022,0,0,0,Wales,ctnot4not7
+417,Wales,03/12/2022,0,0,0,Wales,ctnot4not7
+418,Wales,04/12/2022,0,0,0,Wales,ctnot4not7
+419,Wales,05/12/2022,0,0,0,Wales,ctnot4not7
+420,Wales,06/12/2022,0,0,0,Wales,ctnot4not7
+421,Wales,07/12/2022,0,0,0,Wales,ctnot4not7
+422,Wales,08/12/2022,0,0,0,Wales,ctnot4not7
+423,Wales,09/12/2022,0,0,0,Wales,ctnot4not7
+424,Wales,10/12/2022,0,0,0,Wales,ctnot4not7
+425,Wales,11/12/2022,0,0,0,Wales,ctnot4not7
+426,Wales,12/12/2022,0,0,0,Wales,ctnot4not7
+427,Wales,13/12/2022,0,0,0,Wales,ctnot4not7
+428,Wales,14/12/2022,0,0,0,Wales,ctnot4not7
+429,Wales,15/12/2022,0,0,0,Wales,ctnot4not7
+430,Wales,16/12/2022,0,0,0,Wales,ctnot4not7
+431,Wales,17/12/2022,0,0,0,Wales,ctnot4not7
+432,Wales,18/12/2022,0,0,0,Wales,ctnot4not7
+433,Wales,19/12/2022,0,0,0,Wales,ctnot4not7
+434,Wales,20/12/2022,0,0,0,Wales,ctnot4not7
+435,Wales,21/12/2022,0,0,0,Wales,ctnot4not7
+436,Wales,22/12/2022,0,0,0,Wales,ctnot4not7
+437,Wales,23/12/2022,0,0,0,Wales,ctnot4not7
+438,Wales,24/12/2022,0,0,0,Wales,ctnot4not7
+439,Wales,25/12/2022,0,0,0,Wales,ctnot4not7
+440,Wales,26/12/2022,0,0,0,Wales,ctnot4not7
+441,Wales,27/12/2022,0,0,0,Wales,ctnot4not7
+442,Wales,28/12/2022,0,0,0,Wales,ctnot4not7
+443,Wales,29/12/2022,0,0,0,Wales,ctnot4not7
+444,Wales,30/12/2022,0,0,0,Wales,ctnot4not7
+445,Wales,31/12/2022,0,0,0,Wales,ctnot4not7
+446,Wales,01/01/2023,0,0,0,Wales,ctnot4not7
+447,Wales,02/01/2023,0,0,0,Wales,ctnot4not7
+448,Wales,03/01/2023,0,0,0,Wales,ctnot4not7
+449,Scotland,09/11/2022,0,0,0,Scotland,ctall
+450,Scotland,10/11/2022,0,0,0,Scotland,ctall
+451,Scotland,11/11/2022,0,0,0,Scotland,ctall
+452,Scotland,12/11/2022,0,0,0,Scotland,ctall
+453,Scotland,13/11/2022,0,0,0,Scotland,ctall
+454,Scotland,14/11/2022,0,0,0,Scotland,ctall
+455,Scotland,15/11/2022,0,0,0,Scotland,ctall
+456,Scotland,16/11/2022,0,0,0,Scotland,ctall
+457,Scotland,17/11/2022,0,0,0,Scotland,ctall
+458,Scotland,18/11/2022,0,0,0,Scotland,ctall
+459,Scotland,19/11/2022,0,0,0,Scotland,ctall
+460,Scotland,20/11/2022,0,0,0,Scotland,ctall
+461,Scotland,21/11/2022,0,0,0,Scotland,ctall
+462,Scotland,22/11/2022,0,0,0,Scotland,ctall
+463,Scotland,23/11/2022,0,0,0,Scotland,ctall
+464,Scotland,24/11/2022,0,0,0,Scotland,ctall
+465,Scotland,25/11/2022,0,0,0,Scotland,ctall
+466,Scotland,26/11/2022,0,0,0,Scotland,ctall
+467,Scotland,27/11/2022,0,0,0,Scotland,ctall
+468,Scotland,28/11/2022,0,0,0,Scotland,ctall
+469,Scotland,29/11/2022,0,0,0,Scotland,ctall
+470,Scotland,30/11/2022,0,0,0,Scotland,ctall
+471,Scotland,01/12/2022,0,0,0,Scotland,ctall
+472,Scotland,02/12/2022,0,0,0,Scotland,ctall
+473,Scotland,03/12/2022,0,0,0,Scotland,ctall
+474,Scotland,04/12/2022,0,0,0,Scotland,ctall
+475,Scotland,05/12/2022,0,0,0,Scotland,ctall
+476,Scotland,06/12/2022,0,0,0,Scotland,ctall
+477,Scotland,07/12/2022,0,0,0,Scotland,ctall
+478,Scotland,08/12/2022,0,0,0,Scotland,ctall
+479,Scotland,09/12/2022,0,0,0,Scotland,ctall
+480,Scotland,10/12/2022,0,0,0,Scotland,ctall
+481,Scotland,11/12/2022,0,0,0,Scotland,ctall
+482,Scotland,12/12/2022,0,0,0,Scotland,ctall
+483,Scotland,13/12/2022,0,0,0,Scotland,ctall
+484,Scotland,14/12/2022,0,0,0,Scotland,ctall
+485,Scotland,15/12/2022,0,0,0,Scotland,ctall
+486,Scotland,16/12/2022,0,0,0,Scotland,ctall
+487,Scotland,17/12/2022,0,0,0,Scotland,ctall
+488,Scotland,18/12/2022,0,0,0,Scotland,ctall
+489,Scotland,19/12/2022,0,0,0,Scotland,ctall
+490,Scotland,20/12/2022,0,0,0,Scotland,ctall
+491,Scotland,21/12/2022,0,0,0,Scotland,ctall
+492,Scotland,22/12/2022,0,0,0,Scotland,ctall
+493,Scotland,23/12/2022,0,0,0,Scotland,ctall
+494,Scotland,24/12/2022,0,0,0,Scotland,ctall
+495,Scotland,25/12/2022,0,0,0,Scotland,ctall
+496,Scotland,26/12/2022,0,0,0,Scotland,ctall
+497,Scotland,27/12/2022,0,0,0,Scotland,ctall
+498,Scotland,28/12/2022,0,0,0,Scotland,ctall
+499,Scotland,29/12/2022,0,0,0,Scotland,ctall
+500,Scotland,30/12/2022,0,0,0,Scotland,ctall
+501,Scotland,31/12/2022,0,0,0,Scotland,ctall
+502,Scotland,01/01/2023,0,0,0,Scotland,ctall
+503,Scotland,02/01/2023,0,0,0,Scotland,ctall
+504,Scotland,03/01/2023,0,0,0,Scotland,ctall
+505,Scotland,09/11/2022,0,0,0,Scotland,ct4
+506,Scotland,10/11/2022,0,0,0,Scotland,ct4
+507,Scotland,11/11/2022,0,0,0,Scotland,ct4
+508,Scotland,12/11/2022,0,0,0,Scotland,ct4
+509,Scotland,13/11/2022,0,0,0,Scotland,ct4
+510,Scotland,14/11/2022,0,0,0,Scotland,ct4
+511,Scotland,15/11/2022,0,0,0,Scotland,ct4
+512,Scotland,16/11/2022,0,0,0,Scotland,ct4
+513,Scotland,17/11/2022,0,0,0,Scotland,ct4
+514,Scotland,18/11/2022,0,0,0,Scotland,ct4
+515,Scotland,19/11/2022,0,0,0,Scotland,ct4
+516,Scotland,20/11/2022,0,0,0,Scotland,ct4
+517,Scotland,21/11/2022,0,0,0,Scotland,ct4
+518,Scotland,22/11/2022,0,0,0,Scotland,ct4
+519,Scotland,23/11/2022,0,0,0,Scotland,ct4
+520,Scotland,24/11/2022,0,0,0,Scotland,ct4
+521,Scotland,25/11/2022,0,0,0,Scotland,ct4
+522,Scotland,26/11/2022,0,0,0,Scotland,ct4
+523,Scotland,27/11/2022,0,0,0,Scotland,ct4
+524,Scotland,28/11/2022,0,0,0,Scotland,ct4
+525,Scotland,29/11/2022,0,0,0,Scotland,ct4
+526,Scotland,30/11/2022,0,0,0,Scotland,ct4
+527,Scotland,01/12/2022,0,0,0,Scotland,ct4
+528,Scotland,02/12/2022,0,0,0,Scotland,ct4
+529,Scotland,03/12/2022,0,0,0,Scotland,ct4
+530,Scotland,04/12/2022,0,0,0,Scotland,ct4
+531,Scotland,05/12/2022,0,0,0,Scotland,ct4
+532,Scotland,06/12/2022,0,0,0,Scotland,ct4
+533,Scotland,07/12/2022,0,0,0,Scotland,ct4
+534,Scotland,08/12/2022,0,0,0,Scotland,ct4
+535,Scotland,09/12/2022,0,0,0,Scotland,ct4
+536,Scotland,10/12/2022,0,0,0,Scotland,ct4
+537,Scotland,11/12/2022,0,0,0,Scotland,ct4
+538,Scotland,12/12/2022,0,0,0,Scotland,ct4
+539,Scotland,13/12/2022,0,0,0,Scotland,ct4
+540,Scotland,14/12/2022,0,0,0,Scotland,ct4
+541,Scotland,15/12/2022,0,0,0,Scotland,ct4
+542,Scotland,16/12/2022,0,0,0,Scotland,ct4
+543,Scotland,17/12/2022,0,0,0,Scotland,ct4
+544,Scotland,18/12/2022,0,0,0,Scotland,ct4
+545,Scotland,19/12/2022,0,0,0,Scotland,ct4
+546,Scotland,20/12/2022,0,0,0,Scotland,ct4
+547,Scotland,21/12/2022,0,0,0,Scotland,ct4
+548,Scotland,22/12/2022,0,0,0,Scotland,ct4
+549,Scotland,23/12/2022,0,0,0,Scotland,ct4
+550,Scotland,24/12/2022,0,0,0,Scotland,ct4
+551,Scotland,25/12/2022,0,0,0,Scotland,ct4
+552,Scotland,26/12/2022,0,0,0,Scotland,ct4
+553,Scotland,27/12/2022,0,0,0,Scotland,ct4
+554,Scotland,28/12/2022,0,0,0,Scotland,ct4
+555,Scotland,29/12/2022,0,0,0,Scotland,ct4
+556,Scotland,30/12/2022,0,0,0,Scotland,ct4
+557,Scotland,31/12/2022,0,0,0,Scotland,ct4
+558,Scotland,01/01/2023,0,0,0,Scotland,ct4
+559,Scotland,02/01/2023,0,0,0,Scotland,ct4
+560,Scotland,03/01/2023,0,0,0,Scotland,ct4
+561,Scotland,09/11/2022,0,0,0,Scotland,ct7
+562,Scotland,10/11/2022,0,0,0,Scotland,ct7
+563,Scotland,11/11/2022,0,0,0,Scotland,ct7
+564,Scotland,12/11/2022,0,0,0,Scotland,ct7
+565,Scotland,13/11/2022,0,0,0,Scotland,ct7
+566,Scotland,14/11/2022,0,0,0,Scotland,ct7
+567,Scotland,15/11/2022,0,0,0,Scotland,ct7
+568,Scotland,16/11/2022,0,0,0,Scotland,ct7
+569,Scotland,17/11/2022,0,0,0,Scotland,ct7
+570,Scotland,18/11/2022,0,0,0,Scotland,ct7
+571,Scotland,19/11/2022,0,0,0,Scotland,ct7
+572,Scotland,20/11/2022,0,0,0,Scotland,ct7
+573,Scotland,21/11/2022,0,0,0,Scotland,ct7
+574,Scotland,22/11/2022,0,0,0,Scotland,ct7
+575,Scotland,23/11/2022,0,0,0,Scotland,ct7
+576,Scotland,24/11/2022,0,0,0,Scotland,ct7
+577,Scotland,25/11/2022,0,0,0,Scotland,ct7
+578,Scotland,26/11/2022,0,0,0,Scotland,ct7
+579,Scotland,27/11/2022,0,0,0,Scotland,ct7
+580,Scotland,28/11/2022,0,0,0,Scotland,ct7
+581,Scotland,29/11/2022,0,0,0,Scotland,ct7
+582,Scotland,30/11/2022,0,0,0,Scotland,ct7
+583,Scotland,01/12/2022,0,0,0,Scotland,ct7
+584,Scotland,02/12/2022,0,0,0,Scotland,ct7
+585,Scotland,03/12/2022,0,0,0,Scotland,ct7
+586,Scotland,04/12/2022,0,0,0,Scotland,ct7
+587,Scotland,05/12/2022,0,0,0,Scotland,ct7
+588,Scotland,06/12/2022,0,0,0,Scotland,ct7
+589,Scotland,07/12/2022,0,0,0,Scotland,ct7
+590,Scotland,08/12/2022,0,0,0,Scotland,ct7
+591,Scotland,09/12/2022,0,0,0,Scotland,ct7
+592,Scotland,10/12/2022,0,0,0,Scotland,ct7
+593,Scotland,11/12/2022,0,0,0,Scotland,ct7
+594,Scotland,12/12/2022,0,0,0,Scotland,ct7
+595,Scotland,13/12/2022,0,0,0,Scotland,ct7
+596,Scotland,14/12/2022,0,0,0,Scotland,ct7
+597,Scotland,15/12/2022,0,0,0,Scotland,ct7
+598,Scotland,16/12/2022,0,0,0,Scotland,ct7
+599,Scotland,17/12/2022,0,0,0,Scotland,ct7
+600,Scotland,18/12/2022,0,0,0,Scotland,ct7
+601,Scotland,19/12/2022,0,0,0,Scotland,ct7
+602,Scotland,20/12/2022,0,0,0,Scotland,ct7
+603,Scotland,21/12/2022,0,0,0,Scotland,ct7
+604,Scotland,22/12/2022,0,0,0,Scotland,ct7
+605,Scotland,23/12/2022,0,0,0,Scotland,ct7
+606,Scotland,24/12/2022,0,0,0,Scotland,ct7
+607,Scotland,25/12/2022,0,0,0,Scotland,ct7
+608,Scotland,26/12/2022,0,0,0,Scotland,ct7
+609,Scotland,27/12/2022,0,0,0,Scotland,ct7
+610,Scotland,28/12/2022,0,0,0,Scotland,ct7
+611,Scotland,29/12/2022,0,0,0,Scotland,ct7
+612,Scotland,30/12/2022,0,0,0,Scotland,ct7
+613,Scotland,31/12/2022,0,0,0,Scotland,ct7
+614,Scotland,01/01/2023,0,0,0,Scotland,ct7
+615,Scotland,02/01/2023,0,0,0,Scotland,ct7
+616,Scotland,03/01/2023,0,0,0,Scotland,ct7
+617,Scotland,09/11/2022,0,0,0,Scotland,ctnot4not7
+618,Scotland,10/11/2022,0,0,0,Scotland,ctnot4not7
+619,Scotland,11/11/2022,0,0,0,Scotland,ctnot4not7
+620,Scotland,12/11/2022,0,0,0,Scotland,ctnot4not7
+621,Scotland,13/11/2022,0,0,0,Scotland,ctnot4not7
+622,Scotland,14/11/2022,0,0,0,Scotland,ctnot4not7
+623,Scotland,15/11/2022,0,0,0,Scotland,ctnot4not7
+624,Scotland,16/11/2022,0,0,0,Scotland,ctnot4not7
+625,Scotland,17/11/2022,0,0,0,Scotland,ctnot4not7
+626,Scotland,18/11/2022,0,0,0,Scotland,ctnot4not7
+627,Scotland,19/11/2022,0,0,0,Scotland,ctnot4not7
+628,Scotland,20/11/2022,0,0,0,Scotland,ctnot4not7
+629,Scotland,21/11/2022,0,0,0,Scotland,ctnot4not7
+630,Scotland,22/11/2022,0,0,0,Scotland,ctnot4not7
+631,Scotland,23/11/2022,0,0,0,Scotland,ctnot4not7
+632,Scotland,24/11/2022,0,0,0,Scotland,ctnot4not7
+633,Scotland,25/11/2022,0,0,0,Scotland,ctnot4not7
+634,Scotland,26/11/2022,0,0,0,Scotland,ctnot4not7
+635,Scotland,27/11/2022,0,0,0,Scotland,ctnot4not7
+636,Scotland,28/11/2022,0,0,0,Scotland,ctnot4not7
+637,Scotland,29/11/2022,0,0,0,Scotland,ctnot4not7
+638,Scotland,30/11/2022,0,0,0,Scotland,ctnot4not7
+639,Scotland,01/12/2022,0,0,0,Scotland,ctnot4not7
+640,Scotland,02/12/2022,0,0,0,Scotland,ctnot4not7
+641,Scotland,03/12/2022,0,0,0,Scotland,ctnot4not7
+642,Scotland,04/12/2022,0,0,0,Scotland,ctnot4not7
+643,Scotland,05/12/2022,0,0,0,Scotland,ctnot4not7
+644,Scotland,06/12/2022,0,0,0,Scotland,ctnot4not7
+645,Scotland,07/12/2022,0,0,0,Scotland,ctnot4not7
+646,Scotland,08/12/2022,0,0,0,Scotland,ctnot4not7
+647,Scotland,09/12/2022,0,0,0,Scotland,ctnot4not7
+648,Scotland,10/12/2022,0,0,0,Scotland,ctnot4not7
+649,Scotland,11/12/2022,0,0,0,Scotland,ctnot4not7
+650,Scotland,12/12/2022,0,0,0,Scotland,ctnot4not7
+651,Scotland,13/12/2022,0,0,0,Scotland,ctnot4not7
+652,Scotland,14/12/2022,0,0,0,Scotland,ctnot4not7
+653,Scotland,15/12/2022,0,0,0,Scotland,ctnot4not7
+654,Scotland,16/12/2022,0,0,0,Scotland,ctnot4not7
+655,Scotland,17/12/2022,0,0,0,Scotland,ctnot4not7
+656,Scotland,18/12/2022,0,0,0,Scotland,ctnot4not7
+657,Scotland,19/12/2022,0,0,0,Scotland,ctnot4not7
+658,Scotland,20/12/2022,0,0,0,Scotland,ctnot4not7
+659,Scotland,21/12/2022,0,0,0,Scotland,ctnot4not7
+660,Scotland,22/12/2022,0,0,0,Scotland,ctnot4not7
+661,Scotland,23/12/2022,0,0,0,Scotland,ctnot4not7
+662,Scotland,24/12/2022,0,0,0,Scotland,ctnot4not7
+663,Scotland,25/12/2022,0,0,0,Scotland,ctnot4not7
+664,Scotland,26/12/2022,0,0,0,Scotland,ctnot4not7
+665,Scotland,27/12/2022,0,0,0,Scotland,ctnot4not7
+666,Scotland,28/12/2022,0,0,0,Scotland,ctnot4not7
+667,Scotland,29/12/2022,0,0,0,Scotland,ctnot4not7
+668,Scotland,30/12/2022,0,0,0,Scotland,ctnot4not7
+669,Scotland,31/12/2022,0,0,0,Scotland,ctnot4not7
+670,Scotland,01/01/2023,0,0,0,Scotland,ctnot4not7
+671,Scotland,02/01/2023,0,0,0,Scotland,ctnot4not7
+672,Scotland,03/01/2023,0,0,0,Scotland,ctnot4not7
+673,England,16/11/2022,0,0,0,England,ctall
+674,England,17/11/2022,0,0,0,England,ctall
+675,England,18/11/2022,0,0,0,England,ctall
+676,England,19/11/2022,0,0,0,England,ctall
+677,England,20/11/2022,0,0,0,England,ctall
+678,England,21/11/2022,0,0,0,England,ctall
+679,England,22/11/2022,0,0,0,England,ctall
+680,England,23/11/2022,0,0,0,England,ctall
+681,England,24/11/2022,0,0,0,England,ctall
+682,England,25/11/2022,0,0,0,England,ctall
+683,England,26/11/2022,0,0,0,England,ctall
+684,England,27/11/2022,0,0,0,England,ctall
+685,England,28/11/2022,0,0,0,England,ctall
+686,England,29/11/2022,0,0,0,England,ctall
+687,England,30/11/2022,0,0,0,England,ctall
+688,England,01/12/2022,0,0,0,England,ctall
+689,England,02/12/2022,0,0,0,England,ctall
+690,England,03/12/2022,0,0,0,England,ctall
+691,England,04/12/2022,0,0,0,England,ctall
+692,England,05/12/2022,0,0,0,England,ctall
+693,England,06/12/2022,0,0,0,England,ctall
+694,England,07/12/2022,0,0,0,England,ctall
+695,England,08/12/2022,0,0,0,England,ctall
+696,England,09/12/2022,0,0,0,England,ctall
+697,England,10/12/2022,0,0,0,England,ctall
+698,England,11/12/2022,0,0,0,England,ctall
+699,England,12/12/2022,0,0,0,England,ctall
+700,England,13/12/2022,0,0,0,England,ctall
+701,England,14/12/2022,0,0,0,England,ctall
+702,England,15/12/2022,0,0,0,England,ctall
+703,England,16/12/2022,0,0,0,England,ctall
+704,England,17/12/2022,0,0,0,England,ctall
+705,England,18/12/2022,0,0,0,England,ctall
+706,England,19/12/2022,0,0,0,England,ctall
+707,England,20/12/2022,0,0,0,England,ctall
+708,England,21/12/2022,0,0,0,England,ctall
+709,England,22/12/2022,0,0,0,England,ctall
+710,England,23/12/2022,0,0,0,England,ctall
+711,England,24/12/2022,0,0,0,England,ctall
+712,England,25/12/2022,0,0,0,England,ctall
+713,England,26/12/2022,0,0,0,England,ctall
+714,England,27/12/2022,0,0,0,England,ctall
+715,England,28/12/2022,0,0,0,England,ctall
+716,England,29/12/2022,0,0,0,England,ctall
+717,England,30/12/2022,0,0,0,England,ctall
+718,England,31/12/2022,0,0,0,England,ctall
+719,England,01/01/2023,0,0,0,England,ctall
+720,England,02/01/2023,0,0,0,England,ctall
+721,England,03/01/2023,0,0,0,England,ctall
+722,London,16/11/2022,0,0,0,England,ctall
+723,London,17/11/2022,0,0,0,England,ctall
+724,London,18/11/2022,0,0,0,England,ctall
+725,London,19/11/2022,0,0,0,England,ctall
+726,London,20/11/2022,0,0,0,England,ctall
+727,London,21/11/2022,0,0,0,England,ctall
+728,London,22/11/2022,0,0,0,England,ctall
+729,London,23/11/2022,0,0,0,England,ctall
+730,London,24/11/2022,0,0,0,England,ctall
+731,London,25/11/2022,0,0,0,England,ctall
+732,London,26/11/2022,0,0,0,England,ctall
+733,London,27/11/2022,0,0,0,England,ctall
+734,London,28/11/2022,0,0,0,England,ctall
+735,London,29/11/2022,0,0,0,England,ctall
+736,London,30/11/2022,0,0,0,England,ctall
+737,London,01/12/2022,0,0,0,England,ctall
+738,London,02/12/2022,0,0,0,England,ctall
+739,London,03/12/2022,0,0,0,England,ctall
+740,London,04/12/2022,0,0,0,England,ctall
+741,London,05/12/2022,0,0,0,England,ctall
+742,London,06/12/2022,0,0,0,England,ctall
+743,London,07/12/2022,0,0,0,England,ctall
+744,London,08/12/2022,0,0,0,England,ctall
+745,London,09/12/2022,0,0,0,England,ctall
+746,London,10/12/2022,0,0,0,England,ctall
+747,London,11/12/2022,0,0,0,England,ctall
+748,London,12/12/2022,0,0,0,England,ctall
+749,London,13/12/2022,0,0,0,England,ctall
+750,London,14/12/2022,0,0,0,England,ctall
+751,London,15/12/2022,0,0,0,England,ctall
+752,London,16/12/2022,0,0,0,England,ctall
+753,London,17/12/2022,0,0,0,England,ctall
+754,London,18/12/2022,0,0,0,England,ctall
+755,London,19/12/2022,0,0,0,England,ctall
+756,London,20/12/2022,0,0,0,England,ctall
+757,London,21/12/2022,0,0,0,England,ctall
+758,London,22/12/2022,0,0,0,England,ctall
+759,London,23/12/2022,0,0,0,England,ctall
+760,London,24/12/2022,0,0,0,England,ctall
+761,London,25/12/2022,0,0,0,England,ctall
+762,London,26/12/2022,0,0,0,England,ctall
+763,London,27/12/2022,0,0,0,England,ctall
+764,London,28/12/2022,0,0,0,England,ctall
+765,London,29/12/2022,0,0,0,England,ctall
+766,London,30/12/2022,0,0,0,England,ctall
+767,London,31/12/2022,0,0,0,England,ctall
+768,London,01/01/2023,0,0,0,England,ctall
+769,London,02/01/2023,0,0,0,England,ctall
+770,London,03/01/2023,0,0,0,England,ctall
+771,South East,16/11/2022,0,0,0,England,ctall
+772,South East,17/11/2022,0,0,0,England,ctall
+773,South East,18/11/2022,0,0,0,England,ctall
+774,South East,19/11/2022,0,0,0,England,ctall
+775,South East,20/11/2022,0,0,0,England,ctall
+776,South East,21/11/2022,0,0,0,England,ctall
+777,South East,22/11/2022,0,0,0,England,ctall
+778,South East,23/11/2022,0,0,0,England,ctall
+779,South East,24/11/2022,0,0,0,England,ctall
+780,South East,25/11/2022,0,0,0,England,ctall
+781,South East,26/11/2022,0,0,0,England,ctall
+782,South East,27/11/2022,0,0,0,England,ctall
+783,South East,28/11/2022,0,0,0,England,ctall
+784,South East,29/11/2022,0,0,0,England,ctall
+785,South East,30/11/2022,0,0,0,England,ctall
+786,South East,01/12/2022,0,0,0,England,ctall
+787,South East,02/12/2022,0,0,0,England,ctall
+788,South East,03/12/2022,0,0,0,England,ctall
+789,South East,04/12/2022,0,0,0,England,ctall
+790,South East,05/12/2022,0,0,0,England,ctall
+791,South East,06/12/2022,0,0,0,England,ctall
+792,South East,07/12/2022,0,0,0,England,ctall
+793,South East,08/12/2022,0,0,0,England,ctall
+794,South East,09/12/2022,0,0,0,England,ctall
+795,South East,10/12/2022,0,0,0,England,ctall
+796,South East,11/12/2022,0,0,0,England,ctall
+797,South East,12/12/2022,0,0,0,England,ctall
+798,South East,13/12/2022,0,0,0,England,ctall
+799,South East,14/12/2022,0,0,0,England,ctall
+800,South East,15/12/2022,0,0,0,England,ctall
+801,South East,16/12/2022,0,0,0,England,ctall
+802,South East,17/12/2022,0,0,0,England,ctall
+803,South East,18/12/2022,0,0,0,England,ctall
+804,South East,19/12/2022,0,0,0,England,ctall
+805,South East,20/12/2022,0,0,0,England,ctall
+806,South East,21/12/2022,0,0,0,England,ctall
+807,South East,22/12/2022,0,0,0,England,ctall
+808,South East,23/12/2022,0,0,0,England,ctall
+809,South East,24/12/2022,0,0,0,England,ctall
+810,South East,25/12/2022,0,0,0,England,ctall
+811,South East,26/12/2022,0,0,0,England,ctall
+812,South East,27/12/2022,0,0,0,England,ctall
+813,South East,28/12/2022,0,0,0,England,ctall
+814,South East,29/12/2022,0,0,0,England,ctall
+815,South East,30/12/2022,0,0,0,England,ctall
+816,South East,31/12/2022,0,0,0,England,ctall
+817,South East,01/01/2023,0,0,0,England,ctall
+818,South East,02/01/2023,0,0,0,England,ctall
+819,South East,03/01/2023,0,0,0,England,ctall
+820,North West,16/11/2022,0,0,0,England,ctall
+821,North West,17/11/2022,0,0,0,England,ctall
+822,North West,18/11/2022,0,0,0,England,ctall
+823,North West,19/11/2022,0,0,0,England,ctall
+824,North West,20/11/2022,0,0,0,England,ctall
+825,North West,21/11/2022,0,0,0,England,ctall
+826,North West,22/11/2022,0,0,0,England,ctall
+827,North West,23/11/2022,0,0,0,England,ctall
+828,North West,24/11/2022,0,0,0,England,ctall
+829,North West,25/11/2022,0,0,0,England,ctall
+830,North West,26/11/2022,0,0,0,England,ctall
+831,North West,27/11/2022,0,0,0,England,ctall
+832,North West,28/11/2022,0,0,0,England,ctall
+833,North West,29/11/2022,0,0,0,England,ctall
+834,North West,30/11/2022,0,0,0,England,ctall
+835,North West,01/12/2022,0,0,0,England,ctall
+836,North West,02/12/2022,0,0,0,England,ctall
+837,North West,03/12/2022,0,0,0,England,ctall
+838,North West,04/12/2022,0,0,0,England,ctall
+839,North West,05/12/2022,0,0,0,England,ctall
+840,North West,06/12/2022,0,0,0,England,ctall
+841,North West,07/12/2022,0,0,0,England,ctall
+842,North West,08/12/2022,0,0,0,England,ctall
+843,North West,09/12/2022,0,0,0,England,ctall
+844,North West,10/12/2022,0,0,0,England,ctall
+845,North West,11/12/2022,0,0,0,England,ctall
+846,North West,12/12/2022,0,0,0,England,ctall
+847,North West,13/12/2022,0,0,0,England,ctall
+848,North West,14/12/2022,0,0,0,England,ctall
+849,North West,15/12/2022,0,0,0,England,ctall
+850,North West,16/12/2022,0,0,0,England,ctall
+851,North West,17/12/2022,0,0,0,England,ctall
+852,North West,18/12/2022,0,0,0,England,ctall
+853,North West,19/12/2022,0,0,0,England,ctall
+854,North West,20/12/2022,0,0,0,England,ctall
+855,North West,21/12/2022,0,0,0,England,ctall
+856,North West,22/12/2022,0,0,0,England,ctall
+857,North West,23/12/2022,0,0,0,England,ctall
+858,North West,24/12/2022,0,0,0,England,ctall
+859,North West,25/12/2022,0,0,0,England,ctall
+860,North West,26/12/2022,0,0,0,England,ctall
+861,North West,27/12/2022,0,0,0,England,ctall
+862,North West,28/12/2022,0,0,0,England,ctall
+863,North West,29/12/2022,0,0,0,England,ctall
+864,North West,30/12/2022,0,0,0,England,ctall
+865,North West,31/12/2022,0,0,0,England,ctall
+866,North West,01/01/2023,0,0,0,England,ctall
+867,North West,02/01/2023,0,0,0,England,ctall
+868,North West,03/01/2023,0,0,0,England,ctall
+869,South West,16/11/2022,0,0,0,England,ctall
+870,South West,17/11/2022,0,0,0,England,ctall
+871,South West,18/11/2022,0,0,0,England,ctall
+872,South West,19/11/2022,0,0,0,England,ctall
+873,South West,20/11/2022,0,0,0,England,ctall
+874,South West,21/11/2022,0,0,0,England,ctall
+875,South West,22/11/2022,0,0,0,England,ctall
+876,South West,23/11/2022,0,0,0,England,ctall
+877,South West,24/11/2022,0,0,0,England,ctall
+878,South West,25/11/2022,0,0,0,England,ctall
+879,South West,26/11/2022,0,0,0,England,ctall
+880,South West,27/11/2022,0,0,0,England,ctall
+881,South West,28/11/2022,0,0,0,England,ctall
+882,South West,29/11/2022,0,0,0,England,ctall
+883,South West,30/11/2022,0,0,0,England,ctall
+884,South West,01/12/2022,0,0,0,England,ctall
+885,South West,02/12/2022,0,0,0,England,ctall
+886,South West,03/12/2022,0,0,0,England,ctall
+887,South West,04/12/2022,0,0,0,England,ctall
+888,South West,05/12/2022,0,0,0,England,ctall
+889,South West,06/12/2022,0,0,0,England,ctall
+890,South West,07/12/2022,0,0,0,England,ctall
+891,South West,08/12/2022,0,0,0,England,ctall
+892,South West,09/12/2022,0,0,0,England,ctall
+893,South West,10/12/2022,0,0,0,England,ctall
+894,South West,11/12/2022,0,0,0,England,ctall
+895,South West,12/12/2022,0,0,0,England,ctall
+896,South West,13/12/2022,0,0,0,England,ctall
+897,South West,14/12/2022,0,0,0,England,ctall
+898,South West,15/12/2022,0,0,0,England,ctall
+899,South West,16/12/2022,0,0,0,England,ctall
+900,South West,17/12/2022,0,0,0,England,ctall
+901,South West,18/12/2022,0,0,0,England,ctall
+902,South West,19/12/2022,0,0,0,England,ctall
+903,South West,20/12/2022,0,0,0,England,ctall
+904,South West,21/12/2022,0,0,0,England,ctall
+905,South West,22/12/2022,0,0,0,England,ctall
+906,South West,23/12/2022,0,0,0,England,ctall
+907,South West,24/12/2022,0,0,0,England,ctall
+908,South West,25/12/2022,0,0,0,England,ctall
+909,South West,26/12/2022,0,0,0,England,ctall
+910,South West,27/12/2022,0,0,0,England,ctall
+911,South West,28/12/2022,0,0,0,England,ctall
+912,South West,29/12/2022,0,0,0,England,ctall
+913,South West,30/12/2022,0,0,0,England,ctall
+914,South West,31/12/2022,0,0,0,England,ctall
+915,South West,01/01/2023,0,0,0,England,ctall
+916,South West,02/01/2023,0,0,0,England,ctall
+917,South West,03/01/2023,0,0,0,England,ctall
+918,West Midlands,16/11/2022,0,0,0,England,ctall
+919,West Midlands,17/11/2022,0,0,0,England,ctall
+920,West Midlands,18/11/2022,0,0,0,England,ctall
+921,West Midlands,19/11/2022,0,0,0,England,ctall
+922,West Midlands,20/11/2022,0,0,0,England,ctall
+923,West Midlands,21/11/2022,0,0,0,England,ctall
+924,West Midlands,22/11/2022,0,0,0,England,ctall
+925,West Midlands,23/11/2022,0,0,0,England,ctall
+926,West Midlands,24/11/2022,0,0,0,England,ctall
+927,West Midlands,25/11/2022,0,0,0,England,ctall
+928,West Midlands,26/11/2022,0,0,0,England,ctall
+929,West Midlands,27/11/2022,0,0,0,England,ctall
+930,West Midlands,28/11/2022,0,0,0,England,ctall
+931,West Midlands,29/11/2022,0,0,0,England,ctall
+932,West Midlands,30/11/2022,0,0,0,England,ctall
+933,West Midlands,01/12/2022,0,0,0,England,ctall
+934,West Midlands,02/12/2022,0,0,0,England,ctall
+935,West Midlands,03/12/2022,0,0,0,England,ctall
+936,West Midlands,04/12/2022,0,0,0,England,ctall
+937,West Midlands,05/12/2022,0,0,0,England,ctall
+938,West Midlands,06/12/2022,0,0,0,England,ctall
+939,West Midlands,07/12/2022,0,0,0,England,ctall
+940,West Midlands,08/12/2022,0,0,0,England,ctall
+941,West Midlands,09/12/2022,0,0,0,England,ctall
+942,West Midlands,10/12/2022,0,0,0,England,ctall
+943,West Midlands,11/12/2022,0,0,0,England,ctall
+944,West Midlands,12/12/2022,0,0,0,England,ctall
+945,West Midlands,13/12/2022,0,0,0,England,ctall
+946,West Midlands,14/12/2022,0,0,0,England,ctall
+947,West Midlands,15/12/2022,0,0,0,England,ctall
+948,West Midlands,16/12/2022,0,0,0,England,ctall
+949,West Midlands,17/12/2022,0,0,0,England,ctall
+950,West Midlands,18/12/2022,0,0,0,England,ctall
+951,West Midlands,19/12/2022,0,0,0,England,ctall
+952,West Midlands,20/12/2022,0,0,0,England,ctall
+953,West Midlands,21/12/2022,0,0,0,England,ctall
+954,West Midlands,22/12/2022,0,0,0,England,ctall
+955,West Midlands,23/12/2022,0,0,0,England,ctall
+956,West Midlands,24/12/2022,0,0,0,England,ctall
+957,West Midlands,25/12/2022,0,0,0,England,ctall
+958,West Midlands,26/12/2022,0,0,0,England,ctall
+959,West Midlands,27/12/2022,0,0,0,England,ctall
+960,West Midlands,28/12/2022,0,0,0,England,ctall
+961,West Midlands,29/12/2022,0,0,0,England,ctall
+962,West Midlands,30/12/2022,0,0,0,England,ctall
+963,West Midlands,31/12/2022,0,0,0,England,ctall
+964,West Midlands,01/01/2023,0,0,0,England,ctall
+965,West Midlands,02/01/2023,0,0,0,England,ctall
+966,West Midlands,03/01/2023,0,0,0,England,ctall
+967,East Midlands,16/11/2022,0,0,0,England,ctall
+968,East Midlands,17/11/2022,0,0,0,England,ctall
+969,East Midlands,18/11/2022,0,0,0,England,ctall
+970,East Midlands,19/11/2022,0,0,0,England,ctall
+971,East Midlands,20/11/2022,0,0,0,England,ctall
+972,East Midlands,21/11/2022,0,0,0,England,ctall
+973,East Midlands,22/11/2022,0,0,0,England,ctall
+974,East Midlands,23/11/2022,0,0,0,England,ctall
+975,East Midlands,24/11/2022,0,0,0,England,ctall
+976,East Midlands,25/11/2022,0,0,0,England,ctall
+977,East Midlands,26/11/2022,0,0,0,England,ctall
+978,East Midlands,27/11/2022,0,0,0,England,ctall
+979,East Midlands,28/11/2022,0,0,0,England,ctall
+980,East Midlands,29/11/2022,0,0,0,England,ctall
+981,East Midlands,30/11/2022,0,0,0,England,ctall
+982,East Midlands,01/12/2022,0,0,0,England,ctall
+983,East Midlands,02/12/2022,0,0,0,England,ctall
+984,East Midlands,03/12/2022,0,0,0,England,ctall
+985,East Midlands,04/12/2022,0,0,0,England,ctall
+986,East Midlands,05/12/2022,0,0,0,England,ctall
+987,East Midlands,06/12/2022,0,0,0,England,ctall
+988,East Midlands,07/12/2022,0,0,0,England,ctall
+989,East Midlands,08/12/2022,0,0,0,England,ctall
+990,East Midlands,09/12/2022,0,0,0,England,ctall
+991,East Midlands,10/12/2022,0,0,0,England,ctall
+992,East Midlands,11/12/2022,0,0,0,England,ctall
+993,East Midlands,12/12/2022,0,0,0,England,ctall
+994,East Midlands,13/12/2022,0,0,0,England,ctall
+995,East Midlands,14/12/2022,0,0,0,England,ctall
+996,East Midlands,15/12/2022,0,0,0,England,ctall
+997,East Midlands,16/12/2022,0,0,0,England,ctall
+998,East Midlands,17/12/2022,0,0,0,England,ctall
+999,East Midlands,18/12/2022,0,0,0,England,ctall
+1000,East Midlands,19/12/2022,0,0,0,England,ctall
+1001,East Midlands,20/12/2022,0,0,0,England,ctall
+1002,East Midlands,21/12/2022,0,0,0,England,ctall
+1003,East Midlands,22/12/2022,0,0,0,England,ctall
+1004,East Midlands,23/12/2022,0,0,0,England,ctall
+1005,East Midlands,24/12/2022,0,0,0,England,ctall
+1006,East Midlands,25/12/2022,0,0,0,England,ctall
+1007,East Midlands,26/12/2022,0,0,0,England,ctall
+1008,East Midlands,27/12/2022,0,0,0,England,ctall
+1009,East Midlands,28/12/2022,0,0,0,England,ctall
+1010,East Midlands,29/12/2022,0,0,0,England,ctall
+1011,East Midlands,30/12/2022,0,0,0,England,ctall
+1012,East Midlands,31/12/2022,0,0,0,England,ctall
+1013,East Midlands,01/01/2023,0,0,0,England,ctall
+1014,East Midlands,02/01/2023,0,0,0,England,ctall
+1015,East Midlands,03/01/2023,0,0,0,England,ctall
+1016,East of England,16/11/2022,0,0,0,England,ctall
+1017,East of England,17/11/2022,0,0,0,England,ctall
+1018,East of England,18/11/2022,0,0,0,England,ctall
+1019,East of England,19/11/2022,0,0,0,England,ctall
+1020,East of England,20/11/2022,0,0,0,England,ctall
+1021,East of England,21/11/2022,0,0,0,England,ctall
+1022,East of England,22/11/2022,0,0,0,England,ctall
+1023,East of England,23/11/2022,0,0,0,England,ctall
+1024,East of England,24/11/2022,0,0,0,England,ctall
+1025,East of England,25/11/2022,0,0,0,England,ctall
+1026,East of England,26/11/2022,0,0,0,England,ctall
+1027,East of England,27/11/2022,0,0,0,England,ctall
+1028,East of England,28/11/2022,0,0,0,England,ctall
+1029,East of England,29/11/2022,0,0,0,England,ctall
+1030,East of England,30/11/2022,0,0,0,England,ctall
+1031,East of England,01/12/2022,0,0,0,England,ctall
+1032,East of England,02/12/2022,0,0,0,England,ctall
+1033,East of England,03/12/2022,0,0,0,England,ctall
+1034,East of England,04/12/2022,0,0,0,England,ctall
+1035,East of England,05/12/2022,0,0,0,England,ctall
+1036,East of England,06/12/2022,0,0,0,England,ctall
+1037,East of England,07/12/2022,0,0,0,England,ctall
+1038,East of England,08/12/2022,0,0,0,England,ctall
+1039,East of England,09/12/2022,0,0,0,England,ctall
+1040,East of England,10/12/2022,0,0,0,England,ctall
+1041,East of England,11/12/2022,0,0,0,England,ctall
+1042,East of England,12/12/2022,0,0,0,England,ctall
+1043,East of England,13/12/2022,0,0,0,England,ctall
+1044,East of England,14/12/2022,0,0,0,England,ctall
+1045,East of England,15/12/2022,0,0,0,England,ctall
+1046,East of England,16/12/2022,0,0,0,England,ctall
+1047,East of England,17/12/2022,0,0,0,England,ctall
+1048,East of England,18/12/2022,0,0,0,England,ctall
+1049,East of England,19/12/2022,0,0,0,England,ctall
+1050,East of England,20/12/2022,0,0,0,England,ctall
+1051,East of England,21/12/2022,0,0,0,England,ctall
+1052,East of England,22/12/2022,0,0,0,England,ctall
+1053,East of England,23/12/2022,0,0,0,England,ctall
+1054,East of England,24/12/2022,0,0,0,England,ctall
+1055,East of England,25/12/2022,0,0,0,England,ctall
+1056,East of England,26/12/2022,0,0,0,England,ctall
+1057,East of England,27/12/2022,0,0,0,England,ctall
+1058,East of England,28/12/2022,0,0,0,England,ctall
+1059,East of England,29/12/2022,0,0,0,England,ctall
+1060,East of England,30/12/2022,0,0,0,England,ctall
+1061,East of England,31/12/2022,0,0,0,England,ctall
+1062,East of England,01/01/2023,0,0,0,England,ctall
+1063,East of England,02/01/2023,0,0,0,England,ctall
+1064,East of England,03/01/2023,0,0,0,England,ctall
+1065,Yorkshire and The Humber,16/11/2022,0,0,0,England,ctall
+1066,Yorkshire and The Humber,17/11/2022,0,0,0,England,ctall
+1067,Yorkshire and The Humber,18/11/2022,0,0,0,England,ctall
+1068,Yorkshire and The Humber,19/11/2022,0,0,0,England,ctall
+1069,Yorkshire and The Humber,20/11/2022,0,0,0,England,ctall
+1070,Yorkshire and The Humber,21/11/2022,0,0,0,England,ctall
+1071,Yorkshire and The Humber,22/11/2022,0,0,0,England,ctall
+1072,Yorkshire and The Humber,23/11/2022,0,0,0,England,ctall
+1073,Yorkshire and The Humber,24/11/2022,0,0,0,England,ctall
+1074,Yorkshire and The Humber,25/11/2022,0,0,0,England,ctall
+1075,Yorkshire and The Humber,26/11/2022,0,0,0,England,ctall
+1076,Yorkshire and The Humber,27/11/2022,0,0,0,England,ctall
+1077,Yorkshire and The Humber,28/11/2022,0,0,0,England,ctall
+1078,Yorkshire and The Humber,29/11/2022,0,0,0,England,ctall
+1079,Yorkshire and The Humber,30/11/2022,0,0,0,England,ctall
+1080,Yorkshire and The Humber,01/12/2022,0,0,0,England,ctall
+1081,Yorkshire and The Humber,02/12/2022,0,0,0,England,ctall
+1082,Yorkshire and The Humber,03/12/2022,0,0,0,England,ctall
+1083,Yorkshire and The Humber,04/12/2022,0,0,0,England,ctall
+1084,Yorkshire and The Humber,05/12/2022,0,0,0,England,ctall
+1085,Yorkshire and The Humber,06/12/2022,0,0,0,England,ctall
+1086,Yorkshire and The Humber,07/12/2022,0,0,0,England,ctall
+1087,Yorkshire and The Humber,08/12/2022,0,0,0,England,ctall
+1088,Yorkshire and The Humber,09/12/2022,0,0,0,England,ctall
+1089,Yorkshire and The Humber,10/12/2022,0,0,0,England,ctall
+1090,Yorkshire and The Humber,11/12/2022,0,0,0,England,ctall
+1091,Yorkshire and The Humber,12/12/2022,0,0,0,England,ctall
+1092,Yorkshire and The Humber,13/12/2022,0,0,0,England,ctall
+1093,Yorkshire and The Humber,14/12/2022,0,0,0,England,ctall
+1094,Yorkshire and The Humber,15/12/2022,0,0,0,England,ctall
+1095,Yorkshire and The Humber,16/12/2022,0,0,0,England,ctall
+1096,Yorkshire and The Humber,17/12/2022,0,0,0,England,ctall
+1097,Yorkshire and The Humber,18/12/2022,0,0,0,England,ctall
+1098,Yorkshire and The Humber,19/12/2022,0,0,0,England,ctall
+1099,Yorkshire and The Humber,20/12/2022,0,0,0,England,ctall
+1100,Yorkshire and The Humber,21/12/2022,0,0,0,England,ctall
+1101,Yorkshire and The Humber,22/12/2022,0,0,0,England,ctall
+1102,Yorkshire and The Humber,23/12/2022,0,0,0,England,ctall
+1103,Yorkshire and The Humber,24/12/2022,0,0,0,England,ctall
+1104,Yorkshire and The Humber,25/12/2022,0,0,0,England,ctall
+1105,Yorkshire and The Humber,26/12/2022,0,0,0,England,ctall
+1106,Yorkshire and The Humber,27/12/2022,0,0,0,England,ctall
+1107,Yorkshire and The Humber,28/12/2022,0,0,0,England,ctall
+1108,Yorkshire and The Humber,29/12/2022,0,0,0,England,ctall
+1109,Yorkshire and The Humber,30/12/2022,0,0,0,England,ctall
+1110,Yorkshire and The Humber,31/12/2022,0,0,0,England,ctall
+1111,Yorkshire and The Humber,01/01/2023,0,0,0,England,ctall
+1112,Yorkshire and The Humber,02/01/2023,0,0,0,England,ctall
+1113,Yorkshire and The Humber,03/01/2023,0,0,0,England,ctall
+1114,North East,16/11/2022,0,0,0,England,ctall
+1115,North East,17/11/2022,0,0,0,England,ctall
+1116,North East,18/11/2022,0,0,0,England,ctall
+1117,North East,19/11/2022,0,0,0,England,ctall
+1118,North East,20/11/2022,0,0,0,England,ctall
+1119,North East,21/11/2022,0,0,0,England,ctall
+1120,North East,22/11/2022,0,0,0,England,ctall
+1121,North East,23/11/2022,0,0,0,England,ctall
+1122,North East,24/11/2022,0,0,0,England,ctall
+1123,North East,25/11/2022,0,0,0,England,ctall
+1124,North East,26/11/2022,0,0,0,England,ctall
+1125,North East,27/11/2022,0,0,0,England,ctall
+1126,North East,28/11/2022,0,0,0,England,ctall
+1127,North East,29/11/2022,0,0,0,England,ctall
+1128,North East,30/11/2022,0,0,0,England,ctall
+1129,North East,01/12/2022,0,0,0,England,ctall
+1130,North East,02/12/2022,0,0,0,England,ctall
+1131,North East,03/12/2022,0,0,0,England,ctall
+1132,North East,04/12/2022,0,0,0,England,ctall
+1133,North East,05/12/2022,0,0,0,England,ctall
+1134,North East,06/12/2022,0,0,0,England,ctall
+1135,North East,07/12/2022,0,0,0,England,ctall
+1136,North East,08/12/2022,0,0,0,England,ctall
+1137,North East,09/12/2022,0,0,0,England,ctall
+1138,North East,10/12/2022,0,0,0,England,ctall
+1139,North East,11/12/2022,0,0,0,England,ctall
+1140,North East,12/12/2022,0,0,0,England,ctall
+1141,North East,13/12/2022,0,0,0,England,ctall
+1142,North East,14/12/2022,0,0,0,England,ctall
+1143,North East,15/12/2022,0,0,0,England,ctall
+1144,North East,16/12/2022,0,0,0,England,ctall
+1145,North East,17/12/2022,0,0,0,England,ctall
+1146,North East,18/12/2022,0,0,0,England,ctall
+1147,North East,19/12/2022,0,0,0,England,ctall
+1148,North East,20/12/2022,0,0,0,England,ctall
+1149,North East,21/12/2022,0,0,0,England,ctall
+1150,North East,22/12/2022,0,0,0,England,ctall
+1151,North East,23/12/2022,0,0,0,England,ctall
+1152,North East,24/12/2022,0,0,0,England,ctall
+1153,North East,25/12/2022,0,0,0,England,ctall
+1154,North East,26/12/2022,0,0,0,England,ctall
+1155,North East,27/12/2022,0,0,0,England,ctall
+1156,North East,28/12/2022,0,0,0,England,ctall
+1157,North East,29/12/2022,0,0,0,England,ctall
+1158,North East,30/12/2022,0,0,0,England,ctall
+1159,North East,31/12/2022,0,0,0,England,ctall
+1160,North East,01/01/2023,0,0,0,England,ctall
+1161,North East,02/01/2023,0,0,0,England,ctall
+1162,North East,03/01/2023,0,0,0,England,ctall
+1163,England,16/11/2022,0,0,0,England,ct4
+1164,England,17/11/2022,0,0,0,England,ct4
+1165,England,18/11/2022,0,0,0,England,ct4
+1166,England,19/11/2022,0,0,0,England,ct4
+1167,England,20/11/2022,0,0,0,England,ct4
+1168,England,21/11/2022,0,0,0,England,ct4
+1169,England,22/11/2022,0,0,0,England,ct4
+1170,England,23/11/2022,0,0,0,England,ct4
+1171,England,24/11/2022,0,0,0,England,ct4
+1172,England,25/11/2022,0,0,0,England,ct4
+1173,England,26/11/2022,0,0,0,England,ct4
+1174,England,27/11/2022,0,0,0,England,ct4
+1175,England,28/11/2022,0,0,0,England,ct4
+1176,England,29/11/2022,0,0,0,England,ct4
+1177,England,30/11/2022,0,0,0,England,ct4
+1178,England,01/12/2022,0,0,0,England,ct4
+1179,England,02/12/2022,0,0,0,England,ct4
+1180,England,03/12/2022,0,0,0,England,ct4
+1181,England,04/12/2022,0,0,0,England,ct4
+1182,England,05/12/2022,0,0,0,England,ct4
+1183,England,06/12/2022,0,0,0,England,ct4
+1184,England,07/12/2022,0,0,0,England,ct4
+1185,England,08/12/2022,0,0,0,England,ct4
+1186,England,09/12/2022,0,0,0,England,ct4
+1187,England,10/12/2022,0,0,0,England,ct4
+1188,England,11/12/2022,0,0,0,England,ct4
+1189,England,12/12/2022,0,0,0,England,ct4
+1190,England,13/12/2022,0,0,0,England,ct4
+1191,England,14/12/2022,0,0,0,England,ct4
+1192,England,15/12/2022,0,0,0,England,ct4
+1193,England,16/12/2022,0,0,0,England,ct4
+1194,England,17/12/2022,0,0,0,England,ct4
+1195,England,18/12/2022,0,0,0,England,ct4
+1196,England,19/12/2022,0,0,0,England,ct4
+1197,England,20/12/2022,0,0,0,England,ct4
+1198,England,21/12/2022,0,0,0,England,ct4
+1199,England,22/12/2022,0,0,0,England,ct4
+1200,England,23/12/2022,0,0,0,England,ct4
+1201,England,24/12/2022,0,0,0,England,ct4
+1202,England,25/12/2022,0,0,0,England,ct4
+1203,England,26/12/2022,0,0,0,England,ct4
+1204,England,27/12/2022,0,0,0,England,ct4
+1205,England,28/12/2022,0,0,0,England,ct4
+1206,England,29/12/2022,0,0,0,England,ct4
+1207,England,30/12/2022,0,0,0,England,ct4
+1208,England,31/12/2022,0,0,0,England,ct4
+1209,England,01/01/2023,0,0,0,England,ct4
+1210,England,02/01/2023,0,0,0,England,ct4
+1211,England,03/01/2023,0,0,0,England,ct4
+1212,London,16/11/2022,0,0,0,England,ct4
+1213,London,17/11/2022,0,0,0,England,ct4
+1214,London,18/11/2022,0,0,0,England,ct4
+1215,London,19/11/2022,0,0,0,England,ct4
+1216,London,20/11/2022,0,0,0,England,ct4
+1217,London,21/11/2022,0,0,0,England,ct4
+1218,London,22/11/2022,0,0,0,England,ct4
+1219,London,23/11/2022,0,0,0,England,ct4
+1220,London,24/11/2022,0,0,0,England,ct4
+1221,London,25/11/2022,0,0,0,England,ct4
+1222,London,26/11/2022,0,0,0,England,ct4
+1223,London,27/11/2022,0,0,0,England,ct4
+1224,London,28/11/2022,0,0,0,England,ct4
+1225,London,29/11/2022,0,0,0,England,ct4
+1226,London,30/11/2022,0,0,0,England,ct4
+1227,London,01/12/2022,0,0,0,England,ct4
+1228,London,02/12/2022,0,0,0,England,ct4
+1229,London,03/12/2022,0,0,0,England,ct4
+1230,London,04/12/2022,0,0,0,England,ct4
+1231,London,05/12/2022,0,0,0,England,ct4
+1232,London,06/12/2022,0,0,0,England,ct4
+1233,London,07/12/2022,0,0,0,England,ct4
+1234,London,08/12/2022,0,0,0,England,ct4
+1235,London,09/12/2022,0,0,0,England,ct4
+1236,London,10/12/2022,0,0,0,England,ct4
+1237,London,11/12/2022,0,0,0,England,ct4
+1238,London,12/12/2022,0,0,0,England,ct4
+1239,London,13/12/2022,0,0,0,England,ct4
+1240,London,14/12/2022,0,0,0,England,ct4
+1241,London,15/12/2022,0,0,0,England,ct4
+1242,London,16/12/2022,0,0,0,England,ct4
+1243,London,17/12/2022,0,0,0,England,ct4
+1244,London,18/12/2022,0,0,0,England,ct4
+1245,London,19/12/2022,0,0,0,England,ct4
+1246,London,20/12/2022,0,0,0,England,ct4
+1247,London,21/12/2022,0,0,0,England,ct4
+1248,London,22/12/2022,0,0,0,England,ct4
+1249,London,23/12/2022,0,0,0,England,ct4
+1250,London,24/12/2022,0,0,0,England,ct4
+1251,London,25/12/2022,0,0,0,England,ct4
+1252,London,26/12/2022,0,0,0,England,ct4
+1253,London,27/12/2022,0,0,0,England,ct4
+1254,London,28/12/2022,0,0,0,England,ct4
+1255,London,29/12/2022,0,0,0,England,ct4
+1256,London,30/12/2022,0,0,0,England,ct4
+1257,London,31/12/2022,0,0,0,England,ct4
+1258,London,01/01/2023,0,0,0,England,ct4
+1259,London,02/01/2023,0,0,0,England,ct4
+1260,London,03/01/2023,0,0,0,England,ct4
+1261,South East,16/11/2022,0,0,0,England,ct4
+1262,South East,17/11/2022,0,0,0,England,ct4
+1263,South East,18/11/2022,0,0,0,England,ct4
+1264,South East,19/11/2022,0,0,0,England,ct4
+1265,South East,20/11/2022,0,0,0,England,ct4
+1266,South East,21/11/2022,0,0,0,England,ct4
+1267,South East,22/11/2022,0,0,0,England,ct4
+1268,South East,23/11/2022,0,0,0,England,ct4
+1269,South East,24/11/2022,0,0,0,England,ct4
+1270,South East,25/11/2022,0,0,0,England,ct4
+1271,South East,26/11/2022,0,0,0,England,ct4
+1272,South East,27/11/2022,0,0,0,England,ct4
+1273,South East,28/11/2022,0,0,0,England,ct4
+1274,South East,29/11/2022,0,0,0,England,ct4
+1275,South East,30/11/2022,0,0,0,England,ct4
+1276,South East,01/12/2022,0,0,0,England,ct4
+1277,South East,02/12/2022,0,0,0,England,ct4
+1278,South East,03/12/2022,0,0,0,England,ct4
+1279,South East,04/12/2022,0,0,0,England,ct4
+1280,South East,05/12/2022,0,0,0,England,ct4
+1281,South East,06/12/2022,0,0,0,England,ct4
+1282,South East,07/12/2022,0,0,0,England,ct4
+1283,South East,08/12/2022,0,0,0,England,ct4
+1284,South East,09/12/2022,0,0,0,England,ct4
+1285,South East,10/12/2022,0,0,0,England,ct4
+1286,South East,11/12/2022,0,0,0,England,ct4
+1287,South East,12/12/2022,0,0,0,England,ct4
+1288,South East,13/12/2022,0,0,0,England,ct4
+1289,South East,14/12/2022,0,0,0,England,ct4
+1290,South East,15/12/2022,0,0,0,England,ct4
+1291,South East,16/12/2022,0,0,0,England,ct4
+1292,South East,17/12/2022,0,0,0,England,ct4
+1293,South East,18/12/2022,0,0,0,England,ct4
+1294,South East,19/12/2022,0,0,0,England,ct4
+1295,South East,20/12/2022,0,0,0,England,ct4
+1296,South East,21/12/2022,0,0,0,England,ct4
+1297,South East,22/12/2022,0,0,0,England,ct4
+1298,South East,23/12/2022,0,0,0,England,ct4
+1299,South East,24/12/2022,0,0,0,England,ct4
+1300,South East,25/12/2022,0,0,0,England,ct4
+1301,South East,26/12/2022,0,0,0,England,ct4
+1302,South East,27/12/2022,0,0,0,England,ct4
+1303,South East,28/12/2022,0,0,0,England,ct4
+1304,South East,29/12/2022,0,0,0,England,ct4
+1305,South East,30/12/2022,0,0,0,England,ct4
+1306,South East,31/12/2022,0,0,0,England,ct4
+1307,South East,01/01/2023,0,0,0,England,ct4
+1308,South East,02/01/2023,0,0,0,England,ct4
+1309,South East,03/01/2023,0,0,0,England,ct4
+1310,North West,16/11/2022,0,0,0,England,ct4
+1311,North West,17/11/2022,0,0,0,England,ct4
+1312,North West,18/11/2022,0,0,0,England,ct4
+1313,North West,19/11/2022,0,0,0,England,ct4
+1314,North West,20/11/2022,0,0,0,England,ct4
+1315,North West,21/11/2022,0,0,0,England,ct4
+1316,North West,22/11/2022,0,0,0,England,ct4
+1317,North West,23/11/2022,0,0,0,England,ct4
+1318,North West,24/11/2022,0,0,0,England,ct4
+1319,North West,25/11/2022,0,0,0,England,ct4
+1320,North West,26/11/2022,0,0,0,England,ct4
+1321,North West,27/11/2022,0,0,0,England,ct4
+1322,North West,28/11/2022,0,0,0,England,ct4
+1323,North West,29/11/2022,0,0,0,England,ct4
+1324,North West,30/11/2022,0,0,0,England,ct4
+1325,North West,01/12/2022,0,0,0,England,ct4
+1326,North West,02/12/2022,0,0,0,England,ct4
+1327,North West,03/12/2022,0,0,0,England,ct4
+1328,North West,04/12/2022,0,0,0,England,ct4
+1329,North West,05/12/2022,0,0,0,England,ct4
+1330,North West,06/12/2022,0,0,0,England,ct4
+1331,North West,07/12/2022,0,0,0,England,ct4
+1332,North West,08/12/2022,0,0,0,England,ct4
+1333,North West,09/12/2022,0,0,0,England,ct4
+1334,North West,10/12/2022,0,0,0,England,ct4
+1335,North West,11/12/2022,0,0,0,England,ct4
+1336,North West,12/12/2022,0,0,0,England,ct4
+1337,North West,13/12/2022,0,0,0,England,ct4
+1338,North West,14/12/2022,0,0,0,England,ct4
+1339,North West,15/12/2022,0,0,0,England,ct4
+1340,North West,16/12/2022,0,0,0,England,ct4
+1341,North West,17/12/2022,0,0,0,England,ct4
+1342,North West,18/12/2022,0,0,0,England,ct4
+1343,North West,19/12/2022,0,0,0,England,ct4
+1344,North West,20/12/2022,0,0,0,England,ct4
+1345,North West,21/12/2022,0,0,0,England,ct4
+1346,North West,22/12/2022,0,0,0,England,ct4
+1347,North West,23/12/2022,0,0,0,England,ct4
+1348,North West,24/12/2022,0,0,0,England,ct4
+1349,North West,25/12/2022,0,0,0,England,ct4
+1350,North West,26/12/2022,0,0,0,England,ct4
+1351,North West,27/12/2022,0,0,0,England,ct4
+1352,North West,28/12/2022,0,0,0,England,ct4
+1353,North West,29/12/2022,0,0,0,England,ct4
+1354,North West,30/12/2022,0,0,0,England,ct4
+1355,North West,31/12/2022,0,0,0,England,ct4
+1356,North West,01/01/2023,0,0,0,England,ct4
+1357,North West,02/01/2023,0,0,0,England,ct4
+1358,North West,03/01/2023,0,0,0,England,ct4
+1359,South West,16/11/2022,0,0,0,England,ct4
+1360,South West,17/11/2022,0,0,0,England,ct4
+1361,South West,18/11/2022,0,0,0,England,ct4
+1362,South West,19/11/2022,0,0,0,England,ct4
+1363,South West,20/11/2022,0,0,0,England,ct4
+1364,South West,21/11/2022,0,0,0,England,ct4
+1365,South West,22/11/2022,0,0,0,England,ct4
+1366,South West,23/11/2022,0,0,0,England,ct4
+1367,South West,24/11/2022,0,0,0,England,ct4
+1368,South West,25/11/2022,0,0,0,England,ct4
+1369,South West,26/11/2022,0,0,0,England,ct4
+1370,South West,27/11/2022,0,0,0,England,ct4
+1371,South West,28/11/2022,0,0,0,England,ct4
+1372,South West,29/11/2022,0,0,0,England,ct4
+1373,South West,30/11/2022,0,0,0,England,ct4
+1374,South West,01/12/2022,0,0,0,England,ct4
+1375,South West,02/12/2022,0,0,0,England,ct4
+1376,South West,03/12/2022,0,0,0,England,ct4
+1377,South West,04/12/2022,0,0,0,England,ct4
+1378,South West,05/12/2022,0,0,0,England,ct4
+1379,South West,06/12/2022,0,0,0,England,ct4
+1380,South West,07/12/2022,0,0,0,England,ct4
+1381,South West,08/12/2022,0,0,0,England,ct4
+1382,South West,09/12/2022,0,0,0,England,ct4
+1383,South West,10/12/2022,0,0,0,England,ct4
+1384,South West,11/12/2022,0,0,0,England,ct4
+1385,South West,12/12/2022,0,0,0,England,ct4
+1386,South West,13/12/2022,0,0,0,England,ct4
+1387,South West,14/12/2022,0,0,0,England,ct4
+1388,South West,15/12/2022,0,0,0,England,ct4
+1389,South West,16/12/2022,0,0,0,England,ct4
+1390,South West,17/12/2022,0,0,0,England,ct4
+1391,South West,18/12/2022,0,0,0,England,ct4
+1392,South West,19/12/2022,0,0,0,England,ct4
+1393,South West,20/12/2022,0,0,0,England,ct4
+1394,South West,21/12/2022,0,0,0,England,ct4
+1395,South West,22/12/2022,0,0,0,England,ct4
+1396,South West,23/12/2022,0,0,0,England,ct4
+1397,South West,24/12/2022,0,0,0,England,ct4
+1398,South West,25/12/2022,0,0,0,England,ct4
+1399,South West,26/12/2022,0,0,0,England,ct4
+1400,South West,27/12/2022,0,0,0,England,ct4
+1401,South West,28/12/2022,0,0,0,England,ct4
+1402,South West,29/12/2022,0,0,0,England,ct4
+1403,South West,30/12/2022,0,0,0,England,ct4
+1404,South West,31/12/2022,0,0,0,England,ct4
+1405,South West,01/01/2023,0,0,0,England,ct4
+1406,South West,02/01/2023,0,0,0,England,ct4
+1407,South West,03/01/2023,0,0,0,England,ct4
+1408,West Midlands,16/11/2022,0,0,0,England,ct4
+1409,West Midlands,17/11/2022,0,0,0,England,ct4
+1410,West Midlands,18/11/2022,0,0,0,England,ct4
+1411,West Midlands,19/11/2022,0,0,0,England,ct4
+1412,West Midlands,20/11/2022,0,0,0,England,ct4
+1413,West Midlands,21/11/2022,0,0,0,England,ct4
+1414,West Midlands,22/11/2022,0,0,0,England,ct4
+1415,West Midlands,23/11/2022,0,0,0,England,ct4
+1416,West Midlands,24/11/2022,0,0,0,England,ct4
+1417,West Midlands,25/11/2022,0,0,0,England,ct4
+1418,West Midlands,26/11/2022,0,0,0,England,ct4
+1419,West Midlands,27/11/2022,0,0,0,England,ct4
+1420,West Midlands,28/11/2022,0,0,0,England,ct4
+1421,West Midlands,29/11/2022,0,0,0,England,ct4
+1422,West Midlands,30/11/2022,0,0,0,England,ct4
+1423,West Midlands,01/12/2022,0,0,0,England,ct4
+1424,West Midlands,02/12/2022,0,0,0,England,ct4
+1425,West Midlands,03/12/2022,0,0,0,England,ct4
+1426,West Midlands,04/12/2022,0,0,0,England,ct4
+1427,West Midlands,05/12/2022,0,0,0,England,ct4
+1428,West Midlands,06/12/2022,0,0,0,England,ct4
+1429,West Midlands,07/12/2022,0,0,0,England,ct4
+1430,West Midlands,08/12/2022,0,0,0,England,ct4
+1431,West Midlands,09/12/2022,0,0,0,England,ct4
+1432,West Midlands,10/12/2022,0,0,0,England,ct4
+1433,West Midlands,11/12/2022,0,0,0,England,ct4
+1434,West Midlands,12/12/2022,0,0,0,England,ct4
+1435,West Midlands,13/12/2022,0,0,0,England,ct4
+1436,West Midlands,14/12/2022,0,0,0,England,ct4
+1437,West Midlands,15/12/2022,0,0,0,England,ct4
+1438,West Midlands,16/12/2022,0,0,0,England,ct4
+1439,West Midlands,17/12/2022,0,0,0,England,ct4
+1440,West Midlands,18/12/2022,0,0,0,England,ct4
+1441,West Midlands,19/12/2022,0,0,0,England,ct4
+1442,West Midlands,20/12/2022,0,0,0,England,ct4
+1443,West Midlands,21/12/2022,0,0,0,England,ct4
+1444,West Midlands,22/12/2022,0,0,0,England,ct4
+1445,West Midlands,23/12/2022,0,0,0,England,ct4
+1446,West Midlands,24/12/2022,0,0,0,England,ct4
+1447,West Midlands,25/12/2022,0,0,0,England,ct4
+1448,West Midlands,26/12/2022,0,0,0,England,ct4
+1449,West Midlands,27/12/2022,0,0,0,England,ct4
+1450,West Midlands,28/12/2022,0,0,0,England,ct4
+1451,West Midlands,29/12/2022,0,0,0,England,ct4
+1452,West Midlands,30/12/2022,0,0,0,England,ct4
+1453,West Midlands,31/12/2022,0,0,0,England,ct4
+1454,West Midlands,01/01/2023,0,0,0,England,ct4
+1455,West Midlands,02/01/2023,0,0,0,England,ct4
+1456,West Midlands,03/01/2023,0,0,0,England,ct4
+1457,East Midlands,16/11/2022,0,0,0,England,ct4
+1458,East Midlands,17/11/2022,0,0,0,England,ct4
+1459,East Midlands,18/11/2022,0,0,0,England,ct4
+1460,East Midlands,19/11/2022,0,0,0,England,ct4
+1461,East Midlands,20/11/2022,0,0,0,England,ct4
+1462,East Midlands,21/11/2022,0,0,0,England,ct4
+1463,East Midlands,22/11/2022,0,0,0,England,ct4
+1464,East Midlands,23/11/2022,0,0,0,England,ct4
+1465,East Midlands,24/11/2022,0,0,0,England,ct4
+1466,East Midlands,25/11/2022,0,0,0,England,ct4
+1467,East Midlands,26/11/2022,0,0,0,England,ct4
+1468,East Midlands,27/11/2022,0,0,0,England,ct4
+1469,East Midlands,28/11/2022,0,0,0,England,ct4
+1470,East Midlands,29/11/2022,0,0,0,England,ct4
+1471,East Midlands,30/11/2022,0,0,0,England,ct4
+1472,East Midlands,01/12/2022,0,0,0,England,ct4
+1473,East Midlands,02/12/2022,0,0,0,England,ct4
+1474,East Midlands,03/12/2022,0,0,0,England,ct4
+1475,East Midlands,04/12/2022,0,0,0,England,ct4
+1476,East Midlands,05/12/2022,0,0,0,England,ct4
+1477,East Midlands,06/12/2022,0,0,0,England,ct4
+1478,East Midlands,07/12/2022,0,0,0,England,ct4
+1479,East Midlands,08/12/2022,0,0,0,England,ct4
+1480,East Midlands,09/12/2022,0,0,0,England,ct4
+1481,East Midlands,10/12/2022,0,0,0,England,ct4
+1482,East Midlands,11/12/2022,0,0,0,England,ct4
+1483,East Midlands,12/12/2022,0,0,0,England,ct4
+1484,East Midlands,13/12/2022,0,0,0,England,ct4
+1485,East Midlands,14/12/2022,0,0,0,England,ct4
+1486,East Midlands,15/12/2022,0,0,0,England,ct4
+1487,East Midlands,16/12/2022,0,0,0,England,ct4
+1488,East Midlands,17/12/2022,0,0,0,England,ct4
+1489,East Midlands,18/12/2022,0,0,0,England,ct4
+1490,East Midlands,19/12/2022,0,0,0,England,ct4
+1491,East Midlands,20/12/2022,0,0,0,England,ct4
+1492,East Midlands,21/12/2022,0,0,0,England,ct4
+1493,East Midlands,22/12/2022,0,0,0,England,ct4
+1494,East Midlands,23/12/2022,0,0,0,England,ct4
+1495,East Midlands,24/12/2022,0,0,0,England,ct4
+1496,East Midlands,25/12/2022,0,0,0,England,ct4
+1497,East Midlands,26/12/2022,0,0,0,England,ct4
+1498,East Midlands,27/12/2022,0,0,0,England,ct4
+1499,East Midlands,28/12/2022,0,0,0,England,ct4
+1500,East Midlands,29/12/2022,0,0,0,England,ct4
+1501,East Midlands,30/12/2022,0,0,0,England,ct4
+1502,East Midlands,31/12/2022,0,0,0,England,ct4
+1503,East Midlands,01/01/2023,0,0,0,England,ct4
+1504,East Midlands,02/01/2023,0,0,0,England,ct4
+1505,East Midlands,03/01/2023,0,0,0,England,ct4
+1506,East of England,16/11/2022,0,0,0,England,ct4
+1507,East of England,17/11/2022,0,0,0,England,ct4
+1508,East of England,18/11/2022,0,0,0,England,ct4
+1509,East of England,19/11/2022,0,0,0,England,ct4
+1510,East of England,20/11/2022,0,0,0,England,ct4
+1511,East of England,21/11/2022,0,0,0,England,ct4
+1512,East of England,22/11/2022,0,0,0,England,ct4
+1513,East of England,23/11/2022,0,0,0,England,ct4
+1514,East of England,24/11/2022,0,0,0,England,ct4
+1515,East of England,25/11/2022,0,0,0,England,ct4
+1516,East of England,26/11/2022,0,0,0,England,ct4
+1517,East of England,27/11/2022,0,0,0,England,ct4
+1518,East of England,28/11/2022,0,0,0,England,ct4
+1519,East of England,29/11/2022,0,0,0,England,ct4
+1520,East of England,30/11/2022,0,0,0,England,ct4
+1521,East of England,01/12/2022,0,0,0,England,ct4
+1522,East of England,02/12/2022,0,0,0,England,ct4
+1523,East of England,03/12/2022,0,0,0,England,ct4
+1524,East of England,04/12/2022,0,0,0,England,ct4
+1525,East of England,05/12/2022,0,0,0,England,ct4
+1526,East of England,06/12/2022,0,0,0,England,ct4
+1527,East of England,07/12/2022,0,0,0,England,ct4
+1528,East of England,08/12/2022,0,0,0,England,ct4
+1529,East of England,09/12/2022,0,0,0,England,ct4
+1530,East of England,10/12/2022,0,0,0,England,ct4
+1531,East of England,11/12/2022,0,0,0,England,ct4
+1532,East of England,12/12/2022,0,0,0,England,ct4
+1533,East of England,13/12/2022,0,0,0,England,ct4
+1534,East of England,14/12/2022,0,0,0,England,ct4
+1535,East of England,15/12/2022,0,0,0,England,ct4
+1536,East of England,16/12/2022,0,0,0,England,ct4
+1537,East of England,17/12/2022,0,0,0,England,ct4
+1538,East of England,18/12/2022,0,0,0,England,ct4
+1539,East of England,19/12/2022,0,0,0,England,ct4
+1540,East of England,20/12/2022,0,0,0,England,ct4
+1541,East of England,21/12/2022,0,0,0,England,ct4
+1542,East of England,22/12/2022,0,0,0,England,ct4
+1543,East of England,23/12/2022,0,0,0,England,ct4
+1544,East of England,24/12/2022,0,0,0,England,ct4
+1545,East of England,25/12/2022,0,0,0,England,ct4
+1546,East of England,26/12/2022,0,0,0,England,ct4
+1547,East of England,27/12/2022,0,0,0,England,ct4
+1548,East of England,28/12/2022,0,0,0,England,ct4
+1549,East of England,29/12/2022,0,0,0,England,ct4
+1550,East of England,30/12/2022,0,0,0,England,ct4
+1551,East of England,31/12/2022,0,0,0,England,ct4
+1552,East of England,01/01/2023,0,0,0,England,ct4
+1553,East of England,02/01/2023,0,0,0,England,ct4
+1554,East of England,03/01/2023,0,0,0,England,ct4
+1555,Yorkshire and The Humber,16/11/2022,0,0,0,England,ct4
+1556,Yorkshire and The Humber,17/11/2022,0,0,0,England,ct4
+1557,Yorkshire and The Humber,18/11/2022,0,0,0,England,ct4
+1558,Yorkshire and The Humber,19/11/2022,0,0,0,England,ct4
+1559,Yorkshire and The Humber,20/11/2022,0,0,0,England,ct4
+1560,Yorkshire and The Humber,21/11/2022,0,0,0,England,ct4
+1561,Yorkshire and The Humber,22/11/2022,0,0,0,England,ct4
+1562,Yorkshire and The Humber,23/11/2022,0,0,0,England,ct4
+1563,Yorkshire and The Humber,24/11/2022,0,0,0,England,ct4
+1564,Yorkshire and The Humber,25/11/2022,0,0,0,England,ct4
+1565,Yorkshire and The Humber,26/11/2022,0,0,0,England,ct4
+1566,Yorkshire and The Humber,27/11/2022,0,0,0,England,ct4
+1567,Yorkshire and The Humber,28/11/2022,0,0,0,England,ct4
+1568,Yorkshire and The Humber,29/11/2022,0,0,0,England,ct4
+1569,Yorkshire and The Humber,30/11/2022,0,0,0,England,ct4
+1570,Yorkshire and The Humber,01/12/2022,0,0,0,England,ct4
+1571,Yorkshire and The Humber,02/12/2022,0,0,0,England,ct4
+1572,Yorkshire and The Humber,03/12/2022,0,0,0,England,ct4
+1573,Yorkshire and The Humber,04/12/2022,0,0,0,England,ct4
+1574,Yorkshire and The Humber,05/12/2022,0,0,0,England,ct4
+1575,Yorkshire and The Humber,06/12/2022,0,0,0,England,ct4
+1576,Yorkshire and The Humber,07/12/2022,0,0,0,England,ct4
+1577,Yorkshire and The Humber,08/12/2022,0,0,0,England,ct4
+1578,Yorkshire and The Humber,09/12/2022,0,0,0,England,ct4
+1579,Yorkshire and The Humber,10/12/2022,0,0,0,England,ct4
+1580,Yorkshire and The Humber,11/12/2022,0,0,0,England,ct4
+1581,Yorkshire and The Humber,12/12/2022,0,0,0,England,ct4
+1582,Yorkshire and The Humber,13/12/2022,0,0,0,England,ct4
+1583,Yorkshire and The Humber,14/12/2022,0,0,0,England,ct4
+1584,Yorkshire and The Humber,15/12/2022,0,0,0,England,ct4
+1585,Yorkshire and The Humber,16/12/2022,0,0,0,England,ct4
+1586,Yorkshire and The Humber,17/12/2022,0,0,0,England,ct4
+1587,Yorkshire and The Humber,18/12/2022,0,0,0,England,ct4
+1588,Yorkshire and The Humber,19/12/2022,0,0,0,England,ct4
+1589,Yorkshire and The Humber,20/12/2022,0,0,0,England,ct4
+1590,Yorkshire and The Humber,21/12/2022,0,0,0,England,ct4
+1591,Yorkshire and The Humber,22/12/2022,0,0,0,England,ct4
+1592,Yorkshire and The Humber,23/12/2022,0,0,0,England,ct4
+1593,Yorkshire and The Humber,24/12/2022,0,0,0,England,ct4
+1594,Yorkshire and The Humber,25/12/2022,0,0,0,England,ct4
+1595,Yorkshire and The Humber,26/12/2022,0,0,0,England,ct4
+1596,Yorkshire and The Humber,27/12/2022,0,0,0,England,ct4
+1597,Yorkshire and The Humber,28/12/2022,0,0,0,England,ct4
+1598,Yorkshire and The Humber,29/12/2022,0,0,0,England,ct4
+1599,Yorkshire and The Humber,30/12/2022,0,0,0,England,ct4
+1600,Yorkshire and The Humber,31/12/2022,0,0,0,England,ct4
+1601,Yorkshire and The Humber,01/01/2023,0,0,0,England,ct4
+1602,Yorkshire and The Humber,02/01/2023,0,0,0,England,ct4
+1603,Yorkshire and The Humber,03/01/2023,0,0,0,England,ct4
+1604,North East,16/11/2022,0,0,0,England,ct4
+1605,North East,17/11/2022,0,0,0,England,ct4
+1606,North East,18/11/2022,0,0,0,England,ct4
+1607,North East,19/11/2022,0,0,0,England,ct4
+1608,North East,20/11/2022,0,0,0,England,ct4
+1609,North East,21/11/2022,0,0,0,England,ct4
+1610,North East,22/11/2022,0,0,0,England,ct4
+1611,North East,23/11/2022,0,0,0,England,ct4
+1612,North East,24/11/2022,0,0,0,England,ct4
+1613,North East,25/11/2022,0,0,0,England,ct4
+1614,North East,26/11/2022,0,0,0,England,ct4
+1615,North East,27/11/2022,0,0,0,England,ct4
+1616,North East,28/11/2022,0,0,0,England,ct4
+1617,North East,29/11/2022,0,0,0,England,ct4
+1618,North East,30/11/2022,0,0,0,England,ct4
+1619,North East,01/12/2022,0,0,0,England,ct4
+1620,North East,02/12/2022,0,0,0,England,ct4
+1621,North East,03/12/2022,0,0,0,England,ct4
+1622,North East,04/12/2022,0,0,0,England,ct4
+1623,North East,05/12/2022,0,0,0,England,ct4
+1624,North East,06/12/2022,0,0,0,England,ct4
+1625,North East,07/12/2022,0,0,0,England,ct4
+1626,North East,08/12/2022,0,0,0,England,ct4
+1627,North East,09/12/2022,0,0,0,England,ct4
+1628,North East,10/12/2022,0,0,0,England,ct4
+1629,North East,11/12/2022,0,0,0,England,ct4
+1630,North East,12/12/2022,0,0,0,England,ct4
+1631,North East,13/12/2022,0,0,0,England,ct4
+1632,North East,14/12/2022,0,0,0,England,ct4
+1633,North East,15/12/2022,0,0,0,England,ct4
+1634,North East,16/12/2022,0,0,0,England,ct4
+1635,North East,17/12/2022,0,0,0,England,ct4
+1636,North East,18/12/2022,0,0,0,England,ct4
+1637,North East,19/12/2022,0,0,0,England,ct4
+1638,North East,20/12/2022,0,0,0,England,ct4
+1639,North East,21/12/2022,0,0,0,England,ct4
+1640,North East,22/12/2022,0,0,0,England,ct4
+1641,North East,23/12/2022,0,0,0,England,ct4
+1642,North East,24/12/2022,0,0,0,England,ct4
+1643,North East,25/12/2022,0,0,0,England,ct4
+1644,North East,26/12/2022,0,0,0,England,ct4
+1645,North East,27/12/2022,0,0,0,England,ct4
+1646,North East,28/12/2022,0,0,0,England,ct4
+1647,North East,29/12/2022,0,0,0,England,ct4
+1648,North East,30/12/2022,0,0,0,England,ct4
+1649,North East,31/12/2022,0,0,0,England,ct4
+1650,North East,01/01/2023,0,0,0,England,ct4
+1651,North East,02/01/2023,0,0,0,England,ct4
+1652,North East,03/01/2023,0,0,0,England,ct4
+1653,England,16/11/2022,0,0,0,England,ct7
+1654,England,17/11/2022,0,0,0,England,ct7
+1655,England,18/11/2022,0,0,0,England,ct7
+1656,England,19/11/2022,0,0,0,England,ct7
+1657,England,20/11/2022,0,0,0,England,ct7
+1658,England,21/11/2022,0,0,0,England,ct7
+1659,England,22/11/2022,0,0,0,England,ct7
+1660,England,23/11/2022,0,0,0,England,ct7
+1661,England,24/11/2022,0,0,0,England,ct7
+1662,England,25/11/2022,0,0,0,England,ct7
+1663,England,26/11/2022,0,0,0,England,ct7
+1664,England,27/11/2022,0,0,0,England,ct7
+1665,England,28/11/2022,0,0,0,England,ct7
+1666,England,29/11/2022,0,0,0,England,ct7
+1667,England,30/11/2022,0,0,0,England,ct7
+1668,England,01/12/2022,0,0,0,England,ct7
+1669,England,02/12/2022,0,0,0,England,ct7
+1670,England,03/12/2022,0,0,0,England,ct7
+1671,England,04/12/2022,0,0,0,England,ct7
+1672,England,05/12/2022,0,0,0,England,ct7
+1673,England,06/12/2022,0,0,0,England,ct7
+1674,England,07/12/2022,0,0,0,England,ct7
+1675,England,08/12/2022,0,0,0,England,ct7
+1676,England,09/12/2022,0,0,0,England,ct7
+1677,England,10/12/2022,0,0,0,England,ct7
+1678,England,11/12/2022,0,0,0,England,ct7
+1679,England,12/12/2022,0,0,0,England,ct7
+1680,England,13/12/2022,0,0,0,England,ct7
+1681,England,14/12/2022,0,0,0,England,ct7
+1682,England,15/12/2022,0,0,0,England,ct7
+1683,England,16/12/2022,0,0,0,England,ct7
+1684,England,17/12/2022,0,0,0,England,ct7
+1685,England,18/12/2022,0,0,0,England,ct7
+1686,England,19/12/2022,0,0,0,England,ct7
+1687,England,20/12/2022,0,0,0,England,ct7
+1688,England,21/12/2022,0,0,0,England,ct7
+1689,England,22/12/2022,0,0,0,England,ct7
+1690,England,23/12/2022,0,0,0,England,ct7
+1691,England,24/12/2022,0,0,0,England,ct7
+1692,England,25/12/2022,0,0,0,England,ct7
+1693,England,26/12/2022,0,0,0,England,ct7
+1694,England,27/12/2022,0,0,0,England,ct7
+1695,England,28/12/2022,0,0,0,England,ct7
+1696,England,29/12/2022,0,0,0,England,ct7
+1697,England,30/12/2022,0,0,0,England,ct7
+1698,England,31/12/2022,0,0,0,England,ct7
+1699,England,01/01/2023,0,0,0,England,ct7
+1700,England,02/01/2023,0,0,0,England,ct7
+1701,England,03/01/2023,0,0,0,England,ct7
+1702,London,16/11/2022,0,0,0,England,ct7
+1703,London,17/11/2022,0,0,0,England,ct7
+1704,London,18/11/2022,0,0,0,England,ct7
+1705,London,19/11/2022,0,0,0,England,ct7
+1706,London,20/11/2022,0,0,0,England,ct7
+1707,London,21/11/2022,0,0,0,England,ct7
+1708,London,22/11/2022,0,0,0,England,ct7
+1709,London,23/11/2022,0,0,0,England,ct7
+1710,London,24/11/2022,0,0,0,England,ct7
+1711,London,25/11/2022,0,0,0,England,ct7
+1712,London,26/11/2022,0,0,0,England,ct7
+1713,London,27/11/2022,0,0,0,England,ct7
+1714,London,28/11/2022,0,0,0,England,ct7
+1715,London,29/11/2022,0,0,0,England,ct7
+1716,London,30/11/2022,0,0,0,England,ct7
+1717,London,01/12/2022,0,0,0,England,ct7
+1718,London,02/12/2022,0,0,0,England,ct7
+1719,London,03/12/2022,0,0,0,England,ct7
+1720,London,04/12/2022,0,0,0,England,ct7
+1721,London,05/12/2022,0,0,0,England,ct7
+1722,London,06/12/2022,0,0,0,England,ct7
+1723,London,07/12/2022,0,0,0,England,ct7
+1724,London,08/12/2022,0,0,0,England,ct7
+1725,London,09/12/2022,0,0,0,England,ct7
+1726,London,10/12/2022,0,0,0,England,ct7
+1727,London,11/12/2022,0,0,0,England,ct7
+1728,London,12/12/2022,0,0,0,England,ct7
+1729,London,13/12/2022,0,0,0,England,ct7
+1730,London,14/12/2022,0,0,0,England,ct7
+1731,London,15/12/2022,0,0,0,England,ct7
+1732,London,16/12/2022,0,0,0,England,ct7
+1733,London,17/12/2022,0,0,0,England,ct7
+1734,London,18/12/2022,0,0,0,England,ct7
+1735,London,19/12/2022,0,0,0,England,ct7
+1736,London,20/12/2022,0,0,0,England,ct7
+1737,London,21/12/2022,0,0,0,England,ct7
+1738,London,22/12/2022,0,0,0,England,ct7
+1739,London,23/12/2022,0,0,0,England,ct7
+1740,London,24/12/2022,0,0,0,England,ct7
+1741,London,25/12/2022,0,0,0,England,ct7
+1742,London,26/12/2022,0,0,0,England,ct7
+1743,London,27/12/2022,0,0,0,England,ct7
+1744,London,28/12/2022,0,0,0,England,ct7
+1745,London,29/12/2022,0,0,0,England,ct7
+1746,London,30/12/2022,0,0,0,England,ct7
+1747,London,31/12/2022,0,0,0,England,ct7
+1748,London,01/01/2023,0,0,0,England,ct7
+1749,London,02/01/2023,0,0,0,England,ct7
+1750,London,03/01/2023,0,0,0,England,ct7
+1751,South East,16/11/2022,0,0,0,England,ct7
+1752,South East,17/11/2022,0,0,0,England,ct7
+1753,South East,18/11/2022,0,0,0,England,ct7
+1754,South East,19/11/2022,0,0,0,England,ct7
+1755,South East,20/11/2022,0,0,0,England,ct7
+1756,South East,21/11/2022,0,0,0,England,ct7
+1757,South East,22/11/2022,0,0,0,England,ct7
+1758,South East,23/11/2022,0,0,0,England,ct7
+1759,South East,24/11/2022,0,0,0,England,ct7
+1760,South East,25/11/2022,0,0,0,England,ct7
+1761,South East,26/11/2022,0,0,0,England,ct7
+1762,South East,27/11/2022,0,0,0,England,ct7
+1763,South East,28/11/2022,0,0,0,England,ct7
+1764,South East,29/11/2022,0,0,0,England,ct7
+1765,South East,30/11/2022,0,0,0,England,ct7
+1766,South East,01/12/2022,0,0,0,England,ct7
+1767,South East,02/12/2022,0,0,0,England,ct7
+1768,South East,03/12/2022,0,0,0,England,ct7
+1769,South East,04/12/2022,0,0,0,England,ct7
+1770,South East,05/12/2022,0,0,0,England,ct7
+1771,South East,06/12/2022,0,0,0,England,ct7
+1772,South East,07/12/2022,0,0,0,England,ct7
+1773,South East,08/12/2022,0,0,0,England,ct7
+1774,South East,09/12/2022,0,0,0,England,ct7
+1775,South East,10/12/2022,0,0,0,England,ct7
+1776,South East,11/12/2022,0,0,0,England,ct7
+1777,South East,12/12/2022,0,0,0,England,ct7
+1778,South East,13/12/2022,0,0,0,England,ct7
+1779,South East,14/12/2022,0,0,0,England,ct7
+1780,South East,15/12/2022,0,0,0,England,ct7
+1781,South East,16/12/2022,0,0,0,England,ct7
+1782,South East,17/12/2022,0,0,0,England,ct7
+1783,South East,18/12/2022,0,0,0,England,ct7
+1784,South East,19/12/2022,0,0,0,England,ct7
+1785,South East,20/12/2022,0,0,0,England,ct7
+1786,South East,21/12/2022,0,0,0,England,ct7
+1787,South East,22/12/2022,0,0,0,England,ct7
+1788,South East,23/12/2022,0,0,0,England,ct7
+1789,South East,24/12/2022,0,0,0,England,ct7
+1790,South East,25/12/2022,0,0,0,England,ct7
+1791,South East,26/12/2022,0,0,0,England,ct7
+1792,South East,27/12/2022,0,0,0,England,ct7
+1793,South East,28/12/2022,0,0,0,England,ct7
+1794,South East,29/12/2022,0,0,0,England,ct7
+1795,South East,30/12/2022,0,0,0,England,ct7
+1796,South East,31/12/2022,0,0,0,England,ct7
+1797,South East,01/01/2023,0,0,0,England,ct7
+1798,South East,02/01/2023,0,0,0,England,ct7
+1799,South East,03/01/2023,0,0,0,England,ct7
+1800,North West,16/11/2022,0,0,0,England,ct7
+1801,North West,17/11/2022,0,0,0,England,ct7
+1802,North West,18/11/2022,0,0,0,England,ct7
+1803,North West,19/11/2022,0,0,0,England,ct7
+1804,North West,20/11/2022,0,0,0,England,ct7
+1805,North West,21/11/2022,0,0,0,England,ct7
+1806,North West,22/11/2022,0,0,0,England,ct7
+1807,North West,23/11/2022,0,0,0,England,ct7
+1808,North West,24/11/2022,0,0,0,England,ct7
+1809,North West,25/11/2022,0,0,0,England,ct7
+1810,North West,26/11/2022,0,0,0,England,ct7
+1811,North West,27/11/2022,0,0,0,England,ct7
+1812,North West,28/11/2022,0,0,0,England,ct7
+1813,North West,29/11/2022,0,0,0,England,ct7
+1814,North West,30/11/2022,0,0,0,England,ct7
+1815,North West,01/12/2022,0,0,0,England,ct7
+1816,North West,02/12/2022,0,0,0,England,ct7
+1817,North West,03/12/2022,0,0,0,England,ct7
+1818,North West,04/12/2022,0,0,0,England,ct7
+1819,North West,05/12/2022,0,0,0,England,ct7
+1820,North West,06/12/2022,0,0,0,England,ct7
+1821,North West,07/12/2022,0,0,0,England,ct7
+1822,North West,08/12/2022,0,0,0,England,ct7
+1823,North West,09/12/2022,0,0,0,England,ct7
+1824,North West,10/12/2022,0,0,0,England,ct7
+1825,North West,11/12/2022,0,0,0,England,ct7
+1826,North West,12/12/2022,0,0,0,England,ct7
+1827,North West,13/12/2022,0,0,0,England,ct7
+1828,North West,14/12/2022,0,0,0,England,ct7
+1829,North West,15/12/2022,0,0,0,England,ct7
+1830,North West,16/12/2022,0,0,0,England,ct7
+1831,North West,17/12/2022,0,0,0,England,ct7
+1832,North West,18/12/2022,0,0,0,England,ct7
+1833,North West,19/12/2022,0,0,0,England,ct7
+1834,North West,20/12/2022,0,0,0,England,ct7
+1835,North West,21/12/2022,0,0,0,England,ct7
+1836,North West,22/12/2022,0,0,0,England,ct7
+1837,North West,23/12/2022,0,0,0,England,ct7
+1838,North West,24/12/2022,0,0,0,England,ct7
+1839,North West,25/12/2022,0,0,0,England,ct7
+1840,North West,26/12/2022,0,0,0,England,ct7
+1841,North West,27/12/2022,0,0,0,England,ct7
+1842,North West,28/12/2022,0,0,0,England,ct7
+1843,North West,29/12/2022,0,0,0,England,ct7
+1844,North West,30/12/2022,0,0,0,England,ct7
+1845,North West,31/12/2022,0,0,0,England,ct7
+1846,North West,01/01/2023,0,0,0,England,ct7
+1847,North West,02/01/2023,0,0,0,England,ct7
+1848,North West,03/01/2023,0,0,0,England,ct7
+1849,South West,16/11/2022,0,0,0,England,ct7
+1850,South West,17/11/2022,0,0,0,England,ct7
+1851,South West,18/11/2022,0,0,0,England,ct7
+1852,South West,19/11/2022,0,0,0,England,ct7
+1853,South West,20/11/2022,0,0,0,England,ct7
+1854,South West,21/11/2022,0,0,0,England,ct7
+1855,South West,22/11/2022,0,0,0,England,ct7
+1856,South West,23/11/2022,0,0,0,England,ct7
+1857,South West,24/11/2022,0,0,0,England,ct7
+1858,South West,25/11/2022,0,0,0,England,ct7
+1859,South West,26/11/2022,0,0,0,England,ct7
+1860,South West,27/11/2022,0,0,0,England,ct7
+1861,South West,28/11/2022,0,0,0,England,ct7
+1862,South West,29/11/2022,0,0,0,England,ct7
+1863,South West,30/11/2022,0,0,0,England,ct7
+1864,South West,01/12/2022,0,0,0,England,ct7
+1865,South West,02/12/2022,0,0,0,England,ct7
+1866,South West,03/12/2022,0,0,0,England,ct7
+1867,South West,04/12/2022,0,0,0,England,ct7
+1868,South West,05/12/2022,0,0,0,England,ct7
+1869,South West,06/12/2022,0,0,0,England,ct7
+1870,South West,07/12/2022,0,0,0,England,ct7
+1871,South West,08/12/2022,0,0,0,England,ct7
+1872,South West,09/12/2022,0,0,0,England,ct7
+1873,South West,10/12/2022,0,0,0,England,ct7
+1874,South West,11/12/2022,0,0,0,England,ct7
+1875,South West,12/12/2022,0,0,0,England,ct7
+1876,South West,13/12/2022,0,0,0,England,ct7
+1877,South West,14/12/2022,0,0,0,England,ct7
+1878,South West,15/12/2022,0,0,0,England,ct7
+1879,South West,16/12/2022,0,0,0,England,ct7
+1880,South West,17/12/2022,0,0,0,England,ct7
+1881,South West,18/12/2022,0,0,0,England,ct7
+1882,South West,19/12/2022,0,0,0,England,ct7
+1883,South West,20/12/2022,0,0,0,England,ct7
+1884,South West,21/12/2022,0,0,0,England,ct7
+1885,South West,22/12/2022,0,0,0,England,ct7
+1886,South West,23/12/2022,0,0,0,England,ct7
+1887,South West,24/12/2022,0,0,0,England,ct7
+1888,South West,25/12/2022,0,0,0,England,ct7
+1889,South West,26/12/2022,0,0,0,England,ct7
+1890,South West,27/12/2022,0,0,0,England,ct7
+1891,South West,28/12/2022,0,0,0,England,ct7
+1892,South West,29/12/2022,0,0,0,England,ct7
+1893,South West,30/12/2022,0,0,0,England,ct7
+1894,South West,31/12/2022,0,0,0,England,ct7
+1895,South West,01/01/2023,0,0,0,England,ct7
+1896,South West,02/01/2023,0,0,0,England,ct7
+1897,South West,03/01/2023,0,0,0,England,ct7
+1898,West Midlands,16/11/2022,0,0,0,England,ct7
+1899,West Midlands,17/11/2022,0,0,0,England,ct7
+1900,West Midlands,18/11/2022,0,0,0,England,ct7
+1901,West Midlands,19/11/2022,0,0,0,England,ct7
+1902,West Midlands,20/11/2022,0,0,0,England,ct7
+1903,West Midlands,21/11/2022,0,0,0,England,ct7
+1904,West Midlands,22/11/2022,0,0,0,England,ct7
+1905,West Midlands,23/11/2022,0,0,0,England,ct7
+1906,West Midlands,24/11/2022,0,0,0,England,ct7
+1907,West Midlands,25/11/2022,0,0,0,England,ct7
+1908,West Midlands,26/11/2022,0,0,0,England,ct7
+1909,West Midlands,27/11/2022,0,0,0,England,ct7
+1910,West Midlands,28/11/2022,0,0,0,England,ct7
+1911,West Midlands,29/11/2022,0,0,0,England,ct7
+1912,West Midlands,30/11/2022,0,0,0,England,ct7
+1913,West Midlands,01/12/2022,0,0,0,England,ct7
+1914,West Midlands,02/12/2022,0,0,0,England,ct7
+1915,West Midlands,03/12/2022,0,0,0,England,ct7
+1916,West Midlands,04/12/2022,0,0,0,England,ct7
+1917,West Midlands,05/12/2022,0,0,0,England,ct7
+1918,West Midlands,06/12/2022,0,0,0,England,ct7
+1919,West Midlands,07/12/2022,0,0,0,England,ct7
+1920,West Midlands,08/12/2022,0,0,0,England,ct7
+1921,West Midlands,09/12/2022,0,0,0,England,ct7
+1922,West Midlands,10/12/2022,0,0,0,England,ct7
+1923,West Midlands,11/12/2022,0,0,0,England,ct7
+1924,West Midlands,12/12/2022,0,0,0,England,ct7
+1925,West Midlands,13/12/2022,0,0,0,England,ct7
+1926,West Midlands,14/12/2022,0,0,0,England,ct7
+1927,West Midlands,15/12/2022,0,0,0,England,ct7
+1928,West Midlands,16/12/2022,0,0,0,England,ct7
+1929,West Midlands,17/12/2022,0,0,0,England,ct7
+1930,West Midlands,18/12/2022,0,0,0,England,ct7
+1931,West Midlands,19/12/2022,0,0,0,England,ct7
+1932,West Midlands,20/12/2022,0,0,0,England,ct7
+1933,West Midlands,21/12/2022,0,0,0,England,ct7
+1934,West Midlands,22/12/2022,0,0,0,England,ct7
+1935,West Midlands,23/12/2022,0,0,0,England,ct7
+1936,West Midlands,24/12/2022,0,0,0,England,ct7
+1937,West Midlands,25/12/2022,0,0,0,England,ct7
+1938,West Midlands,26/12/2022,0,0,0,England,ct7
+1939,West Midlands,27/12/2022,0,0,0,England,ct7
+1940,West Midlands,28/12/2022,0,0,0,England,ct7
+1941,West Midlands,29/12/2022,0,0,0,England,ct7
+1942,West Midlands,30/12/2022,0,0,0,England,ct7
+1943,West Midlands,31/12/2022,0,0,0,England,ct7
+1944,West Midlands,01/01/2023,0,0,0,England,ct7
+1945,West Midlands,02/01/2023,0,0,0,England,ct7
+1946,West Midlands,03/01/2023,0,0,0,England,ct7
+1947,East Midlands,16/11/2022,0,0,0,England,ct7
+1948,East Midlands,17/11/2022,0,0,0,England,ct7
+1949,East Midlands,18/11/2022,0,0,0,England,ct7
+1950,East Midlands,19/11/2022,0,0,0,England,ct7
+1951,East Midlands,20/11/2022,0,0,0,England,ct7
+1952,East Midlands,21/11/2022,0,0,0,England,ct7
+1953,East Midlands,22/11/2022,0,0,0,England,ct7
+1954,East Midlands,23/11/2022,0,0,0,England,ct7
+1955,East Midlands,24/11/2022,0,0,0,England,ct7
+1956,East Midlands,25/11/2022,0,0,0,England,ct7
+1957,East Midlands,26/11/2022,0,0,0,England,ct7
+1958,East Midlands,27/11/2022,0,0,0,England,ct7
+1959,East Midlands,28/11/2022,0,0,0,England,ct7
+1960,East Midlands,29/11/2022,0,0,0,England,ct7
+1961,East Midlands,30/11/2022,0,0,0,England,ct7
+1962,East Midlands,01/12/2022,0,0,0,England,ct7
+1963,East Midlands,02/12/2022,0,0,0,England,ct7
+1964,East Midlands,03/12/2022,0,0,0,England,ct7
+1965,East Midlands,04/12/2022,0,0,0,England,ct7
+1966,East Midlands,05/12/2022,0,0,0,England,ct7
+1967,East Midlands,06/12/2022,0,0,0,England,ct7
+1968,East Midlands,07/12/2022,0,0,0,England,ct7
+1969,East Midlands,08/12/2022,0,0,0,England,ct7
+1970,East Midlands,09/12/2022,0,0,0,England,ct7
+1971,East Midlands,10/12/2022,0,0,0,England,ct7
+1972,East Midlands,11/12/2022,0,0,0,England,ct7
+1973,East Midlands,12/12/2022,0,0,0,England,ct7
+1974,East Midlands,13/12/2022,0,0,0,England,ct7
+1975,East Midlands,14/12/2022,0,0,0,England,ct7
+1976,East Midlands,15/12/2022,0,0,0,England,ct7
+1977,East Midlands,16/12/2022,0,0,0,England,ct7
+1978,East Midlands,17/12/2022,0,0,0,England,ct7
+1979,East Midlands,18/12/2022,0,0,0,England,ct7
+1980,East Midlands,19/12/2022,0,0,0,England,ct7
+1981,East Midlands,20/12/2022,0,0,0,England,ct7
+1982,East Midlands,21/12/2022,0,0,0,England,ct7
+1983,East Midlands,22/12/2022,0,0,0,England,ct7
+1984,East Midlands,23/12/2022,0,0,0,England,ct7
+1985,East Midlands,24/12/2022,0,0,0,England,ct7
+1986,East Midlands,25/12/2022,0,0,0,England,ct7
+1987,East Midlands,26/12/2022,0,0,0,England,ct7
+1988,East Midlands,27/12/2022,0,0,0,England,ct7
+1989,East Midlands,28/12/2022,0,0,0,England,ct7
+1990,East Midlands,29/12/2022,0,0,0,England,ct7
+1991,East Midlands,30/12/2022,0,0,0,England,ct7
+1992,East Midlands,31/12/2022,0,0,0,England,ct7
+1993,East Midlands,01/01/2023,0,0,0,England,ct7
+1994,East Midlands,02/01/2023,0,0,0,England,ct7
+1995,East Midlands,03/01/2023,0,0,0,England,ct7
+1996,East of England,16/11/2022,0,0,0,England,ct7
+1997,East of England,17/11/2022,0,0,0,England,ct7
+1998,East of England,18/11/2022,0,0,0,England,ct7
+1999,East of England,19/11/2022,0,0,0,England,ct7
+2000,East of England,20/11/2022,0,0,0,England,ct7
+2001,East of England,21/11/2022,0,0,0,England,ct7
+2002,East of England,22/11/2022,0,0,0,England,ct7
+2003,East of England,23/11/2022,0,0,0,England,ct7
+2004,East of England,24/11/2022,0,0,0,England,ct7
+2005,East of England,25/11/2022,0,0,0,England,ct7
+2006,East of England,26/11/2022,0,0,0,England,ct7
+2007,East of England,27/11/2022,0,0,0,England,ct7
+2008,East of England,28/11/2022,0,0,0,England,ct7
+2009,East of England,29/11/2022,0,0,0,England,ct7
+2010,East of England,30/11/2022,0,0,0,England,ct7
+2011,East of England,01/12/2022,0,0,0,England,ct7
+2012,East of England,02/12/2022,0,0,0,England,ct7
+2013,East of England,03/12/2022,0,0,0,England,ct7
+2014,East of England,04/12/2022,0,0,0,England,ct7
+2015,East of England,05/12/2022,0,0,0,England,ct7
+2016,East of England,06/12/2022,0,0,0,England,ct7
+2017,East of England,07/12/2022,0,0,0,England,ct7
+2018,East of England,08/12/2022,0,0,0,England,ct7
+2019,East of England,09/12/2022,0,0,0,England,ct7
+2020,East of England,10/12/2022,0,0,0,England,ct7
+2021,East of England,11/12/2022,0,0,0,England,ct7
+2022,East of England,12/12/2022,0,0,0,England,ct7
+2023,East of England,13/12/2022,0,0,0,England,ct7
+2024,East of England,14/12/2022,0,0,0,England,ct7
+2025,East of England,15/12/2022,0,0,0,England,ct7
+2026,East of England,16/12/2022,0,0,0,England,ct7
+2027,East of England,17/12/2022,0,0,0,England,ct7
+2028,East of England,18/12/2022,0,0,0,England,ct7
+2029,East of England,19/12/2022,0,0,0,England,ct7
+2030,East of England,20/12/2022,0,0,0,England,ct7
+2031,East of England,21/12/2022,0,0,0,England,ct7
+2032,East of England,22/12/2022,0,0,0,England,ct7
+2033,East of England,23/12/2022,0,0,0,England,ct7
+2034,East of England,24/12/2022,0,0,0,England,ct7
+2035,East of England,25/12/2022,0,0,0,England,ct7
+2036,East of England,26/12/2022,0,0,0,England,ct7
+2037,East of England,27/12/2022,0,0,0,England,ct7
+2038,East of England,28/12/2022,0,0,0,England,ct7
+2039,East of England,29/12/2022,0,0,0,England,ct7
+2040,East of England,30/12/2022,0,0,0,England,ct7
+2041,East of England,31/12/2022,0,0,0,England,ct7
+2042,East of England,01/01/2023,0,0,0,England,ct7
+2043,East of England,02/01/2023,0,0,0,England,ct7
+2044,East of England,03/01/2023,0,0,0,England,ct7
+2045,Yorkshire and The Humber,16/11/2022,0,0,0,England,ct7
+2046,Yorkshire and The Humber,17/11/2022,0,0,0,England,ct7
+2047,Yorkshire and The Humber,18/11/2022,0,0,0,England,ct7
+2048,Yorkshire and The Humber,19/11/2022,0,0,0,England,ct7
+2049,Yorkshire and The Humber,20/11/2022,0,0,0,England,ct7
+2050,Yorkshire and The Humber,21/11/2022,0,0,0,England,ct7
+2051,Yorkshire and The Humber,22/11/2022,0,0,0,England,ct7
+2052,Yorkshire and The Humber,23/11/2022,0,0,0,England,ct7
+2053,Yorkshire and The Humber,24/11/2022,0,0,0,England,ct7
+2054,Yorkshire and The Humber,25/11/2022,0,0,0,England,ct7
+2055,Yorkshire and The Humber,26/11/2022,0,0,0,England,ct7
+2056,Yorkshire and The Humber,27/11/2022,0,0,0,England,ct7
+2057,Yorkshire and The Humber,28/11/2022,0,0,0,England,ct7
+2058,Yorkshire and The Humber,29/11/2022,0,0,0,England,ct7
+2059,Yorkshire and The Humber,30/11/2022,0,0,0,England,ct7
+2060,Yorkshire and The Humber,01/12/2022,0,0,0,England,ct7
+2061,Yorkshire and The Humber,02/12/2022,0,0,0,England,ct7
+2062,Yorkshire and The Humber,03/12/2022,0,0,0,England,ct7
+2063,Yorkshire and The Humber,04/12/2022,0,0,0,England,ct7
+2064,Yorkshire and The Humber,05/12/2022,0,0,0,England,ct7
+2065,Yorkshire and The Humber,06/12/2022,0,0,0,England,ct7
+2066,Yorkshire and The Humber,07/12/2022,0,0,0,England,ct7
+2067,Yorkshire and The Humber,08/12/2022,0,0,0,England,ct7
+2068,Yorkshire and The Humber,09/12/2022,0,0,0,England,ct7
+2069,Yorkshire and The Humber,10/12/2022,0,0,0,England,ct7
+2070,Yorkshire and The Humber,11/12/2022,0,0,0,England,ct7
+2071,Yorkshire and The Humber,12/12/2022,0,0,0,England,ct7
+2072,Yorkshire and The Humber,13/12/2022,0,0,0,England,ct7
+2073,Yorkshire and The Humber,14/12/2022,0,0,0,England,ct7
+2074,Yorkshire and The Humber,15/12/2022,0,0,0,England,ct7
+2075,Yorkshire and The Humber,16/12/2022,0,0,0,England,ct7
+2076,Yorkshire and The Humber,17/12/2022,0,0,0,England,ct7
+2077,Yorkshire and The Humber,18/12/2022,0,0,0,England,ct7
+2078,Yorkshire and The Humber,19/12/2022,0,0,0,England,ct7
+2079,Yorkshire and The Humber,20/12/2022,0,0,0,England,ct7
+2080,Yorkshire and The Humber,21/12/2022,0,0,0,England,ct7
+2081,Yorkshire and The Humber,22/12/2022,0,0,0,England,ct7
+2082,Yorkshire and The Humber,23/12/2022,0,0,0,England,ct7
+2083,Yorkshire and The Humber,24/12/2022,0,0,0,England,ct7
+2084,Yorkshire and The Humber,25/12/2022,0,0,0,England,ct7
+2085,Yorkshire and The Humber,26/12/2022,0,0,0,England,ct7
+2086,Yorkshire and The Humber,27/12/2022,0,0,0,England,ct7
+2087,Yorkshire and The Humber,28/12/2022,0,0,0,England,ct7
+2088,Yorkshire and The Humber,29/12/2022,0,0,0,England,ct7
+2089,Yorkshire and The Humber,30/12/2022,0,0,0,England,ct7
+2090,Yorkshire and The Humber,31/12/2022,0,0,0,England,ct7
+2091,Yorkshire and The Humber,01/01/2023,0,0,0,England,ct7
+2092,Yorkshire and The Humber,02/01/2023,0,0,0,England,ct7
+2093,Yorkshire and The Humber,03/01/2023,0,0,0,England,ct7
+2094,North East,16/11/2022,0,0,0,England,ct7
+2095,North East,17/11/2022,0,0,0,England,ct7
+2096,North East,18/11/2022,0,0,0,England,ct7
+2097,North East,19/11/2022,0,0,0,England,ct7
+2098,North East,20/11/2022,0,0,0,England,ct7
+2099,North East,21/11/2022,0,0,0,England,ct7
+2100,North East,22/11/2022,0,0,0,England,ct7
+2101,North East,23/11/2022,0,0,0,England,ct7
+2102,North East,24/11/2022,0,0,0,England,ct7
+2103,North East,25/11/2022,0,0,0,England,ct7
+2104,North East,26/11/2022,0,0,0,England,ct7
+2105,North East,27/11/2022,0,0,0,England,ct7
+2106,North East,28/11/2022,0,0,0,England,ct7
+2107,North East,29/11/2022,0,0,0,England,ct7
+2108,North East,30/11/2022,0,0,0,England,ct7
+2109,North East,01/12/2022,0,0,0,England,ct7
+2110,North East,02/12/2022,0,0,0,England,ct7
+2111,North East,03/12/2022,0,0,0,England,ct7
+2112,North East,04/12/2022,0,0,0,England,ct7
+2113,North East,05/12/2022,0,0,0,England,ct7
+2114,North East,06/12/2022,0,0,0,England,ct7
+2115,North East,07/12/2022,0,0,0,England,ct7
+2116,North East,08/12/2022,0,0,0,England,ct7
+2117,North East,09/12/2022,0,0,0,England,ct7
+2118,North East,10/12/2022,0,0,0,England,ct7
+2119,North East,11/12/2022,0,0,0,England,ct7
+2120,North East,12/12/2022,0,0,0,England,ct7
+2121,North East,13/12/2022,0,0,0,England,ct7
+2122,North East,14/12/2022,0,0,0,England,ct7
+2123,North East,15/12/2022,0,0,0,England,ct7
+2124,North East,16/12/2022,0,0,0,England,ct7
+2125,North East,17/12/2022,0,0,0,England,ct7
+2126,North East,18/12/2022,0,0,0,England,ct7
+2127,North East,19/12/2022,0,0,0,England,ct7
+2128,North East,20/12/2022,0,0,0,England,ct7
+2129,North East,21/12/2022,0,0,0,England,ct7
+2130,North East,22/12/2022,0,0,0,England,ct7
+2131,North East,23/12/2022,0,0,0,England,ct7
+2132,North East,24/12/2022,0,0,0,England,ct7
+2133,North East,25/12/2022,0,0,0,England,ct7
+2134,North East,26/12/2022,0,0,0,England,ct7
+2135,North East,27/12/2022,0,0,0,England,ct7
+2136,North East,28/12/2022,0,0,0,England,ct7
+2137,North East,29/12/2022,0,0,0,England,ct7
+2138,North East,30/12/2022,0,0,0,England,ct7
+2139,North East,31/12/2022,0,0,0,England,ct7
+2140,North East,01/01/2023,0,0,0,England,ct7
+2141,North East,02/01/2023,0,0,0,England,ct7
+2142,North East,03/01/2023,0,0,0,England,ct7
+2143,England,16/11/2022,0,0,0,England,ctnot4not7
+2144,England,17/11/2022,0,0,0,England,ctnot4not7
+2145,England,18/11/2022,0,0,0,England,ctnot4not7
+2146,England,19/11/2022,0,0,0,England,ctnot4not7
+2147,England,20/11/2022,0,0,0,England,ctnot4not7
+2148,England,21/11/2022,0,0,0,England,ctnot4not7
+2149,England,22/11/2022,0,0,0,England,ctnot4not7
+2150,England,23/11/2022,0,0,0,England,ctnot4not7
+2151,England,24/11/2022,0,0,0,England,ctnot4not7
+2152,England,25/11/2022,0,0,0,England,ctnot4not7
+2153,England,26/11/2022,0,0,0,England,ctnot4not7
+2154,England,27/11/2022,0,0,0,England,ctnot4not7
+2155,England,28/11/2022,0,0,0,England,ctnot4not7
+2156,England,29/11/2022,0,0,0,England,ctnot4not7
+2157,England,30/11/2022,0,0,0,England,ctnot4not7
+2158,England,01/12/2022,0,0,0,England,ctnot4not7
+2159,England,02/12/2022,0,0,0,England,ctnot4not7
+2160,England,03/12/2022,0,0,0,England,ctnot4not7
+2161,England,04/12/2022,0,0,0,England,ctnot4not7
+2162,England,05/12/2022,0,0,0,England,ctnot4not7
+2163,England,06/12/2022,0,0,0,England,ctnot4not7
+2164,England,07/12/2022,0,0,0,England,ctnot4not7
+2165,England,08/12/2022,0,0,0,England,ctnot4not7
+2166,England,09/12/2022,0,0,0,England,ctnot4not7
+2167,England,10/12/2022,0,0,0,England,ctnot4not7
+2168,England,11/12/2022,0,0,0,England,ctnot4not7
+2169,England,12/12/2022,0,0,0,England,ctnot4not7
+2170,England,13/12/2022,0,0,0,England,ctnot4not7
+2171,England,14/12/2022,0,0,0,England,ctnot4not7
+2172,England,15/12/2022,0,0,0,England,ctnot4not7
+2173,England,16/12/2022,0,0,0,England,ctnot4not7
+2174,England,17/12/2022,0,0,0,England,ctnot4not7
+2175,England,18/12/2022,0,0,0,England,ctnot4not7
+2176,England,19/12/2022,0,0,0,England,ctnot4not7
+2177,England,20/12/2022,0,0,0,England,ctnot4not7
+2178,England,21/12/2022,0,0,0,England,ctnot4not7
+2179,England,22/12/2022,0,0,0,England,ctnot4not7
+2180,England,23/12/2022,0,0,0,England,ctnot4not7
+2181,England,24/12/2022,0,0,0,England,ctnot4not7
+2182,England,25/12/2022,0,0,0,England,ctnot4not7
+2183,England,26/12/2022,0,0,0,England,ctnot4not7
+2184,England,27/12/2022,0,0,0,England,ctnot4not7
+2185,England,28/12/2022,0,0,0,England,ctnot4not7
+2186,England,29/12/2022,0,0,0,England,ctnot4not7
+2187,England,30/12/2022,0,0,0,England,ctnot4not7
+2188,England,31/12/2022,0,0,0,England,ctnot4not7
+2189,England,01/01/2023,0,0,0,England,ctnot4not7
+2190,England,02/01/2023,0,0,0,England,ctnot4not7
+2191,England,03/01/2023,0,0,0,England,ctnot4not7
+2192,London,16/11/2022,0,0,0,England,ctnot4not7
+2193,London,17/11/2022,0,0,0,England,ctnot4not7
+2194,London,18/11/2022,0,0,0,England,ctnot4not7
+2195,London,19/11/2022,0,0,0,England,ctnot4not7
+2196,London,20/11/2022,0,0,0,England,ctnot4not7
+2197,London,21/11/2022,0,0,0,England,ctnot4not7
+2198,London,22/11/2022,0,0,0,England,ctnot4not7
+2199,London,23/11/2022,0,0,0,England,ctnot4not7
+2200,London,24/11/2022,0,0,0,England,ctnot4not7
+2201,London,25/11/2022,0,0,0,England,ctnot4not7
+2202,London,26/11/2022,0,0,0,England,ctnot4not7
+2203,London,27/11/2022,0,0,0,England,ctnot4not7
+2204,London,28/11/2022,0,0,0,England,ctnot4not7
+2205,London,29/11/2022,0,0,0,England,ctnot4not7
+2206,London,30/11/2022,0,0,0,England,ctnot4not7
+2207,London,01/12/2022,0,0,0,England,ctnot4not7
+2208,London,02/12/2022,0,0,0,England,ctnot4not7
+2209,London,03/12/2022,0,0,0,England,ctnot4not7
+2210,London,04/12/2022,0,0,0,England,ctnot4not7
+2211,London,05/12/2022,0,0,0,England,ctnot4not7
+2212,London,06/12/2022,0,0,0,England,ctnot4not7
+2213,London,07/12/2022,0,0,0,England,ctnot4not7
+2214,London,08/12/2022,0,0,0,England,ctnot4not7
+2215,London,09/12/2022,0,0,0,England,ctnot4not7
+2216,London,10/12/2022,0,0,0,England,ctnot4not7
+2217,London,11/12/2022,0,0,0,England,ctnot4not7
+2218,London,12/12/2022,0,0,0,England,ctnot4not7
+2219,London,13/12/2022,0,0,0,England,ctnot4not7
+2220,London,14/12/2022,0,0,0,England,ctnot4not7
+2221,London,15/12/2022,0,0,0,England,ctnot4not7
+2222,London,16/12/2022,0,0,0,England,ctnot4not7
+2223,London,17/12/2022,0,0,0,England,ctnot4not7
+2224,London,18/12/2022,0,0,0,England,ctnot4not7
+2225,London,19/12/2022,0,0,0,England,ctnot4not7
+2226,London,20/12/2022,0,0,0,England,ctnot4not7
+2227,London,21/12/2022,0,0,0,England,ctnot4not7
+2228,London,22/12/2022,0,0,0,England,ctnot4not7
+2229,London,23/12/2022,0,0,0,England,ctnot4not7
+2230,London,24/12/2022,0,0,0,England,ctnot4not7
+2231,London,25/12/2022,0,0,0,England,ctnot4not7
+2232,London,26/12/2022,0,0,0,England,ctnot4not7
+2233,London,27/12/2022,0,0,0,England,ctnot4not7
+2234,London,28/12/2022,0,0,0,England,ctnot4not7
+2235,London,29/12/2022,0,0,0,England,ctnot4not7
+2236,London,30/12/2022,0,0,0,England,ctnot4not7
+2237,London,31/12/2022,0,0,0,England,ctnot4not7
+2238,London,01/01/2023,0,0,0,England,ctnot4not7
+2239,London,02/01/2023,0,0,0,England,ctnot4not7
+2240,London,03/01/2023,0,0,0,England,ctnot4not7
+2241,South East,16/11/2022,0,0,0,England,ctnot4not7
+2242,South East,17/11/2022,0,0,0,England,ctnot4not7
+2243,South East,18/11/2022,0,0,0,England,ctnot4not7
+2244,South East,19/11/2022,0,0,0,England,ctnot4not7
+2245,South East,20/11/2022,0,0,0,England,ctnot4not7
+2246,South East,21/11/2022,0,0,0,England,ctnot4not7
+2247,South East,22/11/2022,0,0,0,England,ctnot4not7
+2248,South East,23/11/2022,0,0,0,England,ctnot4not7
+2249,South East,24/11/2022,0,0,0,England,ctnot4not7
+2250,South East,25/11/2022,0,0,0,England,ctnot4not7
+2251,South East,26/11/2022,0,0,0,England,ctnot4not7
+2252,South East,27/11/2022,0,0,0,England,ctnot4not7
+2253,South East,28/11/2022,0,0,0,England,ctnot4not7
+2254,South East,29/11/2022,0,0,0,England,ctnot4not7
+2255,South East,30/11/2022,0,0,0,England,ctnot4not7
+2256,South East,01/12/2022,0,0,0,England,ctnot4not7
+2257,South East,02/12/2022,0,0,0,England,ctnot4not7
+2258,South East,03/12/2022,0,0,0,England,ctnot4not7
+2259,South East,04/12/2022,0,0,0,England,ctnot4not7
+2260,South East,05/12/2022,0,0,0,England,ctnot4not7
+2261,South East,06/12/2022,0,0,0,England,ctnot4not7
+2262,South East,07/12/2022,0,0,0,England,ctnot4not7
+2263,South East,08/12/2022,0,0,0,England,ctnot4not7
+2264,South East,09/12/2022,0,0,0,England,ctnot4not7
+2265,South East,10/12/2022,0,0,0,England,ctnot4not7
+2266,South East,11/12/2022,0,0,0,England,ctnot4not7
+2267,South East,12/12/2022,0,0,0,England,ctnot4not7
+2268,South East,13/12/2022,0,0,0,England,ctnot4not7
+2269,South East,14/12/2022,0,0,0,England,ctnot4not7
+2270,South East,15/12/2022,0,0,0,England,ctnot4not7
+2271,South East,16/12/2022,0,0,0,England,ctnot4not7
+2272,South East,17/12/2022,0,0,0,England,ctnot4not7
+2273,South East,18/12/2022,0,0,0,England,ctnot4not7
+2274,South East,19/12/2022,0,0,0,England,ctnot4not7
+2275,South East,20/12/2022,0,0,0,England,ctnot4not7
+2276,South East,21/12/2022,0,0,0,England,ctnot4not7
+2277,South East,22/12/2022,0,0,0,England,ctnot4not7
+2278,South East,23/12/2022,0,0,0,England,ctnot4not7
+2279,South East,24/12/2022,0,0,0,England,ctnot4not7
+2280,South East,25/12/2022,0,0,0,England,ctnot4not7
+2281,South East,26/12/2022,0,0,0,England,ctnot4not7
+2282,South East,27/12/2022,0,0,0,England,ctnot4not7
+2283,South East,28/12/2022,0,0,0,England,ctnot4not7
+2284,South East,29/12/2022,0,0,0,England,ctnot4not7
+2285,South East,30/12/2022,0,0,0,England,ctnot4not7
+2286,South East,31/12/2022,0,0,0,England,ctnot4not7
+2287,South East,01/01/2023,0,0,0,England,ctnot4not7
+2288,South East,02/01/2023,0,0,0,England,ctnot4not7
+2289,South East,03/01/2023,0,0,0,England,ctnot4not7
+2290,North West,16/11/2022,0,0,0,England,ctnot4not7
+2291,North West,17/11/2022,0,0,0,England,ctnot4not7
+2292,North West,18/11/2022,0,0,0,England,ctnot4not7
+2293,North West,19/11/2022,0,0,0,England,ctnot4not7
+2294,North West,20/11/2022,0,0,0,England,ctnot4not7
+2295,North West,21/11/2022,0,0,0,England,ctnot4not7
+2296,North West,22/11/2022,0,0,0,England,ctnot4not7
+2297,North West,23/11/2022,0,0,0,England,ctnot4not7
+2298,North West,24/11/2022,0,0,0,England,ctnot4not7
+2299,North West,25/11/2022,0,0,0,England,ctnot4not7
+2300,North West,26/11/2022,0,0,0,England,ctnot4not7
+2301,North West,27/11/2022,0,0,0,England,ctnot4not7
+2302,North West,28/11/2022,0,0,0,England,ctnot4not7
+2303,North West,29/11/2022,0,0,0,England,ctnot4not7
+2304,North West,30/11/2022,0,0,0,England,ctnot4not7
+2305,North West,01/12/2022,0,0,0,England,ctnot4not7
+2306,North West,02/12/2022,0,0,0,England,ctnot4not7
+2307,North West,03/12/2022,0,0,0,England,ctnot4not7
+2308,North West,04/12/2022,0,0,0,England,ctnot4not7
+2309,North West,05/12/2022,0,0,0,England,ctnot4not7
+2310,North West,06/12/2022,0,0,0,England,ctnot4not7
+2311,North West,07/12/2022,0,0,0,England,ctnot4not7
+2312,North West,08/12/2022,0,0,0,England,ctnot4not7
+2313,North West,09/12/2022,0,0,0,England,ctnot4not7
+2314,North West,10/12/2022,0,0,0,England,ctnot4not7
+2315,North West,11/12/2022,0,0,0,England,ctnot4not7
+2316,North West,12/12/2022,0,0,0,England,ctnot4not7
+2317,North West,13/12/2022,0,0,0,England,ctnot4not7
+2318,North West,14/12/2022,0,0,0,England,ctnot4not7
+2319,North West,15/12/2022,0,0,0,England,ctnot4not7
+2320,North West,16/12/2022,0,0,0,England,ctnot4not7
+2321,North West,17/12/2022,0,0,0,England,ctnot4not7
+2322,North West,18/12/2022,0,0,0,England,ctnot4not7
+2323,North West,19/12/2022,0,0,0,England,ctnot4not7
+2324,North West,20/12/2022,0,0,0,England,ctnot4not7
+2325,North West,21/12/2022,0,0,0,England,ctnot4not7
+2326,North West,22/12/2022,0,0,0,England,ctnot4not7
+2327,North West,23/12/2022,0,0,0,England,ctnot4not7
+2328,North West,24/12/2022,0,0,0,England,ctnot4not7
+2329,North West,25/12/2022,0,0,0,England,ctnot4not7
+2330,North West,26/12/2022,0,0,0,England,ctnot4not7
+2331,North West,27/12/2022,0,0,0,England,ctnot4not7
+2332,North West,28/12/2022,0,0,0,England,ctnot4not7
+2333,North West,29/12/2022,0,0,0,England,ctnot4not7
+2334,North West,30/12/2022,0,0,0,England,ctnot4not7
+2335,North West,31/12/2022,0,0,0,England,ctnot4not7
+2336,North West,01/01/2023,0,0,0,England,ctnot4not7
+2337,North West,02/01/2023,0,0,0,England,ctnot4not7
+2338,North West,03/01/2023,0,0,0,England,ctnot4not7
+2339,South West,16/11/2022,0,0,0,England,ctnot4not7
+2340,South West,17/11/2022,0,0,0,England,ctnot4not7
+2341,South West,18/11/2022,0,0,0,England,ctnot4not7
+2342,South West,19/11/2022,0,0,0,England,ctnot4not7
+2343,South West,20/11/2022,0,0,0,England,ctnot4not7
+2344,South West,21/11/2022,0,0,0,England,ctnot4not7
+2345,South West,22/11/2022,0,0,0,England,ctnot4not7
+2346,South West,23/11/2022,0,0,0,England,ctnot4not7
+2347,South West,24/11/2022,0,0,0,England,ctnot4not7
+2348,South West,25/11/2022,0,0,0,England,ctnot4not7
+2349,South West,26/11/2022,0,0,0,England,ctnot4not7
+2350,South West,27/11/2022,0,0,0,England,ctnot4not7
+2351,South West,28/11/2022,0,0,0,England,ctnot4not7
+2352,South West,29/11/2022,0,0,0,England,ctnot4not7
+2353,South West,30/11/2022,0,0,0,England,ctnot4not7
+2354,South West,01/12/2022,0,0,0,England,ctnot4not7
+2355,South West,02/12/2022,0,0,0,England,ctnot4not7
+2356,South West,03/12/2022,0,0,0,England,ctnot4not7
+2357,South West,04/12/2022,0,0,0,England,ctnot4not7
+2358,South West,05/12/2022,0,0,0,England,ctnot4not7
+2359,South West,06/12/2022,0,0,0,England,ctnot4not7
+2360,South West,07/12/2022,0,0,0,England,ctnot4not7
+2361,South West,08/12/2022,0,0,0,England,ctnot4not7
+2362,South West,09/12/2022,0,0,0,England,ctnot4not7
+2363,South West,10/12/2022,0,0,0,England,ctnot4not7
+2364,South West,11/12/2022,0,0,0,England,ctnot4not7
+2365,South West,12/12/2022,0,0,0,England,ctnot4not7
+2366,South West,13/12/2022,0,0,0,England,ctnot4not7
+2367,South West,14/12/2022,0,0,0,England,ctnot4not7
+2368,South West,15/12/2022,0,0,0,England,ctnot4not7
+2369,South West,16/12/2022,0,0,0,England,ctnot4not7
+2370,South West,17/12/2022,0,0,0,England,ctnot4not7
+2371,South West,18/12/2022,0,0,0,England,ctnot4not7
+2372,South West,19/12/2022,0,0,0,England,ctnot4not7
+2373,South West,20/12/2022,0,0,0,England,ctnot4not7
+2374,South West,21/12/2022,0,0,0,England,ctnot4not7
+2375,South West,22/12/2022,0,0,0,England,ctnot4not7
+2376,South West,23/12/2022,0,0,0,England,ctnot4not7
+2377,South West,24/12/2022,0,0,0,England,ctnot4not7
+2378,South West,25/12/2022,0,0,0,England,ctnot4not7
+2379,South West,26/12/2022,0,0,0,England,ctnot4not7
+2380,South West,27/12/2022,0,0,0,England,ctnot4not7
+2381,South West,28/12/2022,0,0,0,England,ctnot4not7
+2382,South West,29/12/2022,0,0,0,England,ctnot4not7
+2383,South West,30/12/2022,0,0,0,England,ctnot4not7
+2384,South West,31/12/2022,0,0,0,England,ctnot4not7
+2385,South West,01/01/2023,0,0,0,England,ctnot4not7
+2386,South West,02/01/2023,0,0,0,England,ctnot4not7
+2387,South West,03/01/2023,0,0,0,England,ctnot4not7
+2388,West Midlands,16/11/2022,0,0,0,England,ctnot4not7
+2389,West Midlands,17/11/2022,0,0,0,England,ctnot4not7
+2390,West Midlands,18/11/2022,0,0,0,England,ctnot4not7
+2391,West Midlands,19/11/2022,0,0,0,England,ctnot4not7
+2392,West Midlands,20/11/2022,0,0,0,England,ctnot4not7
+2393,West Midlands,21/11/2022,0,0,0,England,ctnot4not7
+2394,West Midlands,22/11/2022,0,0,0,England,ctnot4not7
+2395,West Midlands,23/11/2022,0,0,0,England,ctnot4not7
+2396,West Midlands,24/11/2022,0,0,0,England,ctnot4not7
+2397,West Midlands,25/11/2022,0,0,0,England,ctnot4not7
+2398,West Midlands,26/11/2022,0,0,0,England,ctnot4not7
+2399,West Midlands,27/11/2022,0,0,0,England,ctnot4not7
+2400,West Midlands,28/11/2022,0,0,0,England,ctnot4not7
+2401,West Midlands,29/11/2022,0,0,0,England,ctnot4not7
+2402,West Midlands,30/11/2022,0,0,0,England,ctnot4not7
+2403,West Midlands,01/12/2022,0,0,0,England,ctnot4not7
+2404,West Midlands,02/12/2022,0,0,0,England,ctnot4not7
+2405,West Midlands,03/12/2022,0,0,0,England,ctnot4not7
+2406,West Midlands,04/12/2022,0,0,0,England,ctnot4not7
+2407,West Midlands,05/12/2022,0,0,0,England,ctnot4not7
+2408,West Midlands,06/12/2022,0,0,0,England,ctnot4not7
+2409,West Midlands,07/12/2022,0,0,0,England,ctnot4not7
+2410,West Midlands,08/12/2022,0,0,0,England,ctnot4not7
+2411,West Midlands,09/12/2022,0,0,0,England,ctnot4not7
+2412,West Midlands,10/12/2022,0,0,0,England,ctnot4not7
+2413,West Midlands,11/12/2022,0,0,0,England,ctnot4not7
+2414,West Midlands,12/12/2022,0,0,0,England,ctnot4not7
+2415,West Midlands,13/12/2022,0,0,0,England,ctnot4not7
+2416,West Midlands,14/12/2022,0,0,0,England,ctnot4not7
+2417,West Midlands,15/12/2022,0,0,0,England,ctnot4not7
+2418,West Midlands,16/12/2022,0,0,0,England,ctnot4not7
+2419,West Midlands,17/12/2022,0,0,0,England,ctnot4not7
+2420,West Midlands,18/12/2022,0,0,0,England,ctnot4not7
+2421,West Midlands,19/12/2022,0,0,0,England,ctnot4not7
+2422,West Midlands,20/12/2022,0,0,0,England,ctnot4not7
+2423,West Midlands,21/12/2022,0,0,0,England,ctnot4not7
+2424,West Midlands,22/12/2022,0,0,0,England,ctnot4not7
+2425,West Midlands,23/12/2022,0,0,0,England,ctnot4not7
+2426,West Midlands,24/12/2022,0,0,0,England,ctnot4not7
+2427,West Midlands,25/12/2022,0,0,0,England,ctnot4not7
+2428,West Midlands,26/12/2022,0,0,0,England,ctnot4not7
+2429,West Midlands,27/12/2022,0,0,0,England,ctnot4not7
+2430,West Midlands,28/12/2022,0,0,0,England,ctnot4not7
+2431,West Midlands,29/12/2022,0,0,0,England,ctnot4not7
+2432,West Midlands,30/12/2022,0,0,0,England,ctnot4not7
+2433,West Midlands,31/12/2022,0,0,0,England,ctnot4not7
+2434,West Midlands,01/01/2023,0,0,0,England,ctnot4not7
+2435,West Midlands,02/01/2023,0,0,0,England,ctnot4not7
+2436,West Midlands,03/01/2023,0,0,0,England,ctnot4not7
+2437,East Midlands,16/11/2022,0,0,0,England,ctnot4not7
+2438,East Midlands,17/11/2022,0,0,0,England,ctnot4not7
+2439,East Midlands,18/11/2022,0,0,0,England,ctnot4not7
+2440,East Midlands,19/11/2022,0,0,0,England,ctnot4not7
+2441,East Midlands,20/11/2022,0,0,0,England,ctnot4not7
+2442,East Midlands,21/11/2022,0,0,0,England,ctnot4not7
+2443,East Midlands,22/11/2022,0,0,0,England,ctnot4not7
+2444,East Midlands,23/11/2022,0,0,0,England,ctnot4not7
+2445,East Midlands,24/11/2022,0,0,0,England,ctnot4not7
+2446,East Midlands,25/11/2022,0,0,0,England,ctnot4not7
+2447,East Midlands,26/11/2022,0,0,0,England,ctnot4not7
+2448,East Midlands,27/11/2022,0,0,0,England,ctnot4not7
+2449,East Midlands,28/11/2022,0,0,0,England,ctnot4not7
+2450,East Midlands,29/11/2022,0,0,0,England,ctnot4not7
+2451,East Midlands,30/11/2022,0,0,0,England,ctnot4not7
+2452,East Midlands,01/12/2022,0,0,0,England,ctnot4not7
+2453,East Midlands,02/12/2022,0,0,0,England,ctnot4not7
+2454,East Midlands,03/12/2022,0,0,0,England,ctnot4not7
+2455,East Midlands,04/12/2022,0,0,0,England,ctnot4not7
+2456,East Midlands,05/12/2022,0,0,0,England,ctnot4not7
+2457,East Midlands,06/12/2022,0,0,0,England,ctnot4not7
+2458,East Midlands,07/12/2022,0,0,0,England,ctnot4not7
+2459,East Midlands,08/12/2022,0,0,0,England,ctnot4not7
+2460,East Midlands,09/12/2022,0,0,0,England,ctnot4not7
+2461,East Midlands,10/12/2022,0,0,0,England,ctnot4not7
+2462,East Midlands,11/12/2022,0,0,0,England,ctnot4not7
+2463,East Midlands,12/12/2022,0,0,0,England,ctnot4not7
+2464,East Midlands,13/12/2022,0,0,0,England,ctnot4not7
+2465,East Midlands,14/12/2022,0,0,0,England,ctnot4not7
+2466,East Midlands,15/12/2022,0,0,0,England,ctnot4not7
+2467,East Midlands,16/12/2022,0,0,0,England,ctnot4not7
+2468,East Midlands,17/12/2022,0,0,0,England,ctnot4not7
+2469,East Midlands,18/12/2022,0,0,0,England,ctnot4not7
+2470,East Midlands,19/12/2022,0,0,0,England,ctnot4not7
+2471,East Midlands,20/12/2022,0,0,0,England,ctnot4not7
+2472,East Midlands,21/12/2022,0,0,0,England,ctnot4not7
+2473,East Midlands,22/12/2022,0,0,0,England,ctnot4not7
+2474,East Midlands,23/12/2022,0,0,0,England,ctnot4not7
+2475,East Midlands,24/12/2022,0,0,0,England,ctnot4not7
+2476,East Midlands,25/12/2022,0,0,0,England,ctnot4not7
+2477,East Midlands,26/12/2022,0,0,0,England,ctnot4not7
+2478,East Midlands,27/12/2022,0,0,0,England,ctnot4not7
+2479,East Midlands,28/12/2022,0,0,0,England,ctnot4not7
+2480,East Midlands,29/12/2022,0,0,0,England,ctnot4not7
+2481,East Midlands,30/12/2022,0,0,0,England,ctnot4not7
+2482,East Midlands,31/12/2022,0,0,0,England,ctnot4not7
+2483,East Midlands,01/01/2023,0,0,0,England,ctnot4not7
+2484,East Midlands,02/01/2023,0,0,0,England,ctnot4not7
+2485,East Midlands,03/01/2023,0,0,0,England,ctnot4not7
+2486,East of England,16/11/2022,0,0,0,England,ctnot4not7
+2487,East of England,17/11/2022,0,0,0,England,ctnot4not7
+2488,East of England,18/11/2022,0,0,0,England,ctnot4not7
+2489,East of England,19/11/2022,0,0,0,England,ctnot4not7
+2490,East of England,20/11/2022,0,0,0,England,ctnot4not7
+2491,East of England,21/11/2022,0,0,0,England,ctnot4not7
+2492,East of England,22/11/2022,0,0,0,England,ctnot4not7
+2493,East of England,23/11/2022,0,0,0,England,ctnot4not7
+2494,East of England,24/11/2022,0,0,0,England,ctnot4not7
+2495,East of England,25/11/2022,0,0,0,England,ctnot4not7
+2496,East of England,26/11/2022,0,0,0,England,ctnot4not7
+2497,East of England,27/11/2022,0,0,0,England,ctnot4not7
+2498,East of England,28/11/2022,0,0,0,England,ctnot4not7
+2499,East of England,29/11/2022,0,0,0,England,ctnot4not7
+2500,East of England,30/11/2022,0,0,0,England,ctnot4not7
+2501,East of England,01/12/2022,0,0,0,England,ctnot4not7
+2502,East of England,02/12/2022,0,0,0,England,ctnot4not7
+2503,East of England,03/12/2022,0,0,0,England,ctnot4not7
+2504,East of England,04/12/2022,0,0,0,England,ctnot4not7
+2505,East of England,05/12/2022,0,0,0,England,ctnot4not7
+2506,East of England,06/12/2022,0,0,0,England,ctnot4not7
+2507,East of England,07/12/2022,0,0,0,England,ctnot4not7
+2508,East of England,08/12/2022,0,0,0,England,ctnot4not7
+2509,East of England,09/12/2022,0,0,0,England,ctnot4not7
+2510,East of England,10/12/2022,0,0,0,England,ctnot4not7
+2511,East of England,11/12/2022,0,0,0,England,ctnot4not7
+2512,East of England,12/12/2022,0,0,0,England,ctnot4not7
+2513,East of England,13/12/2022,0,0,0,England,ctnot4not7
+2514,East of England,14/12/2022,0,0,0,England,ctnot4not7
+2515,East of England,15/12/2022,0,0,0,England,ctnot4not7
+2516,East of England,16/12/2022,0,0,0,England,ctnot4not7
+2517,East of England,17/12/2022,0,0,0,England,ctnot4not7
+2518,East of England,18/12/2022,0,0,0,England,ctnot4not7
+2519,East of England,19/12/2022,0,0,0,England,ctnot4not7
+2520,East of England,20/12/2022,0,0,0,England,ctnot4not7
+2521,East of England,21/12/2022,0,0,0,England,ctnot4not7
+2522,East of England,22/12/2022,0,0,0,England,ctnot4not7
+2523,East of England,23/12/2022,0,0,0,England,ctnot4not7
+2524,East of England,24/12/2022,0,0,0,England,ctnot4not7
+2525,East of England,25/12/2022,0,0,0,England,ctnot4not7
+2526,East of England,26/12/2022,0,0,0,England,ctnot4not7
+2527,East of England,27/12/2022,0,0,0,England,ctnot4not7
+2528,East of England,28/12/2022,0,0,0,England,ctnot4not7
+2529,East of England,29/12/2022,0,0,0,England,ctnot4not7
+2530,East of England,30/12/2022,0,0,0,England,ctnot4not7
+2531,East of England,31/12/2022,0,0,0,England,ctnot4not7
+2532,East of England,01/01/2023,0,0,0,England,ctnot4not7
+2533,East of England,02/01/2023,0,0,0,England,ctnot4not7
+2534,East of England,03/01/2023,0,0,0,England,ctnot4not7
+2535,Yorkshire and The Humber,16/11/2022,0,0,0,England,ctnot4not7
+2536,Yorkshire and The Humber,17/11/2022,0,0,0,England,ctnot4not7
+2537,Yorkshire and The Humber,18/11/2022,0,0,0,England,ctnot4not7
+2538,Yorkshire and The Humber,19/11/2022,0,0,0,England,ctnot4not7
+2539,Yorkshire and The Humber,20/11/2022,0,0,0,England,ctnot4not7
+2540,Yorkshire and The Humber,21/11/2022,0,0,0,England,ctnot4not7
+2541,Yorkshire and The Humber,22/11/2022,0,0,0,England,ctnot4not7
+2542,Yorkshire and The Humber,23/11/2022,0,0,0,England,ctnot4not7
+2543,Yorkshire and The Humber,24/11/2022,0,0,0,England,ctnot4not7
+2544,Yorkshire and The Humber,25/11/2022,0,0,0,England,ctnot4not7
+2545,Yorkshire and The Humber,26/11/2022,0,0,0,England,ctnot4not7
+2546,Yorkshire and The Humber,27/11/2022,0,0,0,England,ctnot4not7
+2547,Yorkshire and The Humber,28/11/2022,0,0,0,England,ctnot4not7
+2548,Yorkshire and The Humber,29/11/2022,0,0,0,England,ctnot4not7
+2549,Yorkshire and The Humber,30/11/2022,0,0,0,England,ctnot4not7
+2550,Yorkshire and The Humber,01/12/2022,0,0,0,England,ctnot4not7
+2551,Yorkshire and The Humber,02/12/2022,0,0,0,England,ctnot4not7
+2552,Yorkshire and The Humber,03/12/2022,0,0,0,England,ctnot4not7
+2553,Yorkshire and The Humber,04/12/2022,0,0,0,England,ctnot4not7
+2554,Yorkshire and The Humber,05/12/2022,0,0,0,England,ctnot4not7
+2555,Yorkshire and The Humber,06/12/2022,0,0,0,England,ctnot4not7
+2556,Yorkshire and The Humber,07/12/2022,0,0,0,England,ctnot4not7
+2557,Yorkshire and The Humber,08/12/2022,0,0,0,England,ctnot4not7
+2558,Yorkshire and The Humber,09/12/2022,0,0,0,England,ctnot4not7
+2559,Yorkshire and The Humber,10/12/2022,0,0,0,England,ctnot4not7
+2560,Yorkshire and The Humber,11/12/2022,0,0,0,England,ctnot4not7
+2561,Yorkshire and The Humber,12/12/2022,0,0,0,England,ctnot4not7
+2562,Yorkshire and The Humber,13/12/2022,0,0,0,England,ctnot4not7
+2563,Yorkshire and The Humber,14/12/2022,0,0,0,England,ctnot4not7
+2564,Yorkshire and The Humber,15/12/2022,0,0,0,England,ctnot4not7
+2565,Yorkshire and The Humber,16/12/2022,0,0,0,England,ctnot4not7
+2566,Yorkshire and The Humber,17/12/2022,0,0,0,England,ctnot4not7
+2567,Yorkshire and The Humber,18/12/2022,0,0,0,England,ctnot4not7
+2568,Yorkshire and The Humber,19/12/2022,0,0,0,England,ctnot4not7
+2569,Yorkshire and The Humber,20/12/2022,0,0,0,England,ctnot4not7
+2570,Yorkshire and The Humber,21/12/2022,0,0,0,England,ctnot4not7
+2571,Yorkshire and The Humber,22/12/2022,0,0,0,England,ctnot4not7
+2572,Yorkshire and The Humber,23/12/2022,0,0,0,England,ctnot4not7
+2573,Yorkshire and The Humber,24/12/2022,0,0,0,England,ctnot4not7
+2574,Yorkshire and The Humber,25/12/2022,0,0,0,England,ctnot4not7
+2575,Yorkshire and The Humber,26/12/2022,0,0,0,England,ctnot4not7
+2576,Yorkshire and The Humber,27/12/2022,0,0,0,England,ctnot4not7
+2577,Yorkshire and The Humber,28/12/2022,0,0,0,England,ctnot4not7
+2578,Yorkshire and The Humber,29/12/2022,0,0,0,England,ctnot4not7
+2579,Yorkshire and The Humber,30/12/2022,0,0,0,England,ctnot4not7
+2580,Yorkshire and The Humber,31/12/2022,0,0,0,England,ctnot4not7
+2581,Yorkshire and The Humber,01/01/2023,0,0,0,England,ctnot4not7
+2582,Yorkshire and The Humber,02/01/2023,0,0,0,England,ctnot4not7
+2583,Yorkshire and The Humber,03/01/2023,0,0,0,England,ctnot4not7
+2584,North East,16/11/2022,0,0,0,England,ctnot4not7
+2585,North East,17/11/2022,0,0,0,England,ctnot4not7
+2586,North East,18/11/2022,0,0,0,England,ctnot4not7
+2587,North East,19/11/2022,0,0,0,England,ctnot4not7
+2588,North East,20/11/2022,0,0,0,England,ctnot4not7
+2589,North East,21/11/2022,0,0,0,England,ctnot4not7
+2590,North East,22/11/2022,0,0,0,England,ctnot4not7
+2591,North East,23/11/2022,0,0,0,England,ctnot4not7
+2592,North East,24/11/2022,0,0,0,England,ctnot4not7
+2593,North East,25/11/2022,0,0,0,England,ctnot4not7
+2594,North East,26/11/2022,0,0,0,England,ctnot4not7
+2595,North East,27/11/2022,0,0,0,England,ctnot4not7
+2596,North East,28/11/2022,0,0,0,England,ctnot4not7
+2597,North East,29/11/2022,0,0,0,England,ctnot4not7
+2598,North East,30/11/2022,0,0,0,England,ctnot4not7
+2599,North East,01/12/2022,0,0,0,England,ctnot4not7
+2600,North East,02/12/2022,0,0,0,England,ctnot4not7
+2601,North East,03/12/2022,0,0,0,England,ctnot4not7
+2602,North East,04/12/2022,0,0,0,England,ctnot4not7
+2603,North East,05/12/2022,0,0,0,England,ctnot4not7
+2604,North East,06/12/2022,0,0,0,England,ctnot4not7
+2605,North East,07/12/2022,0,0,0,England,ctnot4not7
+2606,North East,08/12/2022,0,0,0,England,ctnot4not7
+2607,North East,09/12/2022,0,0,0,England,ctnot4not7
+2608,North East,10/12/2022,0,0,0,England,ctnot4not7
+2609,North East,11/12/2022,0,0,0,England,ctnot4not7
+2610,North East,12/12/2022,0,0,0,England,ctnot4not7
+2611,North East,13/12/2022,0,0,0,England,ctnot4not7
+2612,North East,14/12/2022,0,0,0,England,ctnot4not7
+2613,North East,15/12/2022,0,0,0,England,ctnot4not7
+2614,North East,16/12/2022,0,0,0,England,ctnot4not7
+2615,North East,17/12/2022,0,0,0,England,ctnot4not7
+2616,North East,18/12/2022,0,0,0,England,ctnot4not7
+2617,North East,19/12/2022,0,0,0,England,ctnot4not7
+2618,North East,20/12/2022,0,0,0,England,ctnot4not7
+2619,North East,21/12/2022,0,0,0,England,ctnot4not7
+2620,North East,22/12/2022,0,0,0,England,ctnot4not7
+2621,North East,23/12/2022,0,0,0,England,ctnot4not7
+2622,North East,24/12/2022,0,0,0,England,ctnot4not7
+2623,North East,25/12/2022,0,0,0,England,ctnot4not7
+2624,North East,26/12/2022,0,0,0,England,ctnot4not7
+2625,North East,27/12/2022,0,0,0,England,ctnot4not7
+2626,North East,28/12/2022,0,0,0,England,ctnot4not7
+2627,North East,29/12/2022,0,0,0,England,ctnot4not7
+2628,North East,30/12/2022,0,0,0,England,ctnot4not7
+2629,North East,31/12/2022,0,0,0,England,ctnot4not7
+2630,North East,01/01/2023,0,0,0,England,ctnot4not7
+2631,North East,02/01/2023,0,0,0,England,ctnot4not7
+2632,North East,03/01/2023,0,0,0,England,ctnot4not7

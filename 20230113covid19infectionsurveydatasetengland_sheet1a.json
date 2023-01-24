@@ -20,8 +20,10 @@
         "health"
     ],
     "columns": {
-        "week": {
-            "from_template": "week"
+        "period": {
+            "label": "Period",
+            "cell_uri_template": "http://reference.data.gov.uk/id/gregorian-interval/{+period}",
+            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refPeriod"
         },
         "ons_geog_code": {
             "type": "dimension",

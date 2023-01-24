@@ -23,7 +23,7 @@
             "name": "parent_uri_identifier",
             "required": false,
             "propertyUrl": "skos:broader",
-            "valueUrl": "week.csv#{+parent_uri_identifier}"
+            "valueUrl": "period.csv#{+parent_uri_identifier}"
         },
         {
             "titles": "Sort Priority",
@@ -50,7 +50,7 @@
             "name": "virt_inScheme",
             "required": true,
             "propertyUrl": "skos:inScheme",
-            "valueUrl": "week.csv#code-list"
+            "valueUrl": "period.csv#code-list"
         },
         {
             "virtual": true,
@@ -60,6 +60,6 @@
             "valueUrl": "skos:Concept"
         }
     ],
-    "aboutUrl": "week.csv#{+uri_identifier}",
+    "aboutUrl": "period.csv#{+uri_identifier}",
     "primaryKey": "uri_identifier"
 }
