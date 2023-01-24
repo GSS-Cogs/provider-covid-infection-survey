@@ -25,7 +25,7 @@ def wrangle(input_path: Path(), output_path: Path()):
     df["start_date"] = pd.to_datetime(df["start_date"])
     df["end_date"] = pd.to_datetime(df["end_date"])
 
-    # Calculate period length
+    # Calculate period length iso8601 interval format of start/end date
     df["period"] = df["start_date"].dt.strftime("%Y-%m-%d").str.cat(df["end_date"].dt.strftime("%Y-%m-%d"), sep="/")
 
     logger.info("Rename observation columns")

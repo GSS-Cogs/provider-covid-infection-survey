@@ -393,177 +393,54 @@
     ],
     "rdfs:seeAlso": [
         {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period",
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/unit",
             "@type": [
-                "http://purl.org/linked-data/cube#CodedProperty",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#DimensionProperty"
-            ],
-            "http://purl.org/linked-data/cube#codeList": [
-                {
-                    "@id": "period.csv#code-list"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
-                {
-                    "@language": "en",
-                    "@value": "Period"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#class/period"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
-                {
-                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refPeriod"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-upper-confidence/credible-interval-for-percentage",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
                 "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#attribute": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                }
             ],
             "http://purl.org/linked-data/cube#componentProperty": [
                 {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-percentage"
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
                 }
             ],
-            "http://purl.org/linked-data/cube#measure": [
+            "http://purl.org/linked-data/cube#componentRequired": [
                 {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-percentage"
+                    "@value": true
                 }
             ],
             "http://purl.org/linked-data/cube#order": [
                 {
-                    "@value": 11
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-of-the-population-testing-positive-for-covid-19",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#MeasureProperty"
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
+                    "@value": 7
+                },
                 {
-                    "@language": "en",
-                    "@value": "Estimated average % of the population testing positive for COVID-19"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
+                    "@value": 19
+                },
                 {
-                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-number-of-people-testing-positive-for-covid-19",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#MeasureProperty"
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
+                    "@value": 4
+                },
                 {
-                    "@language": "en",
-                    "@value": "Estimated average number of people testing positive for COVID-19"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
+                    "@value": 10
+                },
                 {
-                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography",
-            "@type": [
-                "http://purl.org/linked-data/cube#CodedProperty",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#DimensionProperty"
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
+                    "@value": 13
+                },
                 {
-                    "@language": "en",
-                    "@value": "Geography"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#class/geography"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
-                {
-                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/period",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period"
-                }
-            ],
-            "http://purl.org/linked-data/cube#dimension": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 1
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/estimated-average-number-of-people-testing-positive-for-covid-19",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-number-of-people-testing-positive-for-covid-19"
-                }
-            ],
-            "http://purl.org/linked-data/cube#measure": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-number-of-people-testing-positive-for-covid-19"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 14
+                    "@value": 16
                 }
             ]
         },
         {
             "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/estimated-average-of-the-population-testing-positive-for-covid-19",
             "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
                 "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
             ],
             "http://purl.org/linked-data/cube#componentProperty": [
                 {
@@ -578,114 +455,6 @@
             "http://purl.org/linked-data/cube#order": [
                 {
                     "@value": 5
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#class/period",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.w3.org/2000/01/rdf-schema#Class"
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#csvcubed-build-activity",
-            "@type": [
-                "http://www.w3.org/ns/prov#Activity",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
-            ],
-            "http://www.w3.org/ns/prov#used": [
-                {
-                    "@id": "https://github.com/GSS-Cogs/csvcubed/releases/tag/v0.2.0"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-lower-confidence/credible-interval-for-percentage",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-percentage"
-                }
-            ],
-            "http://purl.org/linked-data/cube#measure": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-percentage"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 8
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/geography",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography"
-                }
-            ],
-            "http://purl.org/linked-data/cube#dimension": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 2
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-percentage",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#MeasureProperty"
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
-                {
-                    "@language": "en",
-                    "@value": "95% Lower confidence/credible interval for percentage"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
-                {
-                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-upper-confidence/credible-interval-for-number",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-number"
-                }
-            ],
-            "http://purl.org/linked-data/cube#measure": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-number"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 20
                 }
             ]
         },
@@ -710,211 +479,59 @@
             ]
         },
         {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#slice/cross-measures",
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography",
             "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#SliceKey"
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#CodedProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
             ],
-            "http://purl.org/linked-data/cube#componentProperty": [
+            "http://www.w3.org/2000/01/rdf-schema#label": [
                 {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography"
-                },
+                    "@language": "en",
+                    "@value": "Geography"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
                 {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period"
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#class/geography"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
                 }
             ]
         },
         {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#structure",
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-lower-confidence/credible-interval-for-percentage",
             "@type": [
-                "http://purl.org/linked-data/cube#DataStructureDefinition",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet"
-            ],
-            "http://purl.org/linked-data/cube#component": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/geography"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-lower-confidence/credible-interval-for-percentage"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-lower-confidence/credible-interval-for-number"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/unit"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/measure-type"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/period"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-upper-confidence/credible-interval-for-number"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/estimated-average-of-the-population-testing-positive-for-covid-19"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/estimated-average-number-of-people-testing-positive-for-covid-19"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-upper-confidence/credible-interval-for-percentage"
-                }
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
             ],
             "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "http://purl.org/linked-data/cube#measureType"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-percentage"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-number"
-                },
-                {
-                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-number-of-people-testing-positive-for-covid-19"
-                },
                 {
                     "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-percentage"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-number"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-of-the-population-testing-positive-for-covid-19"
-                },
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period"
-                }
-            ],
-            "http://purl.org/linked-data/cube#sliceKey": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#slice/cross-measures"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-lower-confidence/credible-interval-for-number",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-number"
                 }
             ],
             "http://purl.org/linked-data/cube#measure": [
                 {
-                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-number"
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-percentage"
                 }
             ],
             "http://purl.org/linked-data/cube#order": [
                 {
-                    "@value": 17
+                    "@value": 8
                 }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-percentage",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#MeasureProperty"
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
-                {
-                    "@language": "en",
-                    "@value": "95% Upper confidence/credible interval for percentage"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
-                {
-                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/measure-type",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "http://purl.org/linked-data/cube#measureType"
-                }
-            ],
-            "http://purl.org/linked-data/cube#dimension": [
-                {
-                    "@id": "http://purl.org/linked-data/cube#measureType"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 18
-                },
-                {
-                    "@value": 3
-                },
-                {
-                    "@value": 12
-                },
-                {
-                    "@value": 6
-                },
-                {
-                    "@value": 15
-                },
-                {
-                    "@value": 9
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-number",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#MeasureProperty"
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
-                {
-                    "@language": "en",
-                    "@value": "95% Upper confidence/credible interval for number"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
-                {
-                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
-                }
-            ]
-        },
-        {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#class/geography",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.w3.org/2000/01/rdf-schema#Class"
             ]
         },
         {
             "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dataset",
             "@type": [
-                "http://www.w3.org/ns/dcat#Dataset",
                 "http://purl.org/linked-data/cube#DataSet",
+                "http://www.w3.org/ns/dcat#Dataset",
                 "http://www.w3.org/ns/dcat#Resource",
                 "http://purl.org/linked-data/cube#Attachable",
                 "http://www.w3.org/2000/01/rdf-schema#Resource"
@@ -987,7 +604,15 @@
                 },
                 {
                     "@language": "en",
-                    "@value": "output"
+                    "@value": "covid"
+                },
+                {
+                    "@language": "en",
+                    "@value": "coronavirus"
+                },
+                {
+                    "@language": "en",
+                    "@value": "covid-19"
                 },
                 {
                     "@language": "en",
@@ -999,15 +624,7 @@
                 },
                 {
                     "@language": "en",
-                    "@value": "coronavirus"
-                },
-                {
-                    "@language": "en",
-                    "@value": "covid"
-                },
-                {
-                    "@language": "en",
-                    "@value": "covid-19"
+                    "@value": "output"
                 }
             ],
             "http://www.w3.org/ns/dcat#theme": [
@@ -1022,45 +639,428 @@
             ]
         },
         {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/unit",
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#class/period",
             "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-percentage",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
                 "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#MeasureProperty"
             ],
-            "http://purl.org/linked-data/cube#attribute": [
+            "http://www.w3.org/2000/01/rdf-schema#label": [
                 {
-                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                    "@language": "en",
+                    "@value": "95% Lower confidence/credible interval for percentage"
                 }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period",
+            "@type": [
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#CodedProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#codeList": [
+                {
+                    "@id": "period.csv#code-list"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Period"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#class/period"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refPeriod"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/estimated-average-number-of-people-testing-positive-for-covid-19",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
             ],
             "http://purl.org/linked-data/cube#componentProperty": [
                 {
-                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-number-of-people-testing-positive-for-covid-19"
                 }
             ],
-            "http://purl.org/linked-data/cube#componentRequired": [
+            "http://purl.org/linked-data/cube#measure": [
                 {
-                    "@value": true
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-number-of-people-testing-positive-for-covid-19"
                 }
             ],
             "http://purl.org/linked-data/cube#order": [
                 {
-                    "@value": 16
+                    "@value": 14
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-lower-confidence/credible-interval-for-number",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-number"
+                }
+            ],
+            "http://purl.org/linked-data/cube#measure": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-number"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 17
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#slice/cross-measures",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#SliceKey"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography"
                 },
                 {
-                    "@value": 10
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-upper-confidence/credible-interval-for-percentage",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-percentage"
+                }
+            ],
+            "http://purl.org/linked-data/cube#measure": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-percentage"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 11
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#csvcubed-build-activity",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/ns/prov#Activity"
+            ],
+            "http://www.w3.org/ns/prov#used": [
+                {
+                    "@id": "https://github.com/GSS-Cogs/csvcubed/releases/tag/v0.2.0"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-number-of-people-testing-positive-for-covid-19",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#MeasureProperty"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Estimated average number of people testing positive for COVID-19"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-upper-confidence/credible-interval-for-number",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-number"
+                }
+            ],
+            "http://purl.org/linked-data/cube#measure": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-number"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 20
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-percentage",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#MeasureProperty"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "95% Upper confidence/credible interval for percentage"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-number",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#MeasureProperty"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "95% Upper confidence/credible interval for number"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/measure-type",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 6
                 },
                 {
-                    "@value": 13
+                    "@value": 12
                 },
                 {
-                    "@value": 7
+                    "@value": 3
                 },
                 {
-                    "@value": 19
+                    "@value": 9
                 },
                 {
-                    "@value": 4
+                    "@value": 15
+                },
+                {
+                    "@value": 18
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-of-the-population-testing-positive-for-covid-19",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#MeasureProperty"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Estimated average % of the population testing positive for COVID-19"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "http://www.w3.org/2001/XMLSchema#decimal"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/geography",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 2
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#class/geography",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/period",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 1
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#structure",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#DataStructureDefinition",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#component": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/unit"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/measure-type"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-upper-confidence/credible-interval-for-percentage"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-lower-confidence/credible-interval-for-percentage"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/period"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/geography"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/estimated-average-of-the-population-testing-positive-for-covid-19"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/estimated-average-number-of-people-testing-positive-for-covid-19"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-lower-confidence/credible-interval-for-number"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#component/95-upper-confidence/credible-interval-for-number"
+                }
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                },
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-percentage"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-number"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/geography"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-number-of-people-testing-positive-for-covid-19"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-lower-confidence/credible-interval-for-number"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#dimension/period"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/estimated-average-of-the-population-testing-positive-for-covid-19"
+                },
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#measure/95-upper-confidence/credible-interval-for-percentage"
+                }
+            ],
+            "http://purl.org/linked-data/cube#sliceKey": [
+                {
+                    "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#slice/cross-measures"
                 }
             ]
         },
@@ -1082,46 +1082,11 @@
             ]
         },
         {
-            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#unit/percentage",
-            "@type": [
-                "http://qudt.org/schema/qudt/Unit",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.ontology-of-units-of-measure.org/resource/om-2/Unit"
-            ],
-            "http://qudt.org/schema/qudt/isScalingOf": [
-                {
-                    "@id": "http://qudt.org/vocab/unit/PERCENT"
-                }
-            ],
-            "http://www.ontology-of-units-of-measure.org/resource/om-2/hasFactor": [
-                {
-                    "@type": "http://www.w3.org/2001/XMLSchema#float",
-                    "@value": "1.0"
-                }
-            ],
-            "http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit": [
-                {
-                    "@id": "http://qudt.org/vocab/unit/PERCENT"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
-                {
-                    "@id": "http://qudt.org/vocab/unit/PERCENT"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
-                {
-                    "@language": "en",
-                    "@value": "Percentage"
-                }
-            ]
-        },
-        {
             "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#unit/number",
             "@type": [
-                "http://qudt.org/schema/qudt/Unit",
                 "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://www.ontology-of-units-of-measure.org/resource/om-2/Unit"
+                "http://www.ontology-of-units-of-measure.org/resource/om-2/Unit",
+                "http://qudt.org/schema/qudt/Unit"
             ],
             "http://qudt.org/schema/qudt/isScalingOf": [
                 {
@@ -1148,6 +1113,41 @@
                 {
                     "@language": "en",
                     "@value": "Number"
+                }
+            ]
+        },
+        {
+            "@id": "official-reported-estimates-of-the-percentage-of-the-population-testing-positive-for-covid-19-england.csv#unit/percentage",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.ontology-of-units-of-measure.org/resource/om-2/Unit",
+                "http://qudt.org/schema/qudt/Unit"
+            ],
+            "http://qudt.org/schema/qudt/isScalingOf": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/PERCENT"
+                }
+            ],
+            "http://www.ontology-of-units-of-measure.org/resource/om-2/hasFactor": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#float",
+                    "@value": "1.0"
+                }
+            ],
+            "http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/PERCENT"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/PERCENT"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Percentage"
                 }
             ]
         }
